@@ -8,10 +8,6 @@
 <img src="https://github.com/howard-haowen/Archilife-NLP/blob/gh-pages/CH_all_words_text_classes.png?raw=true"/>
 
 ---
-<!--- [Project 2 Title](/pdf/sample_presentation.pdf)--->
-<!--- <img src="images/dummy_thumbnail.jpg?raw=true"/>--->
-
----
 
 ### Data query
 
