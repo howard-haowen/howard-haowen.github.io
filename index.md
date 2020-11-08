@@ -16,8 +16,7 @@
 ### Data query
 
 [Dataset of Formosan-Mandarin sentence pairs](https://github.com/howard-haowen/Formosan-languages)
-<img src="https://github.com/howard-haowen/Formosan-languages/blob/main/sample_dataframe.png"?raw=true"/>
-
+<img src="https://github.com/howard-haowen/Formosan-languages/blob/main/sample_dataframe.png?raw=true"/>
 ---
 
 
