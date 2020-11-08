@@ -1,7 +1,10 @@
-## Portfolio
+# Portfolio
 
 ---
+## About me
+I got a PhD of linguistics from [Rice University](https://en.wikipedia.org/wiki/Rice_University) and spent most my early career in academia working on indigenous languages of Taiwan, all of them related to languages such as Tagalog and Malay/Indonesian. Then along came COVID-19, which interrupted most people's lives, including mine. Somehow I became a machine learning engineer, working on Natural Language Processing (NLP) and other AI-related stuff. In the profile picture is my pet dog, who was waiting for a machine learning model to converge. She is the best dog ever!   
 
+## My projects
 ### Visualization 
 
 [Visualization of basic NLP tasks](https://github.com/howard-haowen/Archilife-NLP)
@@ -12,8 +15,6 @@
 
 [Dataset of Formosan-Mandarin sentence pairs](https://github.com/howard-haowen/Formosan-languages)
 <img src="https://github.com/howard-haowen/Formosan-languages/blob/main/sample_dataframe.png?raw=true"/>
-
-
 
 
 ---
