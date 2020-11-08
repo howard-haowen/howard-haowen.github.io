@@ -2,7 +2,7 @@
 
 ---
 ## About me
-I got a PhD of linguistics from [Rice University](https://en.wikipedia.org/wiki/Rice_University) and spent most my early career in academia working on indigenous languages of Taiwan, all of them related to languages such as Tagalog and Malay/Indonesian. Then along came COVID-19, which disrupted most people's lives, including mine. Somehow I became a machine learning engineer, working on Natural Language Processing (NLP) and other AI-related stuff. In the profile picture is my pet dog Nainai. She's waiting for a machine learning model to converge. She is the best dog ever!   
+I got a PhD of linguistics from [Rice University](https://en.wikipedia.org/wiki/Rice_University) and spent most of my early career in academia working on indigenous languages of Taiwan, all of them related to languages such as Tagalog and Malay/Indonesian. Then along came COVID-19, which disrupted most people's lives, including mine. Somehow I became a machine learning engineer, working on Natural Language Processing (NLP) and other AI-related stuff. In the profile picture is my pet dog Nainai, the best dog ever! She's waiting patiently for a machine learning model to converge.
 
 ## My projects
 ### Visualization 
