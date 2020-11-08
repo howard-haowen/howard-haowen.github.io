@@ -7,13 +7,11 @@
 [Visualization of basic NLP tasks](https://github.com/howard-haowen/Archilife-NLP)
 <img src="https://github.com/howard-haowen/Archilife-NLP/blob/gh-pages/CH_all_words_text_classes.png?raw=true"/>
 
----
 
 ### Data query
 
 [Dataset of Formosan-Mandarin sentence pairs](https://github.com/howard-haowen/Formosan-languages)
 <img src="https://github.com/howard-haowen/Formosan-languages/blob/main/sample_dataframe.png?raw=true"/>
----
 
 
 
