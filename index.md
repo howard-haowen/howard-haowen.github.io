@@ -2,28 +2,21 @@
 
 ---
 
-### Category Name 1 
+### Visualization 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Visualization of basic NLP tasks](https://github.com/howard-haowen/Archilife-NLP)
+<img src="https://github.com/howard-haowen/Archilife-NLP/blob/gh-pages/CH_all_words_text_classes.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<!--- [Project 2 Title](/pdf/sample_presentation.pdf)--->
+<!--- <img src="images/dummy_thumbnail.jpg?raw=true"/>--->
 
 ---
 
-### Category Name 2
+### Data query
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Dataset of Formosan-Mandarin sentence pairs](https://github.com/howard-haowen/Formosan-languages)
+<img src="https://github.com/howard-haowen/Formosan-languages/blob/main/sample_dataframe.png"/>
 
 ---
 
