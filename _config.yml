@@ -9,5 +9,5 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.linkedin.com/in/haowen-jiang-phd-16242074/">View My LinkedIn Profile</a> 
   
 # theme: jekyll-theme-minimal
-remote_theme: abelcheung/beautiful-jekyll
+remote_theme: mmistakes/minimal-mistakes
 # google_analytics: UA-000000-0 # your Google Analytics tracking ID here
