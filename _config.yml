@@ -7,7 +7,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   Machine Learning and NLP engineer
   <br><br>
   <a href="https://www.linkedin.com/in/haowen-jiang-phd-16242074/">View My LinkedIn Profile</a> 
-  
+
+theme: jekyll-theme-modernist
 # theme: jekyll-theme-minimal
-remote_theme: opengitdocs/jekyll
+# remote_theme: opengitdocs/jekyll
 # google_analytics: UA-000000-0 # your Google Analytics tracking ID here
