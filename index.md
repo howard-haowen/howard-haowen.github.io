@@ -1,17 +1,16 @@
 # Portfolio
+---
+- [About me](#about-me)
+- [My projects](#my-projects)
+  - [visualization](#visualization)
+  - [data query](#data-query)
 
 ---
-- [About me](##About-me)
-- [My projects](##My-projects)
-  - [visualization](###Visualization)
-  - [data query](###Data-query)
-
----
-
 ## About me
 I got a PhD of linguistics from [Rice University](https://en.wikipedia.org/wiki/Rice_University) and spent most of my early career in academia doing *theoretical* research on indigenous languages of Taiwan, all of them related to languages such as Tagalog and Malay/Indonesian. Then along came COVID-19, which disrupted most people's lives, including mine. Somehow I became a machine learning engineer, working on Natural Language Processing (NLP) and other AI-related *applicational* stuff. In the profile picture is my pet dog Nainai. 
 She's the best dog ever! Check out how she's waiting patiently for a machine learning model to converge.
 
+---
 ## My projects
 ### Visualization 
 
