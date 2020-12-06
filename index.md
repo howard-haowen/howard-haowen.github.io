@@ -21,7 +21,7 @@ She's the best dog ever! Check out how she's waiting patiently for a machine lea
 ### Data query
 
 [Dataset of Formosan-Mandarin sentence pairs](https://github.com/howard-haowen/Formosan-languages)
-<img src="https://github.com/howard-haowen/Formosan-languages/blob/main/sample_dataframe.png?raw=true"/>
+![data_sample](https://github.com/howard-haowen/Formosan-languages/sample-dataframe.png)
 
 
 [Back to top](#)
