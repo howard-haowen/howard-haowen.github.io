@@ -3,7 +3,7 @@
 - [About me](#about-me)
 - [My projects](#my-projects)
   - [visualization](#visualization)
-  - [data query](#data-query)
+  - [database](#database)
 
 ---
 ## About me
@@ -18,7 +18,7 @@ She's the best dog ever! Check out how she's waiting patiently for a machine lea
 <img src="https://github.com/howard-haowen/Archilife-NLP/blob/gh-pages/CH_all_words_text_classes.png?raw=true"/>
 
 
-### Data query
+### Database
 
 [Dataset of Formosan-Mandarin sentence pairs](https://github.com/howard-haowen/Formosan-languages)
 ![data_sample](https://github.com/howard-haowen/Formosan-languages/blob/main/sample-dataframe.png?raw=true)
