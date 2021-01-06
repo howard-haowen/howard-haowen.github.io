@@ -14,13 +14,13 @@ She's the best dog ever! Check out how she's waiting patiently for a machine lea
 ## My projects
 ### Visualization 
 
-[Visualization of basic NLP tasks](https://github.com/howard-haowen/Archilife-NLP)
+[Visualization of various NLP tasks: classification, clustering, and summarization](https://github.com/howard-haowen/Archilife-NLP)
 <img src="https://github.com/howard-haowen/Archilife-NLP/blob/gh-pages/CH_all_words_text_classes.png?raw=true"/>
 
 
 ### Database
 
-[Dataset of Formosan-Mandarin sentence pairs](https://github.com/howard-haowen/Formosan-languages)
+[Dataset of Formosan-Mandarin sentence pairs: web crawling, data wrangling, and app deployment](https://github.com/howard-haowen/Formosan-languages)
 ![data_sample](https://github.com/howard-haowen/Formosan-languages/blob/main/sample-dataframe.png?raw=true)
 - [Live database deployed on Streamlit](https://share.streamlit.io/howard-haowen/formosan-languages/main/app.py)
 
