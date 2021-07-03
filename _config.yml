@@ -2,14 +2,14 @@ title: Haowen Jiang # your name (or website title) here
 logo: "/images/circle_cropped.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br><br>
-  Linguistics PhD/MA
+  Linguistics PhD
   <br><br>
-  ML and NLP engineer
+  NLP/ML engineer
   <br><br>
-  ![blog](https://img.shields.io/badge/Visit-My%20Blog-success?style=flat-square&logo=blogger)
+  <a href="https://howard-haowen.github.io/blog.ai/">Visit my blog</a> 
   <br><br>
-  <a href="https://www.linkedin.com/in/haowen-jiang-phd-16242074/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/haowen-jiang-phd-16242074/">View my LinkedIn</a> 
 
-theme: jekyll-theme-minimal
-# remote_theme: opengitdocs/jekyll
+# theme: jekyll-theme-minimal
+remote_theme: opengitdocs/jekyll
 # google_analytics: UA-000000-0 # your Google Analytics tracking ID here
