@@ -8,7 +8,7 @@
 - [Education](#education)
 - [Dissertation](#dissertation)
 - [Thesis](#thesis)
-- [Publication](#publication)
+- [Publications](#publications)
 
 ---
 ## Education
@@ -32,13 +32,20 @@ Jiang, Haowen. 2016. Nominalization and possession in Formosan languages. Housto
 Jiang, Haowen. 2006. Spatial conceptualizations in Kavalan. Taipei: National Taiwan University. [pdf](https://howard-haowen.github.io/pdf/Jiang2006_Spatial-conceptualizations-in-Kavalan.pdf)
 
 ---
-## Publication
-- Jiang, Haowen. 2021b. Taking functions seriously: Grammatical nominalization in Budai Rukai revisited. In Sung-yeo Chung & Masayoshi Shibatani (eds.), 体言化理論と言語分析 (*Nominalization Theory and Linguistic Analysis*), 325-352. Osaka: Osaka University. [amazon](https://www.amazon.com/体言化理論と言語分析-Nominalization-Theory-Linguistic-Analysis-Japanese-ebook/dp/B094ZSCJRT) 
+## Publications
+- Jiang, Haowen. 2021b. Taking functions seriously: Grammatical nominalization in Budai Rukai revisited. In Sung-yeo Chung & Masayoshi Shibatani (eds.), 体言化理論と言語分析 (*Nominalization Theory and Linguistic Analysis*), 325-352. Osaka: Osaka University. [Amazon](https://www.amazon.com/体言化理論と言語分析-Nominalization-Theory-Linguistic-Analysis-Japanese-ebook/dp/B094ZSCJRT) 
 
-- Jiang, Haowen. 2021a. Argument nominalization in Formosan languages: A functional-typological approach. In Sung-yeo Chung & Masayoshi Shibatani (eds.), 体言化理論と言語分析 (*Nominalization Theory and Linguistic Analysis*), 295-323. Osaka: Osaka University. [amazon](https://www.amazon.com/体言化理論と言語分析-Nominalization-Theory-Linguistic-Analysis-Japanese-ebook/dp/B094ZSCJRT) 
+- Jiang, Haowen. 2021a. Argument nominalization in Formosan languages: A functional-typological approach. In Sung-yeo Chung & Masayoshi Shibatani (eds.), 体言化理論と言語分析 (*Nominalization Theory and Linguistic Analysis*), 295-323. Osaka: Osaka University Press. [Amazon](https://www.amazon.com/体言化理論と言語分析-Nominalization-Theory-Linguistic-Analysis-Japanese-ebook/dp/B094ZSCJRT) 
 
-- Shiwei, Chen & Haowen Jiang. 2020. Ways of talking about the past The semantics of -*in*- and =*in* in Bunun. In Henry Y. Chang & Hui-chuan J. Huang (eds.), *Papers from the Austronesian Formal Linguistics Association 25 (JSEALS Special Publication No. 5)*, 1-21. Honolulu: University of Hawai'i Press. [pdf](https://howard-haowen.github.io/pdf/Chen-Jiang2020.pdf)
+- Chen, Shiwei, & Haowen Jiang. 2020. Ways of talking about the past The semantics of -*in*- and =*in* in Bunun. In Henry Y. Chang & Hui-chuan J. Huang (eds.), *Papers from the Austronesian Formal Linguistics Association 25 (JSEALS Special Publication No. 5)*, 1-21. Honolulu: University of Hawai'i Press. [pdf](https://howard-haowen.github.io/pdf/Chen-Jiang2020.pdf)
 
+- Jiang, Haowen & Loren Billings. 2015. Person-based ordering of pronominal clitics in Rikavung Puyuma: An inverse analysis. In Amber Camp, Yuko Otsuka, Claire Stabile & Nozomi Tanaka (eds.), *AFLA 21: The Proceedings of the 21st Meeting of the Austronesian Formal Linguistics Association (Asia-Pacific Linguistics 25)*, 87–106. Canberra: Australian National University. [pdf](https://howard-haowen.github.io/pdf/Jiang-Billings2015.pdf) 
+
+- Jiang, Haowen. 2013. Appearances are not skin deep: On the status of *de yangzi*  as an inferential marker in colloquial Mandarin discourse. *Chinese Language and Discourse* 4(1): 35-73. [John Benjamins](https://www.jbe-platform.com/content/journals/10.1075/cld.4.1.02jia)
+
+- Jiang, Haowen. 2009b. How can Cognitive Linguistics help us with second language acquisition? A case study of the Russian motion verb idti. In Evan Ashworth, Melvatha Chee, Grandon Goertz & Brittany Kubacki (eds.), *Proceedings of the 8th High Desert Linguistics Society Conference (HDLS-8)*, 40–60. Albuquerque: High Desert Linguistics Society. [pdf](https://howard-haowen.github.io/pdf/Jiang2009_A-case-study-of-the-Russian-Motion-verb-IDTI.pdf)  
+
+- Jiang, Haowen. 2009a. Reported speech and thought in Kavalan. *Rice Working Papers in Linguistics* 1: 142-150. [pdf](https://howard-haowen.github.io/pdf/Jiang2009_Reported-speech-and-thought-in-Kavalan.pdf)
 
 [Back to top](#)
 ---
