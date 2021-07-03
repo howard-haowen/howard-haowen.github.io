@@ -13,8 +13,11 @@
 <img src="https://github.com/howard-haowen/howard-haowen.github.io/raw/master/images/ntu.jpg" width="150" height="150">
 
 - Ph.D., Department of Linguistics, Rice University, Houston, Texas, USA
+
 - M.A., Department of Linguistics, Rice University, Houston, Texas, USA
+
 - M.A., Graduate Institute of Linguistics, National Taiwan University, Taipei, Taiwan
+
 - B.A., Department of Foreign Languages & Literatures, National Taiwan University, Taipei, Taiwan
 
 ---
