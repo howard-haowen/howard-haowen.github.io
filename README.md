@@ -10,6 +10,7 @@
 
 ---
 ## Education
+![](images/rice.png?v=4&s=200)
 - Ph.D., Department of Linguistics, Rice University, Houston, Texas, USA
 - M.A., Department of Linguistics, Rice University, Houston, Texas, USA
 - M.A., Graduate Institute of Linguistics, National Taiwan University, Taipei, Taiwan
