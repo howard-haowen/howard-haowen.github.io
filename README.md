@@ -10,7 +10,7 @@
 
 ---
 ## Education
-![](images/rice.png?v=4&s=200)
+![](https://github.com/howard-haowen/howard-haowen.github.io/raw/master/images/rice.png?v=200&s=200)
 - Ph.D., Department of Linguistics, Rice University, Houston, Texas, USA
 - M.A., Department of Linguistics, Rice University, Houston, Texas, USA
 - M.A., Graduate Institute of Linguistics, National Taiwan University, Taipei, Taiwan
