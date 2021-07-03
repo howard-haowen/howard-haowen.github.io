@@ -10,6 +10,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://www.linkedin.com/in/haowen-jiang-phd-16242074/">View my LinkedIn</a> 
 
-# theme: jekyll-theme-minimal
-remote_theme: opengitdocs/jekyll
+theme: jekyll-theme-minimal
+# remote_theme: opengitdocs/jekyll
 # google_analytics: UA-000000-0 # your Google Analytics tracking ID here
