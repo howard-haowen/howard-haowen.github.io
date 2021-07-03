@@ -19,14 +19,14 @@
 
 ---
 ## Dissertation
-Jiang, Haowen. 2016. Nominalization and possession in Formosan languages. Houston, TX: Rice University. [pdf](https://howard-haowen.github.io/pdf/Jiang2016_Nominalization-and-possession-in-Formosan-languages.pdf) 
+Jiang, Haowen. 2016. *Nominalization and possession in Formosan languages*. Houston, TX: Rice University. [pdf](https://howard-haowen.github.io/pdf/Jiang2016_Nominalization-and-possession-in-Formosan-languages.pdf) 
 
 - Funded by by the [Chiang Ching-kuo Foundation for International Scholarly Exchange](http://www.cckf.org/zh/about/publication/newsletter/201308)
 - Archived at [Rice Digital Scholarship Archive](https://scholarship.rice.edu/handle/1911/95553)
 
 ---
 ## Thesis
-Jiang, Haowen. 2006. Spatial conceptualizations in Kavalan. Taipei: National Taiwan University. [pdf](https://howard-haowen.github.io/pdf/Jiang2006_Spatial-conceptualizations-in-Kavalan.pdf)
+Jiang, Haowen. 2006. *Spatial conceptualizations in Kavalan*. Taipei: National Taiwan University. [pdf](https://howard-haowen.github.io/pdf/Jiang2006_Spatial-conceptualizations-in-Kavalan.pdf)
 
 ---
 ## Publications
