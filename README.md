@@ -1,11 +1,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoward-haowen%2Fhoward-haowen.github.io&count_bg=%2367E805&title_bg=%23555555&icon=grav.svg&icon_color=%2367E805&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
-# Portfolio
 ---
 - [About me](#about-me)
-- [My projects](#my-projects)
-  - [visualization](#visualization)
-  - [database](#database)
+- [Education](#education)
+- [Publication](#publication)
 
 ---
 ## About me
@@ -13,18 +11,12 @@ I am a machine learning engineer, focusing on Natural Language Processing (NLP).
 She's the best dog ever! Check out how she's waiting patiently for a machine learning model to converge.
 
 ---
-## My projects
-### Visualization 
-
-[Visualization of various NLP tasks: classification, clustering, and summarization](https://github.com/howard-haowen/Archilife-NLP)
-<img src="https://github.com/howard-haowen/Archilife-NLP/blob/gh-pages/CH_all_words_text_classes.png?raw=true"/>
+## Education
 
 
-### Database
+---
+## Publication
 
-[Dataset of Formosan-Mandarin sentence pairs: web crawling, data wrangling, and app deployment](https://github.com/howard-haowen/Formosan-languages)
-![data_sample](https://github.com/howard-haowen/Formosan-languages/blob/main/sample-dataframe.png?raw=true)
-- [Live database deployed on Streamlit](https://share.streamlit.io/howard-haowen/formosan-languages/main/app.py)
 
 [Back to top](#)
 ---
