@@ -1,14 +1,11 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoward-haowen%2Fhoward-haowen.github.io&count_bg=%2367E805&title_bg=%23555555&icon=grav.svg&icon_color=%2367E805&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
-
-[![blog](https://img.shields.io/badge/Visit-My%20blog-blue?style=flat&logo=blogger&logoColor=white)](https://howard-haowen.github.io/blog.ai/)
-
-[![linkedin](https://img.shields.io/badge/View-My%20LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haowen-jiang-phd-16242074/)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoward-haowen%2Fhoward-haowen.github.io&count_bg=%2367E805&title_bg=%23555555&icon=grav.svg&icon_color=%2367E805&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com) [![blog](https://img.shields.io/badge/Visit-My%20blog-blue?style=flat&logo=blogger&logoColor=white)](https://howard-haowen.github.io/blog.ai/) [![linkedin](https://img.shields.io/badge/View-My%20LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haowen-jiang-phd-16242074/)
 
 ---
 - [Education](#education)
 - [Dissertation](#dissertation)
 - [Thesis](#thesis)
 - [Publications](#publications)
+- [Manuscript](#manuscript)
 
 ---
 ## Education
@@ -25,7 +22,7 @@
 Jiang, Haowen. 2016. Nominalization and possession in Formosan languages. Houston, TX: Rice University. [pdf](https://howard-haowen.github.io/pdf/Jiang2016_Nominalization-and-possession-in-Formosan-languages.pdf) 
 
 - Funded by by the [Chiang Ching-kuo Foundation for International Scholarly Exchange](http://www.cckf.org/zh/about/publication/newsletter/201308)
-- Archived in [Rice Digital Scholarship Archive](https://scholarship.rice.edu/handle/1911/95553)
+- Archived at [Rice Digital Scholarship Archive](https://scholarship.rice.edu/handle/1911/95553)
 
 ---
 ## Thesis
@@ -46,6 +43,13 @@ Jiang, Haowen. 2006. Spatial conceptualizations in Kavalan. Taipei: National Tai
 - Jiang, Haowen. 2009b. How can Cognitive Linguistics help us with second language acquisition? A case study of the Russian motion verb idti. In Evan Ashworth, Melvatha Chee, Grandon Goertz & Brittany Kubacki (eds.), *Proceedings of the 8th High Desert Linguistics Society Conference (HDLS-8)*, 40–60. Albuquerque: High Desert Linguistics Society. [pdf](https://howard-haowen.github.io/pdf/Jiang2009_A-case-study-of-the-Russian-Motion-verb-IDTI.pdf)  
 
 - Jiang, Haowen. 2009a. Reported speech and thought in Kavalan. *Rice Working Papers in Linguistics* 1: 142-150. [pdf](https://howard-haowen.github.io/pdf/Jiang2009_Reported-speech-and-thought-in-Kavalan.pdf)
+
+- Jiang, Haowen. 2004. The “…*shi*…, *keshi*…” construction in Mandarin: a Construction Grammar perspective. *Proceedings of the 4th National Conference on Linguistics*. [pdf](https://howard-haowen.github.io/pdf/Jiang2004.pdf)
+
+---
+## Manuscript
+Jiang, Haowen. 2010. Malayalam: A grammatical sketch and a text. [pdf](https://howard-haowen.github.io/pdf/Jiang2010_Malayalam-a-grammatical-sketch-and-a-tex.pdf)
+- Archived at [Semantic Scholar](https://www.semanticscholar.org/paper/Malayalam-%3A-a-Grammatical-Sketch-and-a-Text-Jiang/ca79adbc32e4cadcb07887dc7534583c760c8161)
 
 [Back to top](#)
 ---
