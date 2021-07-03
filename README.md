@@ -5,18 +5,15 @@
 [![linkedin](https://img.shields.io/badge/View-My%20LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haowen-jiang-phd-16242074/)
 
 ---
-- [About me](#about-me)
 - [Education](#education)
 - [Publication](#publication)
 
 ---
-## About me
-I am a machine learning engineer, focusing on Natural Language Processing (NLP). In the profile picture is my pet dog Nainai. 
-She's the best dog ever! Check out how she's waiting patiently for a machine learning model to converge.
-
----
 ## Education
-
+- PhD, Linguistics
+- MA, Linguistics
+- MA, Linguistics
+- BA, Linguistics
 
 ---
 ## Publication
