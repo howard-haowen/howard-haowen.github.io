@@ -2,6 +2,7 @@
 
 ---
 - [Education](#education)
+- [Research Keywords](#research-keywords)
 - [Dissertation](#dissertation)
 - [Thesis](#thesis)
 - [Publications](#publications)
@@ -21,6 +22,10 @@
 - B.A., Department of Foreign Languages & Literatures, National Taiwan University, Taipei, Taiwan
 
 ---
+## Research Keywords
+[linguistic typology](https://en.wikipedia.org/wiki/Linguistic_typology) | [discourse analysis](https://en.wikipedia.org/wiki/Discourse_analysis) | [Formosan languages](https://en.wikipedia.org/wiki/Formosan_languages) | [nominalization](https://en.wikipedia.org/wiki/Nominalization) | [demonstrative](https://en.wikipedia.org/wiki/Demonstrative)
+
+---
 ## Dissertation
 Jiang, Haowen. 2016. *Nominalization and possession in Formosan languages*. Houston, TX: Rice University. [pdf](https://howard-haowen.github.io/pdf/Jiang2016_Nominalization-and-possession-in-Formosan-languages.pdf) 
 
@@ -33,7 +38,7 @@ Jiang, Haowen. 2006. *Spatial conceptualizations in Kavalan*. Taipei: National T
 
 ---
 ## Publications
-- Jiang, Haowen. 2021b. Taking functions seriously: Grammatical nominalization in Budai Rukai revisited. In Sung-yeo Chung & Masayoshi Shibatani (eds.), 体言化理論と言語分析 (*Nominalization Theory and Linguistic Analysis*), 325-352. Osaka: Osaka University. [Amazon](https://www.amazon.com/体言化理論と言語分析-Nominalization-Theory-Linguistic-Analysis-Japanese-ebook/dp/B094ZSCJRT) 
+- Jiang, Haowen. 2021b. Taking functions seriously: Grammatical nominalization in Budai Rukai revisited. In Sung-yeo Chung & Masayoshi Shibatani (eds.), 体言化理論と言語分析 (*Nominalization Theory and Linguistic Analysis*), 325-352. Osaka: Osaka University Press. [Amazon](https://www.amazon.com/体言化理論と言語分析-Nominalization-Theory-Linguistic-Analysis-Japanese-ebook/dp/B094ZSCJRT) 
 
 - Jiang, Haowen. 2021a. Argument nominalization in Formosan languages: A functional-typological approach. In Sung-yeo Chung & Masayoshi Shibatani (eds.), 体言化理論と言語分析 (*Nominalization Theory and Linguistic Analysis*), 295-323. Osaka: Osaka University Press. [Amazon](https://www.amazon.com/体言化理論と言語分析-Nominalization-Theory-Linguistic-Analysis-Japanese-ebook/dp/B094ZSCJRT) 
 
