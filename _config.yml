@@ -8,4 +8,4 @@ description: > # your text below (remove <br> elements if you don't need line br
 
 theme: jekyll-theme-minimal
 # remote_theme: opengitdocs/jekyll
-# google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: G-Q3Y4PHSLM9 # your Google Analytics tracking ID here
