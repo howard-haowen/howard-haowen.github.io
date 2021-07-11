@@ -52,7 +52,7 @@ Jiang, Haowen. 2006. *Spatial conceptualizations in Kavalan*. Taipei: National T
 
 - Jiang, Haowen. 2009a. Reported speech and thought in Kavalan. *Rice Working Papers in Linguistics* 1: 142-150. [pdf](https://howard-haowen.github.io/pdf/Jiang2009_Reported-speech-and-thought-in-Kavalan.pdf)
 
-- Jiang, Haowen. 2004. The “…*shi*…, *keshi*…” construction in Mandarin: a Construction Grammar perspective. *Proceedings of the 4th National Conference on Linguistics*. [pdf](https://howard-haowen.github.io/pdf/Jiang2004.pdf)
+- Jiang, Haowen. 2004. The “…*shi*…, *keshi*…” construction in Mandarin: A Construction Grammar perspective. *Proceedings of the 4th National Conference on Linguistics*. [pdf](https://howard-haowen.github.io/pdf/Jiang2004.pdf)
 
 ---
 ## Manuscript
