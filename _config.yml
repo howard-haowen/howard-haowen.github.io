@@ -2,9 +2,9 @@ title: Haowen Jiang # your name (or website title) here
 logo: "/images/profile.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br><br>
-  Linguistics PhD
-  <br><br>
-  NLP/ML engineer
+  [Education](https://howard-haowen.github.io)
+  [Publication](https://howard-haowen.github.io/md/research)
+  [Presentation]
 
 theme: jekyll-theme-minimal
 # remote_theme: opengitdocs/jekyll
