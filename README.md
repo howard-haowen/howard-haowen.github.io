@@ -3,13 +3,12 @@
 ---
 ## Education
 
-<img align="left" width="150" height="150" src="https://github.com/howard-haowen/howard-haowen.github.io/raw/master/images/rice.png">
+<img width="150" height="150" src="https://github.com/howard-haowen/howard-haowen.github.io/raw/master/images/rice.png">
+<img width="150" height="150" src="https://github.com/howard-haowen/howard-haowen.github.io/raw/master/images/ntu.jpg">
 
 - Ph.D., Department of Linguistics, Rice University, Houston, Texas, USA
 
 - M.A., Department of Linguistics, Rice University, Houston, Texas, USA  
-
-<img align="left" width="150" height="150" src="https://github.com/howard-haowen/howard-haowen.github.io/raw/master/images/ntu.jpg">
 
 - M.A., Graduate Institute of Linguistics, National Taiwan University, Taipei, Taiwan
 
