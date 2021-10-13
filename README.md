@@ -14,7 +14,6 @@
 
 - B.A., Department of Foreign Languages & Literatures, National Taiwan University, Taipei, Taiwan
 
----
 <!-- Remove above link if you don't want to attibute 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 -->
