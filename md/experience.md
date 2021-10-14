@@ -8,6 +8,7 @@
 <img width="150" height="150" src="https://github.com/howard-haowen/howard-haowen.github.io/raw/master/images/pku.png">
 <img width="130" height="130" src="https://github.com/howard-haowen/howard-haowen.github.io/raw/master/images/ntut.png">
 <img width="150" height="150" src="https://github.com/howard-haowen/howard-haowen.github.io/raw/master/images/SoochowU.png">
+<img width="130" height="130" src="https://github.com/howard-haowen/howard-haowen.github.io/raw/master/images/lst.png">
 
 - AI Engineer, Wisers Information Limited
 
@@ -18,6 +19,8 @@
 - English Lecturer, National Tapei University of Technology
 
 - English Lecturer, Soochow University (Taiwan)
+
+- Research Assistant, Linguistic Society of Taiwan
 
 <!-- Remove above link if you don't want to attibute 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
