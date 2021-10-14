@@ -6,7 +6,7 @@
 <img width="150" height="150" src="https://github.com/howard-haowen/howard-haowen.github.io/raw/master/images/wisers.png">
 <img width="150" height="150" src="https://github.com/howard-haowen/howard-haowen.github.io/raw/master/images/hamastar.png">
 <img width="150" height="150" src="https://github.com/howard-haowen/howard-haowen.github.io/raw/master/images/pku.png">
-<img width="150" height="150" src="https://github.com/howard-haowen/howard-haowen.github.io/raw/master/images/ntut.png">
+<img width="130" height="130" src="https://github.com/howard-haowen/howard-haowen.github.io/raw/master/images/ntut.png">
 <img width="150" height="150" src="https://github.com/howard-haowen/howard-haowen.github.io/raw/master/images/SoochowU.png">
 
 - AI Engineer, Wisers Information Limited
