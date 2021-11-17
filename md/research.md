@@ -24,7 +24,7 @@ Jiang, Haowen. 2006. *Spatial conceptualizations in Kavalan*. Taipei: National T
 
 ---
 ## Publications
-- Jiang, Haowen. 2021c. On identifying the scope of clitics: A case study of Bunun demonstratives. *Linguistic Sciences* 20(6): 589-607. [语言科学](http://journal15.magtechjournal.com/Jwk_yykx/CN/volumn/volumn_1255.shtml)
+- Jiang, Haowen. 2021c. On identifying the scope of clitics: A case study of Bunun demonstratives. *Linguistic Sciences* 20(6): 589-607. [语言科学](http://journal15.magtechjournal.com/Jwk_yykx/CN/volumn/volumn_1255.shtml) [pdf](https://howard-haowen.github.io/pdf/Jiang2021_On_identifying_the_scope_of_clitics_A_case_study_of_Bunun_demonstratives.pdf)
 
 - Jiang, Haowen. 2021b. Taking functions seriously: Grammatical nominalization in Budai Rukai revisited. In Sung-yeo Chung & Masayoshi Shibatani (eds.), 体言化理論と言語分析 (*Nominalization Theory and Linguistic Analysis*), 325-352. Osaka: Osaka University Press. [Amazon](https://www.amazon.com/体言化理論と言語分析-Nominalization-Theory-Linguistic-Analysis-Japanese-ebook/dp/B094ZSCJRT) 
 
