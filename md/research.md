@@ -14,7 +14,7 @@
 
 ---
 ## Postdoc Report
-Jiang, Haowen. 2019. *A typological study of plural expressions: Associative plurals and inclusory constructions in Austronesian languages of Taiwan* (in Chinese). Beijing, China: Peking University. [pdf](https://howard-haowen.github.io/pdf/Jiang2019_Associative-plurals-and-inclusory-constructions-in-Formosan.pdf) 
+Jiang, Haowen. 2019. *A typological study of plural expressions: Associative plurals and inclusory constructions in Austronesian languages of Taiwan* (in Chinese). Beijing: Peking University. [pdf](https://howard-haowen.github.io/pdf/Jiang2019_Associative-plurals-and-inclusory-constructions-in-Formosan.pdf) 
 
 ---
 ## PhD Dissertation
