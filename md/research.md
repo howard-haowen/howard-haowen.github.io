@@ -16,13 +16,13 @@
 ## Postdoc Report
 Jiang, Haowen. 2019. *A typological study of plural expressions: Associative plurals and inclusory constructions in Austronesian languages of Taiwan* (in Chinese). Beijing: Peking University. [pdf](https://howard-haowen.github.io/pdf/Jiang2019_Associative-plurals-and-inclusory-constructions-in-Formosan.pdf) 
 
-- Funded by by the [China Postdoctoral Science Foundation](http://english.chinapostdoctor.org.cn/fund/fund.html) ([Batch 64, Grant No. 2018M641047](http://bsh.sxu.edu.cn/docs//2018-12/beb8c3196f9f4352af0cd57a9336f9f0.pdf))
+- Funded by [Chinese Postdoctoral Science Foundation](http://english.chinapostdoctor.org.cn/fund/fund.html) ([Batch No. 64, Grant No. 2018M641047](http://bsh.sxu.edu.cn/docs//2018-12/beb8c3196f9f4352af0cd57a9336f9f0.pdf))
 
 ---
 ## PhD Dissertation
 Jiang, Haowen. 2016. *Nominalization and possession in Formosan languages*. Houston, TX: Rice University. [pdf](https://howard-haowen.github.io/pdf/Jiang2016_Nominalization-and-possession-in-Formosan-languages.pdf) 
 
-- Funded by by the [Chiang Ching-kuo Foundation for International Scholarly Exchange](http://www.cckf.org/zh/about/publication/newsletter/201308)
+- Funded by [Chiang Ching-kuo Foundation for International Scholarly Exchange](http://www.cckf.org/en?set_language=en) ([Year 2012](http://www.cckf.org/zh/about/publication/newsletter/201308))
 - Archived at [Rice Digital Scholarship Archive](https://scholarship.rice.edu/handle/1911/95553)
 
 ---
