@@ -1,7 +1,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoward-haowen%2Fhoward-haowen.github.io&count_bg=%2367E805&title_bg=%23555555&icon=grav.svg&icon_color=%2367E805&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com) [![blog](https://img.shields.io/badge/Visit-My_AI_blog-blue?style=flat&logo=blogger&logoColor=white)](https://howard-haowen.github.io/blog.ai/) [![linkedin](https://img.shields.io/badge/View-My%20LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haowen-jiang-phd-16242074/)
 
 ---
-- [Research Keywords](#research-keywords)
+## Research
+
+- [Keywords](#keywords)
 - [Postdoc Report](#postdoc-report)
 - [PhD Dissertation](#phd-dissertation)
 - [MA Thesis](#ma-thesis)
@@ -9,28 +11,28 @@
 - [Manuscript](#manuscript)
 
 ---
-## Research Keywords
+### Keywords
 [linguistic typology](https://en.wikipedia.org/wiki/Linguistic_typology) | [discourse analysis](https://en.wikipedia.org/wiki/Discourse_analysis) | [nominalization](https://en.wikipedia.org/wiki/Nominalization) | [demonstrative](https://en.wikipedia.org/wiki/Demonstrative) | [clitic](https://en.wikipedia.org/wiki/Clitic)  | [Austronesian languages](https://en.wikipedia.org/wiki/Austronesian_languages)   
 
 ---
-## Postdoc Report
+### Postdoc Report
 Jiang, Haowen. 2019. *A typological study of plural expressions: Associative plurals and inclusory constructions in Austronesian languages of Taiwan* (in Chinese). Beijing: Peking University. [pdf](https://howard-haowen.github.io/pdf/Jiang2019_Associative-plurals-and-inclusory-constructions-in-Formosan.pdf) 
 
 - Funded by [Chinese Postdoctoral Science Foundation](http://english.chinapostdoctor.org.cn/fund/fund.html) ([Batch No. 64, Grant No. 2018M641047](http://bsh.sxu.edu.cn/docs//2018-12/beb8c3196f9f4352af0cd57a9336f9f0.pdf))
 
 ---
-## PhD Dissertation
+### PhD Dissertation
 Jiang, Haowen. 2016. *Nominalization and possession in Formosan languages*. Houston, TX: Rice University. [pdf](https://howard-haowen.github.io/pdf/Jiang2016_Nominalization-and-possession-in-Formosan-languages.pdf) 
 
 - Funded by [Chiang Ching-kuo Foundation for International Scholarly Exchange](http://www.cckf.org/en?set_language=en) ([Year 2012](http://www.cckf.org/zh/about/publication/newsletter/201308))
 - Archived at [Rice Digital Scholarship Archive](https://scholarship.rice.edu/handle/1911/95553)
 
 ---
-## MA Thesis
+### MA Thesis
 Jiang, Haowen. 2006. *Spatial conceptualizations in Kavalan*. Taipei: National Taiwan University. [pdf](https://howard-haowen.github.io/pdf/Jiang2006_Spatial-conceptualizations-in-Kavalan.pdf)
 
 ---
-## Publications
+### Publications
 - Jiang, Haowen. 2021c. On identifying the scope of clitics: A case study of Bunun demonstratives (in Chinese). *Linguistic Sciences* 20(6): 589-607. [语言科学](http://journal15.magtechjournal.com/Jwk_yykx/CN/volumn/volumn_1255.shtml) [pdf](https://howard-haowen.github.io/pdf/Jiang2021_On_identifying_the_scope_of_clitics_A_case_study_of_Bunun_demonstratives.pdf)
 
 - Jiang, Haowen. 2021b. Taking functions seriously: Grammatical nominalization in Budai Rukai revisited. In Sung-yeo Chung & Masayoshi Shibatani (eds.), 体言化理論と言語分析 (*Nominalization Theory and Linguistic Analysis*), 325-352. Osaka: Osaka University Press. [Amazon](https://www.amazon.com/体言化理論と言語分析-Nominalization-Theory-Linguistic-Analysis-Japanese-ebook/dp/B094ZSCJRT) 
