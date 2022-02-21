@@ -11,12 +11,14 @@
     - [Pandas](#pandas)
     - [Intro to Machine Learning](#intro-to-machine-learning)   
 
+---
 ### Microsoft 
 
 #### Azure Data Scientist Associate
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7c4f2a43-cf71-4604-b36d-d68544c96a2e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
+---
 ### Kaggle
 
 #### Python
@@ -29,3 +31,6 @@
 
 #### Intro to Machine Learning
 <img src="https://github.com/howard-haowen/blog.ai/raw/master/images/Kaggle-IntroToMachineLearning.png" width="600" height="400" align="left">
+
+[Back to top](#)
+
