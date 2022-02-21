@@ -1,16 +1,17 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoward-haowen%2Fhoward-haowen.github.io&count_bg=%2367E805&title_bg=%23555555&icon=grav.svg&icon_color=%2367E805&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com) [![blog](https://img.shields.io/badge/Visit-My_AI_blog-blue?style=flat&logo=blogger&logoColor=white)](https://howard-haowen.github.io/blog.ai/) [![linkedin](https://img.shields.io/badge/View-My%20LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haowen-jiang-phd-16242074/)
 
 ---
-- [Research Keywords](#research-keywords)
+## Presentation
+- [Keywords](#keywords)
 - [Contributed Talks](#contributed-talks)
 - [Invited Talks](#invited-talks)
 
 ---
-## Research Keywords
+### Keywords
 [linguistic typology](https://en.wikipedia.org/wiki/Linguistic_typology) | [discourse analysis](https://en.wikipedia.org/wiki/Discourse_analysis) | [nominalization](https://en.wikipedia.org/wiki/Nominalization) | [demonstrative](https://en.wikipedia.org/wiki/Demonstrative) | [clitic](https://en.wikipedia.org/wiki/Clitic)  | [Austronesian languages](https://en.wikipedia.org/wiki/Austronesian_languages)   
 
 ---
-## Contributed Talks
+### Contributed Talks
 - Chen, Sihwei & **Haowen Jiang**. 2020. Update now: Decomposing “iamitive”, presented at the 38th meeting of the West Coast Conference on Formal Linguistics (WCCFL-38), University of British Columbian, Canada, March 6-8.
 - **Jiang, Haowen** & Ruiling Huang. 2019. A comparative study of paucal expressions in Min Chinese (Chinese title: `闽南方言小量表达的对比研究`), presented at the Workshop on Language Variation and Change, Changshu Institute of Technology, China, December 21-22.
 - Jiang, Haowen. 2019d. Verb classes in Central Amis: Evidence from grammatical nominalizations, presented at the Workshop on Verb Classes in Formosan Languages and Beyond: Cross-linguistic, Comparative, and Diachronic Perspectives, Academia Sinica, Taiwan, November 15-16.
@@ -36,7 +37,7 @@
 - Jiang, Haowen. 2005. Spatial language in Kavalan, presented at May Day Festival: Workshop on Discourse and Cognition (II), National Taiwan University, Taiwan, May 7.
 
 ---
-## Invited Talks
+### Invited Talks
 - Jiang, Haowen. 2019d. Inclusory constructions in Formosan languages, presented at Palacký University Olomouc, Czech Republic, November 27. (Funded by the project “Sinophone Borderlands: Interaction at the Edges”, Olomouc, Czech)
 - Jiang, Haowen. 2019c. Associative plurals and inclusory constructions in Formosan languages, presented at Linguistic Salon for Young Researchers at Fudan University, China, April 3. 
 - Jiang, Haowen. 2019b. Associative plurals and inclusory constructions in Formosan languages, presented at Linguistics Colloquium at National Taiwan Normal University, Taiwan, March 13. 
