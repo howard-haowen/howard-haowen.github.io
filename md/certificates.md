@@ -17,27 +17,28 @@
 
 #### Azure Data Scientist Associate
 
-<div data-iframe-width="300" data-iframe-height="300" data-share-badge-id="7c4f2a43-cf71-4604-b36d-d68544c96a2e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="600" data-iframe-height="300" data-share-badge-id="7c4f2a43-cf71-4604-b36d-d68544c96a2e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ---
 ### freeCodeCamp 
 
 #### Data Analysis with Python
-<iframe width="300" height="300" title="data-analysis-with-python" src="https://www.freecodecamp.org/certification/howardj/data-analysis-with-python-v7"></iframe>
+[![](https://github.com/howard-haowen/blog.ai/raw/master/images/freecodecamp-data-analysis-with-python.png)](https://www.freecodecamp.org/certification/howardj/data-analysis-with-python-v7)
+
 
 ---
 ### Kaggle
 
 #### Python
 
-<img src="https://github.com/howard-haowen/blog.ai/raw/master/images/Kaggle-Python.png" width="600" height="400" align="left">
+<img src="https://github.com/howard-haowen/blog.ai/raw/master/images/Kaggle-Python.png" width="600" height="300" align="left">
 
 #### Pandas
 
-<img src="https://github.com/howard-haowen/blog.ai/raw/master/images/Kaggle-Pandas.png" width="600" height="400" align="left">
+<img src="https://github.com/howard-haowen/blog.ai/raw/master/images/Kaggle-Pandas.png" width="600" height="300" align="left">
 
 #### Intro to Machine Learning
-<img src="https://github.com/howard-haowen/blog.ai/raw/master/images/Kaggle-IntroToMachineLearning.png" width="600" height="400" align="left">
+<img src="https://github.com/howard-haowen/blog.ai/raw/master/images/Kaggle-IntroToMachineLearning.png" width="600" height="300" align="left">
 
 [Back to top](#)
 
