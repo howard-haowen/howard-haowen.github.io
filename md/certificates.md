@@ -5,6 +5,8 @@
 
 - [Microsoft](#microsoft)
     - [Azure Data Scientist Associate](#azure-data-scientist-associate)
+- [freeCodeCamp](#freecodecamp)
+    - [Data Analysis with Python](#data-analysis-with-python)  
 - [Kaggle](#kaggle)
     - [Python](#python)
     - [Pandas](#pandas)
@@ -15,7 +17,13 @@
 
 #### Azure Data Scientist Associate
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7c4f2a43-cf71-4604-b36d-d68544c96a2e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="300" data-iframe-height="300" data-share-badge-id="7c4f2a43-cf71-4604-b36d-d68544c96a2e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+---
+### freeCodeCamp 
+
+#### Data Analysis with Python
+<iframe width="300" height="300" title="data-analysis-with-python" src="https://www.freecodecamp.org/certification/howardj/data-analysis-with-python-v7"></iframe>
 
 ---
 ### Kaggle
