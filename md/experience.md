@@ -16,7 +16,7 @@
 
 - Boya Postdoc Researcher (博雅博士后), Peking University
 
-- English Lecturer, National Tapei University of Technology
+- English Lecturer, National Taipei University of Technology
 
 - English Lecturer, Soochow University (Taiwan)
 
