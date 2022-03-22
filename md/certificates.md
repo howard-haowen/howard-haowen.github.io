@@ -36,5 +36,5 @@
 #### Intro to Machine Learning
 <img src="https://github.com/howard-haowen/blog.ai/raw/master/images/Kaggle-IntroToMachineLearning.png" width="600" height="300" align="left">
 
+---
 [Back to top](#)
-
