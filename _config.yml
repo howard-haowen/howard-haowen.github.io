@@ -2,9 +2,11 @@ title: Haowen Jiang # your name (or website title) here
 logo: "/images/profile.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
-  I'm a linguist-turned AI engineer.
+  Hi there! My name is how-when, don't ask me why. I'm a linguist-turned AI engineer.
   <br>
   <p class="view"><a href="https://howard-haowen.github.io">Education</a> | <a href="https://howard-haowen.github.io/experience">Experience</a> | <a href="https://howard-haowen.github.io/research">Research</a> | <a href="https://howard-haowen.github.io/presentation">Presentation</a> | <a href="https://howard-haowen.github.io/certificates">Certificates</a> | <a href="https://howard-haowen.github.io/projects">Projects</a></p>
+  <br>
+  <br>
 
 theme: jekyll-theme-minimal
 # remote_theme: opengitdocs/jekyll
