@@ -3,9 +3,9 @@
 ---
 ## Projects
 - [My AI blog](#my-ai-blog)
-- [My NLP talks](#my-nlnp-talks)
+- [My NLP talks](#my-nlp-talks)
 - [Language learning APP](#language-learning-app)
-- [Database of Formosan-Mandarin sentence pairs](#database-of-formosanmandarin-sentence-pairs)
+- [Database of Formosan-Mandarin sentence pairs](#database-of-formosan-mandarin-sentence-pairs)
 - [The Wordle game in languages of Taiwan](#the-wordle-game-in-languages-of-taiwan)
 
 ### My AI blog       
