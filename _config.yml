@@ -3,6 +3,8 @@ logo: "/images/profile.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br><br>
   I'm a linguist-turned AI engineer.
+  <br><br>
+  <p class="view"><a href="https://howard-haowen.github.io">Education</a> | <a href="https://howard-haowen.github.io/md/experience">Experience</a> | <a href="https://howard-haowen.github.io/md/research">Research</a> | <a href="https://howard-haowen.github.io/md/presentation">Presentation</a> | <a href="https://howard-haowen.github.io/md/certificates">Certificates</a></p>
 
 theme: jekyll-theme-minimal
 # remote_theme: opengitdocs/jekyll
