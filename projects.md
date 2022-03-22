@@ -2,6 +2,11 @@
 
 ---
 ## Projects
+- [My AI blog](#my-ai-blog)
+- [My NLP talks](#my-nlnp-talks)
+- [Language learning APP](#language-learning-app)
+- [Database of Formosan-Mandarin sentence pairs](#database-of-formosanmandarin-sentence-pairs)
+- [The Wordle game in languages of Taiwan](#the-wordle-game-in-languages-of-taiwan)
 
 ### My AI blog       
 [![blog](https://img.shields.io/badge/Click-Me-FF5722?style=flat&logo=blogger&logoColor=white)](https://howard-haowen.github.io/blog.ai/)
@@ -11,18 +16,26 @@
 ### My NLP talks
 [![dataset](https://img.shields.io/badge/Click-Me-F37626?style=flat&logo=jupyter&logoColor=white)](http://howard-haowen.rohan.tw/NLP-demos/)
 
-- This site hosts NLP demos and talks that I gave, made with Jupyter Notebook and reveal.js.
+- This site hosts NLP talks I gave, made with Jupyter Notebook and reveal.js.
 
-### Model-assisted language learning APP
+### Language learning APP
 [![spacy](https://img.shields.io/badge/Click-Me-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://share.streamlit.io/howard-haowen/spacy-streamlit/app.py)
 
-- This Web APP leverages the power of spaCy to assist language learning.
+- This Web APP leverages the power of spaCy to assist the learning of English, Mandarin, and Japanese.
 
 ### Database of Formosan-Mandarin sentence pairs
 [![dataset](https://img.shields.io/badge/Click-Me-150458?style=flat&logo=pandas&logoColor=white)](http://howard-haowen.rohan.tw/Formosan-languages/)
 
-- This is a database of Formosan-Mandarin sentence pairs, covering over 13,000 sentences across 16 Formosan languages crawled from various sources. 
+- This is a database of Formosan-Mandarin sentence pairs, covering over 13,000 sentences across 16 Formosan languages that I crawled from various sources. 
 
+### the [Wordle](https://www.nytimes.com/games/wordle/index.html) game in languages of Taiwan
+
+- In [Taiwanese Southern Min](https://en.wikipedia.org/wiki/Taiwanese_Hokkien): play the game [here](https://howard-haowen.github.io/tsm-wordle/) 
+- In [Paiwan](https://en.wikipedia.org/wiki/Paiwan_language): play the game [here](https://howard-haowen.github.io/paiwan-wordle/) 
+- In [Amis](https://en.wikipedia.org/wiki/Amis_language): play the game [here](https://howard-haowen.github.io/amis-wordle/) 
+
+---
+[Back to top](#)
 <!-- Remove above link if you don't want to attibute 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 -->
