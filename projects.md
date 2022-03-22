@@ -4,15 +4,24 @@
 ## Projects
 
 ### My AI blog       
-[![blog](https://img.shields.io/badge/Visit-My_blog-FF5722?style=flat&logo=blogger&logoColor=white)](https://howard-haowen.github.io/blog.ai/)
+[![blog](https://img.shields.io/badge/Click-Me-FF5722?style=flat&logo=blogger&logoColor=white)](https://howard-haowen.github.io/blog.ai/)
 
 - This blog documents my learning journey to the world of programming and NLP.
 
-###
-[![spacy](https://img.shields.io/badge/Try-My_APP-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://share.streamlit.io/howard-haowen/spacy-streamlit/app.py)
+### My NLP talks
+[![dataset](https://img.shields.io/badge/Click-Me-F37626?style=flat&logo=jupyter&logoColor=white)](http://howard-haowen.rohan.tw/NLP-demos/)
+
+- This site hosts NLP demos and talks that I gave, made with Jupyter Notebook and reveal.js.
+
+### Model-assisted language learning APP
+[![spacy](https://img.shields.io/badge/Click-Me-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://share.streamlit.io/howard-haowen/spacy-streamlit/app.py)
 
 - This Web APP leverages the power of spaCy to assist language learning.
 
+### Database of Formosan-Mandarin sentence pairs
+[![dataset](https://img.shields.io/badge/Click-Me-150458?style=flat&logo=pandas&logoColor=white)](http://howard-haowen.rohan.tw/Formosan-languages/)
+
+- This is a database of Formosan-Mandarin sentence pairs, covering over 13,000 sentences across 16 Formosan languages crawled from various sources. 
 
 <!-- Remove above link if you don't want to attibute 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
