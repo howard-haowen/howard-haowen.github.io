@@ -57,7 +57,7 @@
 - Jiang, Haowen. 2011a. On the grammaticalization of the nominalization marker `=ay` in Kavalan and Amis: A contrastive study, presented at Linguistics Colloquium, Rice University, USA, January 27.
 - Jiang, Haowen. 2009. Three dichotomies in the Kavalan demonstrative system, presented at Linguistics Colloquium, Rice University, USA, September 17.
 
-[Back to top](#)
 ---
+[Back to top](#)
 <!-- p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
 <!-- Remove above link if you don't want to attibute -->
