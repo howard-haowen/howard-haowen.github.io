@@ -28,13 +28,13 @@
 ### Kaggle
 
 #### Python
-<img src="https://github.com/howard-haowen/blog.ai/raw/master/images/Kaggle-Python.png" width="600" height="300" align="left">
+[![](https://github.com/howard-haowen/blog.ai/raw/master/images/Kaggle-Python.png)](https://www.kaggle.com/learn/certification/howardjiang/python)
 
 #### Pandas
-<img src="https://github.com/howard-haowen/blog.ai/raw/master/images/Kaggle-Pandas.png" width="600" height="300" align="left">
+[![](https://github.com/howard-haowen/blog.ai/raw/master/images/Kaggle-Pandas.png)](https://www.kaggle.com/learn/certification/howardjiang/pandas)
 
 #### Intro to Machine Learning
-<img src="https://github.com/howard-haowen/blog.ai/raw/master/images/Kaggle-IntroToMachineLearning.png" width="600" height="300" align="left">
+[![](https://github.com/howard-haowen/blog.ai/raw/master/images/Kaggle-IntroToMachineLearning.png)](https://www.kaggle.com/learn/certification/howardjiang/intro-to-machine-learning)
 
 ---
 [Back to top](#)
