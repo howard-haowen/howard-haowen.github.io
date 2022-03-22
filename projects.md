@@ -28,7 +28,7 @@
 
 - This is a database of Formosan-Mandarin sentence pairs, covering over 13,000 sentences across 16 Formosan languages that I crawled from various sources. 
 
-### the [Wordle](https://www.nytimes.com/games/wordle/index.html) game in languages of Taiwan
+### The [Wordle](https://www.nytimes.com/games/wordle/index.html) game in languages of Taiwan
 
 - In [Taiwanese Southern Min](https://en.wikipedia.org/wiki/Taiwanese_Hokkien): play the game [here](https://howard-haowen.github.io/tsm-wordle/) 
 - In [Paiwan](https://en.wikipedia.org/wiki/Paiwan_language): play the game [here](https://howard-haowen.github.io/paiwan-wordle/) 
