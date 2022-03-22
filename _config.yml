@@ -4,7 +4,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   I'm a linguist-turned AI engineer.
   <br>
-  <p><a href="https://howard-haowen.github.io">Education</a> | <a href="https://howard-haowen.github.io/experience">Experience</a> | <a href="https://howard-haowen.github.io/research">Research</a> | <a href="https://howard-haowen.github.io/presentation">Presentation</a> | <a href="https://howard-haowen.github.io/certificates">Certificates</a> | <a href="https://howard-haowen.github.io/projects">Projects</a></p>
+  <p class="view"><a href="https://howard-haowen.github.io">Education</a> | <a href="https://howard-haowen.github.io/experience">Experience</a> | <a href="https://howard-haowen.github.io/research">Research</a> | <a href="https://howard-haowen.github.io/presentation">Presentation</a> | <a href="https://howard-haowen.github.io/certificates">Certificates</a> | <a href="https://howard-haowen.github.io/projects">Projects</a></p>
 
 theme: jekyll-theme-minimal
 # remote_theme: opengitdocs/jekyll
