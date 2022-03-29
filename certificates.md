@@ -11,6 +11,7 @@
     - [Python](#python)
     - [Pandas](#pandas)
     - [Intro to Machine Learning](#intro-to-machine-learning)   
+    - [Computer Vision](#computer-vision)   
 
 ---
 ### Microsoft 
@@ -36,5 +37,7 @@
 #### Intro to Machine Learning
 [![](https://github.com/howard-haowen/blog.ai/raw/master/images/Kaggle-IntroToMachineLearning.png)](https://www.kaggle.com/learn/certification/howardjiang/intro-to-machine-learning)
 
+#### Computer Vision
+[![](https://github.com/howard-haowen/blog.ai/raw/master/images/Kaggle-ComputerVision.png)](https://www.kaggle.com/learn/certification/howardjiang/computer-vision)
 ---
 [Back to top](#)
