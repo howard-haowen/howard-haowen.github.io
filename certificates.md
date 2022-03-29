@@ -39,5 +39,6 @@
 
 #### Computer Vision
 [![](https://github.com/howard-haowen/blog.ai/raw/master/images/Kaggle-ComputerVision.png)](https://www.kaggle.com/learn/certification/howardjiang/computer-vision)
+
 ---
 [Back to top](#)
