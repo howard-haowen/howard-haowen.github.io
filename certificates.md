@@ -25,13 +25,13 @@
 ### freeCodeCamp 
 
 #### Data Analysis with Python
-[![](https://github.com/howard-haowen/blog.ai/raw/master/images/Google-ads.png)](https://skillshop.exceedlms.com/student/award/BmuNGjJDnB3nbGL9yi3m7sPo)
+[![](https://github.com/howard-haowen/blog.ai/raw/master/images/freecodecamp-data-analysis-with-python.png)](https://www.freecodecamp.org/certification/howardj/data-analysis-with-python-v7)
 
 ---
 ### Google 
 
 #### Google Ads Search Certification
-[![](https://github.com/howard-haowen/blog.ai/raw/master/images/freecodecamp-data-analysis-with-python.png)](https://www.freecodecamp.org/certification/howardj/data-analysis-with-python-v7)
+[![](https://github.com/howard-haowen/blog.ai/raw/master/images/Google-ads.png)](https://skillshop.exceedlms.com/student/award/BmuNGjJDnB3nbGL9yi3m7sPo)
 
 ---
 ### Kaggle
