@@ -7,6 +7,8 @@
     - [Azure Data Scientist Associate](#azure-data-scientist-associate)
 - [freeCodeCamp](#freecodecamp)
     - [Data Analysis with Python](#data-analysis-with-python)  
+- [Google](#google)
+    - [Google Ads Search Certification](#google-ads-search-certification)
 - [Kaggle](#kaggle)
     - [Python](#python)
     - [Pandas](#pandas)
@@ -23,6 +25,12 @@
 ### freeCodeCamp 
 
 #### Data Analysis with Python
+[![](https://github.com/howard-haowen/blog.ai/raw/master/images/Google-ads.png)](https://skillshop.exceedlms.com/student/award/BmuNGjJDnB3nbGL9yi3m7sPo)
+
+---
+### Google 
+
+#### Google Ads Search Certification
 [![](https://github.com/howard-haowen/blog.ai/raw/master/images/freecodecamp-data-analysis-with-python.png)](https://www.freecodecamp.org/certification/howardj/data-analysis-with-python-v7)
 
 ---
