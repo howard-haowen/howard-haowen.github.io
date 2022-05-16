@@ -12,7 +12,7 @@
 
 ---
 ### Keywords
-[linguistic typology](https://en.wikipedia.org/wiki/Linguistic_typology) | [discourse analysis](https://en.wikipedia.org/wiki/Discourse_analysis) | [nominalization](https://en.wikipedia.org/wiki/Nominalization) | [demonstrative](https://en.wikipedia.org/wiki/Demonstrative) | [clitic](https://en.wikipedia.org/wiki/Clitic)  | [Austronesian languages](https://en.wikipedia.org/wiki/Austronesian_languages)   
+[linguistic typology](https://en.wikipedia.org/wiki/Linguistic_typology) | [discourse analysis](https://en.wikipedia.org/wiki/Discourse_analysis) | [nominalization](https://en.wikipedia.org/wiki/Nominalization) | [demonstrative](https://en.wikipedia.org/wiki/Demonstrative) | [clitic](https://en.wikipedia.org/wiki/Clitic)  | [Formosan languages](https://en.wikipedia.org/wiki/Formosan_languages)   
 
 ---
 ### Postdoc Report
@@ -39,9 +39,9 @@ Jiang, Haowen. 2006. *Spatial conceptualizations in Kavalan*. Taipei: National T
 
 - Jiang, Haowen. 2021a. Argument nominalization in Formosan languages: A functional-typological approach. In Sung-yeo Chung & Masayoshi Shibatani (eds.), 体言化理論と言語分析 (*Nominalization Theory and Linguistic Analysis*), 295-323. Osaka: Osaka University Press. [Amazon](https://www.amazon.com/体言化理論と言語分析-Nominalization-Theory-Linguistic-Analysis-Japanese-ebook/dp/B094ZSCJRT) 
 
-- Chen, Shiwei & Haowen Jiang. 2020. Ways of talking about the past The semantics of -*in*- and =*in* in Bunun. In Henry Y. Chang & Hui-chuan J. Huang (eds.), *Papers from the Austronesian Formal Linguistics Association 25 (JSEALS Special Publication No. 5)*, 1-21. Honolulu: University of Hawai'i Press. [pdf](https://howard-haowen.github.io/pdf/Chen-Jiang2020.pdf)
+- [Chen, Shiwei](https://scholar.google.com/citations?user=LcTP1pkAAAAJ&hl=en) & Haowen Jiang. 2020. Ways of talking about the past The semantics of -*in*- and =*in* in Bunun. In Henry Y. Chang & Hui-chuan J. Huang (eds.), [*Papers from the Austronesian Formal Linguistics Association 25 (JSEALS Special Publication No. 5)*](https://uhpress.hawaii.edu/journal-of-the-southeast-asian-linguistics-society-papers-from-the-austronesian-formal-linguistics-association-25/), 1-21. Honolulu: University of Hawai'i Press. [pdf](https://howard-haowen.github.io/pdf/Chen-Jiang2020.pdf)
 
-- Jiang, Haowen & Loren Billings. 2015. Person-based ordering of pronominal clitics in Rikavung Puyuma: An inverse analysis. In Amber Camp, Yuko Otsuka, Claire Stabile & Nozomi Tanaka (eds.), *AFLA 21: The Proceedings of the 21st Meeting of the Austronesian Formal Linguistics Association (Asia-Pacific Linguistics 25)*, 87–106. Canberra: Australian National University. [pdf](https://howard-haowen.github.io/pdf/Jiang-Billings2015.pdf) 
+- Jiang, Haowen & [Loren Billings](https://scholar.google.com/citations?user=fMjt40kAAAAJ&hl=en). 2015. Person-based ordering of pronominal clitics in Rikavung Puyuma: An inverse analysis. In Amber Camp, Yuko Otsuka, Claire Stabile & Nozomi Tanaka (eds.), [*AFLA 21: The Proceedings of the 21st Meeting of the Austronesian Formal Linguistics Association (Asia-Pacific Linguistics 25)*](https://openresearch-repository.anu.edu.au/handle/1885/95329), 87–106. Canberra: Australian National University. [pdf](https://howard-haowen.github.io/pdf/Jiang-Billings2015.pdf) 
 
 - Jiang, Haowen. 2013. Appearances are not skin deep: On the status of *de yangzi*  as an inferential marker in colloquial Mandarin discourse. *Chinese Language and Discourse* 4(1): 35-73. [John Benjamins](https://www.jbe-platform.com/content/journals/10.1075/cld.4.1.02jia)
 
