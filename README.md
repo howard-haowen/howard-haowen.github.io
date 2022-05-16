@@ -6,14 +6,10 @@
 <img width="150" height="150" src="https://github.com/howard-haowen/howard-haowen.github.io/raw/master/images/rice.png">
 <img width="150" height="150" src="https://github.com/howard-haowen/howard-haowen.github.io/raw/master/images/ntu.jpg">
 
-- Ph.D., Department of Linguistics, Rice University, Houston, Texas, USA
+- Ph.D., [Department of Linguistics](https://linguistics.rice.edu/), Rice University, Houston, Texas, USA
 
-- M.A., Department of Linguistics, Rice University, Houston, Texas, USA  
+- M.A., [Department of Linguistics](https://linguistics.rice.edu/), Rice University, Houston, Texas, USA  
 
-- M.A., Graduate Institute of Linguistics, National Taiwan University, Taipei, Taiwan
+- M.A., [Graduate Institute of Linguistics](https://linguistics.ntu.edu.tw/), National Taiwan University, Taipei, Taiwan
 
-- B.A., Department of Foreign Languages & Literatures, National Taiwan University, Taipei, Taiwan
-
-<!-- Remove above link if you don't want to attibute 
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
--->
+- B.A., [Department of Foreign Languages & Literatures](https://www.forex.ntu.edu.tw/?lang=en), National Taiwan University, Taipei, Taiwan
