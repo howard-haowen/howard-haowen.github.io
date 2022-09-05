@@ -18,13 +18,9 @@
 
 - This site hosts NLP talks and tutorials I gave, made with Jupyter Notebook and reveal.js. [![dataset](https://img.shields.io/badge/Click-Me-F37626?style=flat&logo=jupyter&logoColor=white)](http://howard-haowen.rohan.tw/NLP-demos/)
 
-### Language learning APPs
+### Language learning APP
 
-- Web APPs that leverage the power of spaCy to assist language learning.
-
-  - The main version supports Mandarin, English, and Japanese. [![spacy](https://img.shields.io/badge/Click-Me-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://share.streamlit.io/howard-haowen/spacy-streamlit/app.py)
-
-  - The beta version suppports only Mandarin but has more functions than the main version. [![spacy](https://img.shields.io/badge/Click-Me-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://share.streamlit.io/howard-haowen/spacy-streamlit/beta/app.py)
+- This Web APP leverages the power of spaCy to assist language learning, and currently supports Mandarin, English, and Japanese. [![spacy](https://img.shields.io/badge/Click-Me-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://share.streamlit.io/howard-haowen/spacy-streamlit/app.py)
 
 ### Database of Formosan-Mandarin sentence pairs
 
