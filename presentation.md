@@ -12,6 +12,7 @@
 
 ---
 ### Contributed Talks
+- Huang, Ruiling & ** Haowen Jiang**. 2022. A corpus-based study of minimizers in Taiwanese Southern Min: the case of `sió-khuá` and `tām-po̍h`, presented at [the 16th International Conference on Min Dialects (ICMD-16)](https://fah.um.edu.mo/16-min-dialects-eng/), University of Macau, Macau, Nov 18-21.
 - **Jiang, Haowen** & Ruiling Huang. 2022. A corpus-based study of minimizers in Taiwanese Southern Min: the case of `sió-khuá` and `tām-po̍h`, presented at [the 28th Annual Conference of International Association of Chinese Linguistics (IALC-28)](http://ling.cuhk.edu.hk/iacl28/index.php), the Chinese University of Hong Kong, Hong Kong, May 20-22. [slides](https://docs.google.com/presentation/d/1RVUHywuzqMPTfeXmmKetWekUahr0VokF5PYNGM3vmK4/edit#slide=id.g129560ff8e1_0_39)
 - [Chen, Sihwei](https://scholar.google.com/citations?user=LcTP1pkAAAAJ&hl=en) & **Haowen Jiang**. 2020. Update now: Decomposing “iamitive”, presented at [the 38th meeting of the West Coast Conference on Formal Linguistics (WCCFL-38)](https://open.library.ubc.ca/search?q=*&p=0&sort=3&view=0&circle=n&dBegin=&dEnd=&c=1&collection=73804), University of British Columbian, Canada, March 6-8.
 - **Jiang, Haowen** & Ruiling Huang. 2019. A comparative study of paucal expressions in Min Chinese (Chinese title: `闽南方言小量表达的对比研究`), presented at the Workshop on Language Variation and Change, Changshu Institute of Technology, China, December 21-22.
