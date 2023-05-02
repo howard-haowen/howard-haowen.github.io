@@ -5,6 +5,8 @@
 
 - [Microsoft](#microsoft)
     - [Azure Data Scientist Associate](#azure-data-scientist-associate)
+- [Neo4j](#neo4j)
+    - [Neo4j Certified Professional](#neo4j-certified-professional)
 - [freeCodeCamp](#freecodecamp)
     - [Data Analysis with Python](#data-analysis-with-python)  
 - [Google](#google)
@@ -20,6 +22,12 @@
 
 #### Azure Data Scientist Associate
 <div data-iframe-width="500" data-iframe-height="300" data-share-badge-id="7c4f2a43-cf71-4604-b36d-d68544c96a2e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+---
+### Neo4j
+
+#### Neo4j Certified Professional
+[![](https://github.com/howard-haowen/blog.ai/raw/master/images/Neo4j-CertifiedProfessional.png)](https://graphacademy.neo4j.com/u/7b859420-f502-46aa-81c9-bb5fd10c05da/neo4j-certification/)
 
 ---
 ### freeCodeCamp 
