@@ -40,16 +40,17 @@
 
 ---
 ### Invited Talks
+- Shibatani, Masayoshi, Prashant Pardeshi, and **Haowen Jiang**. 2023. Nominalization-classifier continua and overlaps in languages of China, presented at Classifiers in Asian Languages, Zhejiang University, China, May 20.
 - Jiang, Haowen. 2019d. Inclusory constructions in Formosan languages, presented at Palacký University Olomouc, Czech Republic, November 27. (Funded by the project “Sinophone Borderlands: Interaction at the Edges”, Olomouc, Czech)
-- Jiang, Haowen. 2019c. Associative plurals and inclusory constructions in Formosan languages, presented at Linguistic Salon for Young Researchers at Fudan University, China, April 3. 
-- Jiang, Haowen. 2019b. Associative plurals and inclusory constructions in Formosan languages, presented at Linguistics Colloquium at National Taiwan Normal University, Taiwan, March 13. 
+- Jiang, Haowen. 2019c. Associative plurals and inclusory constructions in Formosan languages, presented at Linguistic Salon for Young Researchers, Fudan University, China, April 3. 
+- Jiang, Haowen. 2019b. Associative plurals and inclusory constructions in Formosan languages, presented at Linguistics Colloquium, National Taiwan Normal University, Taiwan, March 13. 
 - Jiang, Haowen. 2019a. Spatial grammar and Austronesian languages: A typological perspective, presented at Education and Research Center for Indigenous Peoples, National Pingtung University, Taiwan, March 7. 
 - Jiang, Haowen. 2018. A typological study of nominalization in Formosan languages, presented at at Center for Chinese Linguistics, Peking University, China, October 11. 
-- Jiang, Haowen. 2017. Taking function seriously: Argument and event nominalization in Budai Rukai, presented at the Nominalization Festival III at Osaka University, Japan, July 8. (Funded by the Rice-Osaka University joint project)
-- Jiang, Haowen. 2016b. Subject indexes in Budai Rukai and hortative meanings in Austronesian, presented at the Linguistics Colloquium at Institute of Linguistics, Academia Sinica, Taiwan, August 1.
-- Jiang, Haowen. 2016a. Nominalization in Amis: A Formosan language, presented at the Nominalization Festival II at Osaka University, Japan, June 4. (Funded by the Rice-Osaka University joint project)
-- Jiang, Haowen. 2015. A nominalization account of possessive substantives in Formosan languages, presented at the Nominalization Festival I at Osaka University, Japan, August 8. (Funded by the Rice-Osaka University joint project)
-- **Jiang, Haowen** & [Loren Billings](https://scholar.google.com/citations?user=fMjt40kAAAAJ&hl=en). 2014. What dialects with clustered (rather than verb-sandwiching) clitics tell us about argument indexing in Puyuma, presented at the Celebratory Conference for the 20th Anniversary of the Graduate Institute of Linguistics at National Taiwan University, Taiwan, November 8.
+- Jiang, Haowen. 2017. Taking function seriously: Argument and event nominalization in Budai Rukai, presented at the Nominalization Festival III, Osaka University, Japan, July 8. (Funded by the Rice-Osaka University joint project)
+- Jiang, Haowen. 2016b. Subject indexes in Budai Rukai and hortative meanings in Austronesian, presented at the Linguistics Colloquium, Institute of Linguistics, Academia Sinica, Taiwan, August 1.
+- Jiang, Haowen. 2016a. Nominalization in Amis: A Formosan language, presented at the Nominalization Festival II, Osaka University, Japan, June 4. (Funded by the Rice-Osaka University joint project)
+- Jiang, Haowen. 2015. A nominalization account of possessive substantives in Formosan languages, presented at the Nominalization Festival I, Osaka University, Japan, August 8. (Funded by the Rice-Osaka University joint project)
+- **Jiang, Haowen** & [Loren Billings](https://scholar.google.com/citations?user=fMjt40kAAAAJ&hl=en). 2014. What dialects with clustered (rather than verb-sandwiching) clitics tell us about argument indexing in Puyuma, presented at the Celebratory Conference for the 20th Anniversary of the Graduate Institute of Linguistics, National Taiwan University, Taiwan, November 8.
 - Jiang, Haowen. 2013. The possession-modification scale and a reappraisal of “genitive” in Paiwan, Rukai, and Puyuma, presented at the Second NTU Workshop on Discourse and Grammar in Formosan Languages, Graduate Institute of Linguistics, National Taiwan University, Taiwan, June 1.
 - Jiang, Haowen. 2012c. Three dichotomies in the Kavalan demonstrative system, presented at Linguistics Colloquium, National Chi Nan University, Taiwan, October 25.
 - Jiang, Haowen. 2012b. Nominalization and stance marking in Kavalan and Amis: A contrastive study of `=ay`, presented at Linguistics Colloquium, National Chi Nan University, Taiwan, October 24.
