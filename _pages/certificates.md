@@ -1,7 +1,13 @@
-[![views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoward-haowen%2Fhoward-haowen.github.io&count_bg=%2367E805&title_bg=%23555555&icon=grav.svg&icon_color=%2367E805&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com) [![linkedin](https://img.shields.io/badge/View-My_LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haowen-jiang-phd-16242074/) [![github](https://img.shields.io/badge/View_My_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/howard-haowen)  
-
 ---
-## Certificates
+layout: archive
+title: "Certificates"
+permalink: /certificates/
+author_profile: true
+---
+
+{% include base_path %}
+
+[![views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoward-haowen%2Fhoward-haowen.github.io&count_bg=%2367E805&title_bg=%23555555&icon=grav.svg&icon_color=%2367E805&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
 - [Microsoft](#microsoft)
     - [Azure Data Scientist Associate](#azure-data-scientist-associate)
