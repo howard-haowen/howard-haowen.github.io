@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "About Haowen Jiang"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-About Haowen Jiang
 
 Dr. Haowen Jiang earned his Ph.D. in Linguistics from Rice University in Houston, Texas. With a strong track record of securing research funding and extensive experience in effectively communicating research outcomes to diverse audiences, Dr. Jiang brings a wealth of knowledge to his field.
 
