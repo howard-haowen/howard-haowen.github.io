@@ -7,9 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-<img width="150" height="150" src="https://github.com/howard-haowen/howard-haowen.github.io/raw/master/images/rice.png">
-<img width="150" height="150" src="https://github.com/howard-haowen/howard-haowen.github.io/raw/master/images/ntu.jpg">
-
 - Ph.D., [Department of Linguistics](https://linguistics.rice.edu/), Rice University, Houston, Texas, USA
 
 - M.A., [Department of Linguistics](https://linguistics.rice.edu/), Rice University, Houston, Texas, USA  
