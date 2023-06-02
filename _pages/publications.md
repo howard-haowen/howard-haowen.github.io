@@ -10,7 +10,7 @@ author_profile: true
 - [Postdoc Report](#postdoc-report)
 - [PhD Dissertation](#phd-dissertation)
 - [MA Thesis](#ma-thesis)
-- [Articles and Chapters](#artciles-and-chapters)
+- [Articles and Chapters](#articles-and-chapters)
 - [Manuscript](#manuscript)
 
 ---
