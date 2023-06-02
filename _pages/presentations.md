@@ -7,13 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-- [Keywords](#keywords)
 - [Contributed Talks](#contributed-talks)
 - [Invited Talks](#invited-talks)
-
----
-### Keywords
-[linguistic typology](https://en.wikipedia.org/wiki/Linguistic_typology) | [discourse analysis](https://en.wikipedia.org/wiki/Discourse_analysis) | [nominalization](https://en.wikipedia.org/wiki/Nominalization) | [demonstrative](https://en.wikipedia.org/wiki/Demonstrative) | [clitic](https://en.wikipedia.org/wiki/Clitic)  | [Languages of Taiwan](https://en.wikipedia.org/wiki/Languages_of_Taiwan)   
 
 ---
 ### Contributed Talks

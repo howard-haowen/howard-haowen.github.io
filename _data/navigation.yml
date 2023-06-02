@@ -12,10 +12,10 @@ main:
   - title: "Academic Presentations"
     url: /presentations/
 
-  - title: "NLP Talks"
-    url: /talks/    
+  # - title: "nlp talks"
+  #   url: /talks/    
 
-  - title: "Certificates"
+  - title: "certificates"
     url: /certificates/
       
   - title: "Projects"
