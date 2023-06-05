@@ -1,18 +1,22 @@
-# Authors
+# Co-Authors
+ 
+Billings:
+  name  : "Loren Billings"
+  url   : "https://lu.academia.edu/Billings/"
+    
+Chen:
+  name  : "Sihwei Chen"
+  url   : "https://sihweichen.wordpress.com/"
 
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+Huang:
+  name  : "Ruiling Huang"
+  url   : 
+  
+Pardeshi:
+  name  : "Prashant Pardeshi"
+  url   : "http://www.prashantpardeshi.net/"
+    
+Shibatani:
+  name  : "Masayoshi Shibatani"
+  url   : "https://profiles.rice.edu/faculty/masayoshi-matt-shibatani"
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
