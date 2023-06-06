@@ -175,18 +175,18 @@ kramdown:
 
 # Collections
 collections:
-  publications:
+  certificates:
     output: true
     permalink: /:collection/:path/
-  presentations:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
-  projects:
-    output: true
-    permalink: /:collection/:path/
+  # presentations:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # talks:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # projects:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 
 # Defaults
@@ -227,10 +227,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _certificates
   - scope:
       path: ""
-      type: portfolio
+      type: certificates
     values:
       layout: single
       author_profile: true
