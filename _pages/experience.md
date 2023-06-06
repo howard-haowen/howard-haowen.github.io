@@ -7,13 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-- Assistant Manager of Data Analysis, Shin Kong Life Insurance.
+- Assistant Manager of Data Analysis, [Shin Kong Life Insurance](https://www.skl.com.tw/).
  
-- Deputy Manager of Research & Development, Ubestream Inc. 
+- Deputy Manager of Research & Development, [Ubestream Inc](https://ubestream.com/). 
 
 - AI Engineer, [Wisers Information Limited](https://www.wisers.com/).
 
-- AI Engineer, Hamastar Technology.
+- AI Engineer, [Hamastar Technology](https://www.hamastar.com.tw/).
 
 - Boya Postdoc Researcher (博雅博士后), [Peking University](https://english.pku.edu.cn/).
 

@@ -9,17 +9,17 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Academic Presentations"
-    url: /presentations/
-
-  # - title: "nlp talks"
-  #   url: /talks/    
-
   - title: "Certificates"
     url: /certificates/
       
   - title: "Projects"
     url: /projects/
+      
+  - title: "Academic Presentations"
+    url: /presentations/
+
+  # - title: "Guest Lectures"
+  #   url: /lectures/    
         
   # - title: "Blog Posts"
   #   url: /year-archive/
