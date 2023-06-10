@@ -1,6 +1,6 @@
 ---
 title: "Neo4j Certified Professional"
-excerpt: "Earning the Neo4j Certified Professional certification validates the skills and knowledge to build applications with with graph data modeling and Cypher queries.
+excerpt: "Earning the Neo4j Certified Professional certification validates the skills and knowledge to build applications with with graph data modeling and Cypher queries.<br/><img src='/images/neo4j-certified-professional.png'>"
 collection: certificates
 ---
 
