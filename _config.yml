@@ -175,7 +175,7 @@ kramdown:
 
 # Collections
 collections:
-  certificates:
+  certifications:
     output: true
     permalink: /:collection/:path/
   # presentations:
@@ -227,10 +227,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _certificates
+  # _certifications
   - scope:
       path: ""
-      type: certificates
+      type: certifications
     values:
       layout: single
       author_profile: true

@@ -1,12 +1,12 @@
 ---
 title: "Microsoft Azure Data Scientist Associate"
-excerpt: "Earning the Azure Data Scientist Associate certification validates the skills and knowledge to apply Azure’s machine learning techniques to train, evaluate, and deploy models that solve business problems.<br/><img src='/images/azure-dsa.png'>"
-collection: certificates
+excerpt: "Earning this certification validates the skills and knowledge to apply Azure’s machine learning techniques to train, evaluate, and deploy models that solve business problems.<br/><img src='/images/azure:png'>"
+collection: certifications
 ---
 
 ![](/images/azure-dsa.png)
 
-[Certificate URL](https://www.credly.com/badges/7c4f2a43-cf71-4604-b36d-d68544c96a2e/embedded)
+[Certification URL](https://www.credly.com/badges/7c4f2a43-cf71-4604-b36d-d68544c96a2e/embedded)
 
 ## Certification details
 

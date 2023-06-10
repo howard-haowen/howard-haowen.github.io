@@ -1,12 +1,12 @@
 ---
 title: "Neo4j Certified Professional"
-excerpt: "Earning the Neo4j Certified Professional certification validates the skills and knowledge to build applications with with graph data modeling and Cypher queries.<br/><img src='/images/neo4j-certified-professional.png'>"
-collection: certificates
+excerpt: "Earning this certification validates the skills and knowledge to build applications with graph data modeling and Cypher queries.<br/><img src='/images/neo4j-certified-professional.png'>"
+collection: certifications
 ---
 
 ![](/images/neo4j-certified-professional.png)
 
-[Certificate URL](https://graphacademy.neo4j.com/u/7b859420-f502-46aa-81c9-bb5fd10c05da/neo4j-certification)
+[Certification URL](https://graphacademy.neo4j.com/u/7b859420-f502-46aa-81c9-bb5fd10c05da/neo4j-certification)
 
 ## Certification details
 
