@@ -1,6 +1,6 @@
 ---
 title: "Microsoft Azure Data Scientist Associate"
-excerpt: "Earning this certification validates the skills and knowledge to apply Azure’s machine learning techniques to train, evaluate, and deploy models that solve business problems.<br/><img src='/images/azure:png'>"
+excerpt: "Earning this certification validates the skills and knowledge to apply Azure’s machine learning techniques to train, evaluate, and deploy models that solve business problems.<br/><img src='/images/azure-dsa.png'>"
 collection: certifications
 ---
 
