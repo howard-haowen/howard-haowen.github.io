@@ -8,7 +8,6 @@ author_profile: true
 {% include base_path %}
 
 - [My AI blog](#my-ai-blog)
-- [My NLP talks](#my-nlp-talks)
 - [Language learning APP](#language-learning-app)
 - [Database of Formosan-Mandarin sentence pairs](#database-of-formosan-mandarin-sentence-pairs)
 - [The Wordle game in languages of Taiwan](#the-wordle-game-in-languages-of-taiwan)
@@ -16,10 +15,6 @@ author_profile: true
 ### My AI blog     
 
 - This blog documents my learning journey to the world of programming and NLP. [![blog](https://img.shields.io/badge/Click-Me-FF5722?style=flat&logo=blogger&logoColor=white)](https://howard-haowen.github.io/blog.ai/)
-
-### My NLP talks
-
-- This site hosts NLP talks and tutorials I gave, made with Jupyter Notebook and reveal.js. [![dataset](https://img.shields.io/badge/Click-Me-F37626?style=flat&logo=jupyter&logoColor=white)](http://howard-haowen.rohan.tw/NLP-demos/)
 
 ### Language learning APP
 
