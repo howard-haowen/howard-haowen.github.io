@@ -1,6 +1,7 @@
 ---
 title: "freeCodeCamp Data Analysis with Python"
 excerpt: "Earning this certification validates the skills and knowledge to read, process, and visualize data with popular Python libraries.<br/><img src='/images/fcp-da-with-python.png'>"
+date: 2022-02-23
 collection: certifications
 ---
 

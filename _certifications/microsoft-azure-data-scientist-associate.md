@@ -1,6 +1,7 @@
 ---
 title: "Microsoft Azure Data Scientist Associate"
 excerpt: "Earning this certification validates the skills and knowledge to apply Azure’s machine learning techniques to train, evaluate, and deploy models that solve business problems.<br/><img src='/images/azure-dsa.png'>"
+date: 2021-06-27
 collection: certifications
 ---
 

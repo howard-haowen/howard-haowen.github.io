@@ -1,6 +1,7 @@
 ---
 title: "Google Ads Search"
 excerpt: "Earning this certification validates the skills and knowledge to leverage automated solutions like Smart Bidding and Audience Solutions to boost campaign performance for specific marketing objectives.<br/><img src='/images/google-ads-search.png'>"
+date: 2022-05-12
 collection: certifications
 ---
 
