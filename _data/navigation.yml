@@ -6,21 +6,21 @@ main:
   - title: "Experience"
     url: /experience/
       
+  - title: "Certifications"
+    url: /certifications/
+      
   - title: "Publications"
     url: /publications/
 
-  - title: "Certifications"
-    url: /certifications/
+  - title: "NLP Talks"
+    url: /talks/    
+      
+  - title: "Academic Presentations"
+    url: /presentations/
       
   - title: "Projects"
     url: /projects/
       
-  - title: "Academic Presentations"
-    url: /presentations/
-
-  # - title: "Guest Lectures"
-  #   url: /lectures/    
-        
   # - title: "Blog Posts"
   #   url: /year-archive/
     
