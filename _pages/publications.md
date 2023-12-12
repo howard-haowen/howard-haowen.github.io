@@ -32,9 +32,9 @@ Jiang, Haowen. 2006. *Spatial conceptualizations in Kavalan*. Taipei: National T
 
 ---
 ### Articles and Chapters
-- Jiang, Haowen. 2023b.  16. Nominalization in Formosan Languages. In Paul Jen-kuei Li, Elizabeth Zeitoun & Rik De Busser (eds), *Handbook of Formosan Languages: The Indigenous Languages of Taiwan*. Leiden: Brill. [Brill Online](http://dx.doi.org/10.1163/2772_5766_HFLO_COM_102100)
+- Jiang, Haowen. 2023b.  16. Nominalization in Formosan Languages. In Paul Jen-kuei Li, Elizabeth Zeitoun & Rik De Busser (eds.), *Handbook of Formosan Languages: The Indigenous Languages of Taiwan*. Leiden: Brill. [Brill Online](http://dx.doi.org/10.1163/2772_5766_HFLO_COM_102100)
 
-- Jiang, Haowen. 2023a. Person systems in Puyuma, an Austronesian language of Taiwan (in Chinese). *Essays on Linguistics* 2023(4): 20-40. [语言学论丛(Yuyanxue Luncong)](https://mmbiz.qpic.cn/mmbiz_png/zgWANhYRuGrlsR9czZ3uvxsLvaw1NFg3yibEibazCgfbOhN5ibE965qIk4oanNDJm3BhRuiclbs8LueAkmQYDdjHicg/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1) 
+- Jiang, Haowen. 2023a. Person systems in Puyuma, an Austronesian language of Taiwan (in Chinese). *Essays on Linguistics* 4: 20-40. [语言学论丛(Yuyanxue Luncong)](https://mmbiz.qpic.cn/mmbiz_png/zgWANhYRuGrlsR9czZ3uvxsLvaw1NFg3yibEibazCgfbOhN5ibE965qIk4oanNDJm3BhRuiclbs8LueAkmQYDdjHicg/640?wx_fmt=png&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1) 
 
 - Jiang, Haowen. 2021c. On identifying the scope of clitics: A case study of Bunun demonstratives (in Chinese). *Linguistic Sciences* 20(6): 589-607. [语言科学(Yuyan Kexue)](http://journal15.magtechjournal.com/Jwk_yykx/CN/volumn/volumn_1255.shtml) [pdf](https://howard-haowen.github.io/pdf/Jiang2021_On_identifying_the_scope_of_clitics_A_case_study_of_Bunun_demonstratives.pdf)
 
@@ -46,11 +46,11 @@ Jiang, Haowen. 2006. *Spatial conceptualizations in Kavalan*. Taipei: National T
 
 - Jiang, Haowen & [Loren Billings](https://scholar.google.com/citations?user=fMjt40kAAAAJ&hl=en). 2015. Person-based ordering of pronominal clitics in Rikavung Puyuma: An inverse analysis. In Amber Camp, Yuko Otsuka, Claire Stabile & Nozomi Tanaka (eds.), [*AFLA 21: The Proceedings of the 21st Meeting of the Austronesian Formal Linguistics Association (Asia-Pacific Linguistics 25)*](https://openresearch-repository.anu.edu.au/handle/1885/95329), 87–106. Canberra: Australian National University. [pdf](https://howard-haowen.github.io/pdf/Jiang-Billings2015_Person-based-ordering-of-pronominal-clitics-in-Rikavung-Puyuma.pdf) 
 
-- Jiang, Haowen. 2013. Appearances are not skin deep: On the status of *de yangzi*  as an inferential marker in colloquial Mandarin discourse. *Chinese Language and Discourse* 4(1): 35-73. [John Benjamins](https://www.jbe-platform.com/content/journals/10.1075/cld.4.1.02jia)
+- Jiang, Haowen. 2013. Appearances are not skin deep: On the status of *de yangzi*  as an inferential marker in colloquial Mandarin discourse. *Chinese Language and Discourse* 4(1): 35–73. [John Benjamins](https://www.jbe-platform.com/content/journals/10.1075/cld.4.1.02jia)
 
-- Jiang, Haowen. 2009b. How can Cognitive Linguistics help us with second language acquisition? A case study of the Russian motion verb idti. In Evan Ashworth, Melvatha Chee, Grandon Goertz & Brittany Kubacki (eds.), *Proceedings of the 8th High Desert Linguistics Society Conference (HDLS-8)*, 40–60. Albuquerque: High Desert Linguistics Society. [pdf](https://howard-haowen.github.io/pdf/Jiang2009_A-case-study-of-the-Russian-Motion-verb-IDTI.pdf)  
+- Jiang, Haowen. 2009b. How can Cognitive Linguistics help us with second language acquisition? A case study of the Russian motion verb idti. In Evan Ashworth, Melvatha Chee, Grandon Goertz & Brittany Kubacki (eds.), *Proceedings of the 8th High Desert Linguistics Society Conference (HDLS-8)*, 40-60. Albuquerque: High Desert Linguistics Society. [pdf](https://howard-haowen.github.io/pdf/Jiang2009_A-case-study-of-the-Russian-Motion-verb-IDTI.pdf)  
 
-- Jiang, Haowen. 2009a. Reported speech and thought in Kavalan. *Rice Working Papers in Linguistics* 1: 142-150. [pdf](https://howard-haowen.github.io/pdf/Jiang2009_Reported-speech-and-thought-in-Kavalan.pdf)
+- Jiang, Haowen. 2009a. Reported speech and thought in Kavalan. *Rice Working Papers in Linguistics* 1: 142–150. [pdf](https://howard-haowen.github.io/pdf/Jiang2009_Reported-speech-and-thought-in-Kavalan.pdf)
 
 - Jiang, Haowen. 2004. The “…*shi*…, *keshi*…” construction in Mandarin: A Construction Grammar perspective. *Proceedings of the 4th National Conference on Linguistics*. [pdf](https://howard-haowen.github.io/pdf/Jiang2004_The-shi-keshi-construction-in-Mandarin.pdf)
 
