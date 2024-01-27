@@ -34,7 +34,7 @@ Jiang, Haowen. 2006. *Spatial conceptualizations in Kavalan*. Taipei: National T
 ### Articles and Chapters
 - Jiang, Haowen. 2023b.  16. Nominalization in Formosan Languages. In Paul Jen-kuei Li, Elizabeth Zeitoun & Rik De Busser (eds.), *Handbook of Formosan Languages: The Indigenous Languages of Taiwan*. Leiden: Brill. [Brill Online](http://dx.doi.org/10.1163/2772_5766_HFLO_COM_102100)
 
-- Jiang, Haowen. 2023a. Person systems in Puyuma, an Austronesian language of Taiwan (in Chinese). *Essays on Linguistics* 4: 20-40. [北大期刊网(PKU Journals)](http://ccj.pku.edu.cn/article/info?aid=520145026719813)
+- Jiang, Haowen. 2023a. Person systems in Puyuma, an Austronesian language of Taiwan (in Chinese). *Essays on Linguistics* 4: 20-40. [北大期刊网(PKU Journals)](http://ccj.pku.edu.cn/article/info?aid=520145026719813) [pdf](https://howard-haowen.github.io/pdf/Jiang2023_Person-systems-in-Puyuma.pdf)
 
 - Jiang, Haowen. 2021c. On identifying the scope of clitics: A case study of Bunun demonstratives (in Chinese). *Linguistic Sciences* 20(6): 589-607. [语言科学(Yuyan Kexue)](http://journal15.magtechjournal.com/Jwk_yykx/CN/volumn/volumn_1255.shtml) [pdf](https://howard-haowen.github.io/pdf/Jiang2021_On_identifying_the_scope_of_clitics_A_case_study_of_Bunun_demonstratives.pdf)
 
@@ -64,5 +64,5 @@ Jiang, Haowen. 2010. Malayalam: A grammatical sketch and a text. [pdf](https://h
 <!-- p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
 <!-- Remove above link if you don't want to attibute -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1ODMwMTQ0OF19
+eyJoaXN0b3J5IjpbLTI2MzUzNTIwNiwtNzU4MzAxNDQ4XX0=
 -->
