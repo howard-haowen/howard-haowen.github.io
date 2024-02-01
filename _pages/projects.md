@@ -22,7 +22,7 @@ author_profile: true
 
 ### Database of Formosan-Mandarin sentence pairs
 
-- This is a database of Formosan-Mandarin sentence pairs, covering over 13,000 sentences across 16 Formosan languages that I crawled from various sources. [![dataset](https://img.shields.io/badge/Click-Me-150458?style=flat&logo=pandas&logoColor=white)](http://howard-haowen.rohan.tw/Formosan-languages/)
+- This is a database of Formosan-Mandarin sentence pairs, covering over 13,000 sentences across 16 Formosan languages that I crawled from various sources. [![dataset](https://img.shields.io/badge/Click-Me-150458?style=flat&logo=pandas&logoColor=white)](https://howard-haowen-formosan-languages.streamlit.app/)
 
 ### The [Wordle](https://www.nytimes.com/games/wordle/index.html) game in languages of Taiwan
 
@@ -37,5 +37,5 @@ author_profile: true
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3ODA0Nzg2OV19
+eyJoaXN0b3J5IjpbMjExNzc5NzgyMSwtNzc4MDQ3ODY5XX0=
 -->
