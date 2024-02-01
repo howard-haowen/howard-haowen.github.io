@@ -18,7 +18,7 @@ author_profile: true
 
 ### Language learning APP
 
-- This Web APP leverages the power of spaCy to assist language learning, and currently supports Mandarin, English, and Japanese. [![spacy](https://img.shields.io/badge/Click-Me-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://share.streamlit.io/howard-haowen/spacy-streamlit/app.py)
+- This Web APP leverages the power of spaCy to assist language learning, and currently supports Mandarin, English, and Japanese. [![spacy](https://img.shields.io/badge/Click-Me-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://howard-haowen-ailanguageguru.streamlit.app/)
 
 ### Database of Formosan-Mandarin sentence pairs
 
@@ -35,4 +35,7 @@ author_profile: true
 
 <!-- Remove above link if you don't want to attibute 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+-->
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTc3ODA0Nzg2OV19
 -->
