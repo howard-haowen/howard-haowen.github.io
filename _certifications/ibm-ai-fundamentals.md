@@ -2,8 +2,8 @@
 
 
 ---
-title: "Microsoft Azure Data Scientist Associate"
-excerpt: "Earning this certification validates the skills and knowledge to apply Azure’s machine learning techniques to train, evaluate, and deploy models that solve business problems.<br/><img src='/images/azure-dsa.png'>"
+title: "Artificial Intelligence Fundamentals"
+excerpt: "Earning this certification validates the skills and knowledge of artificial intelligence (AI) concepts, such as natural language processing, computer vision, machine learning, deep learning, chatbots, and neural networks; AI ethics; and the applications of AI.<br/><img src='/images/azure-dsa.png'>"
 date: 2023-06-13
 collection: certifications
 ---
@@ -22,5 +22,5 @@ A candidate for this certification should have knowledge and experience in data 
 
 [Source](https://learn.microsoft.com/en-us/certifications/azure-data-scientist/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NTI4NDQ0NF19
+eyJoaXN0b3J5IjpbLTEyMzI0ODkzMTBdfQ==
 -->
