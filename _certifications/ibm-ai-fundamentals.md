@@ -3,8 +3,8 @@
 
 ---
 title: "Artificial Intelligence Fundamentals"
-excerpt: "Earning this certification validates the skills and knowledge of artificial intelligence (AI) concepts, such as natural language processing, computer vision, machine learning, deep learning, chatbots, and neural networks; AI ethics; and the applications of AI.<br/><img src='/images/azure-dsa.png'>"
-date: 2023-06-13
+excerpt: "Earning this certification validates the knowledge of artificial intelligence (AI) concepts, such as natural language processing, computer vision, machine learning, deep learning, chatbots, and neural networks; AI ethics; and the applications of AI.<br/><img src='/images/ibm-ai-fundamentals.png'>"
+date: 2024-03-02
 collection: certifications
 ---
 
@@ -22,5 +22,5 @@ A candidate for this certification should have knowledge and experience in data 
 
 [Source](https://learn.microsoft.com/en-us/certifications/azure-data-scientist/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzI0ODkzMTBdfQ==
+eyJoaXN0b3J5IjpbNzMyNTQxNjcxXX0=
 -->
