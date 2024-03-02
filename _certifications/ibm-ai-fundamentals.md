@@ -14,13 +14,14 @@ collection: certifications
 
 ## Certification details
 
-Candidates for the Azure Data Scientist Associate certification should have subject matter expertise in applying data science and machine learning to implement and run machine learning workloads on Azure.
+This credential earner demonstrates knowledge of artificial intelligence (AI) concepts, such as natural language processing, computer vision, machine learning, deep learning, chatbots, and neural networks; ethical AI; and the applications of AI. The individual has a conceptual understanding of how to run an AI model using IBM Watson Studio. The earner is aware of the job outlook in fields that use AI and is familiar with the skills required for success in various roles in the domain.
 
-Responsibilities for this role include designing and creating a suitable working environment for data science workloads; exploring data; training machine learning models; implementing pipelines; running jobs to prepare for production; and managing, deploying, and monitoring scalable machine learning solutions.
-
-A candidate for this certification should have knowledge and experience in data science by using Azure Machine Learning and MLflow.
+- Earning criteria
+	-   Complete Artificial Intelligence Fundamentals, a prescribed set of courses, designed by IBM.
+	-   Pass the graded quizzes and final assessments and complete the practice simulations.
+	-   This badge is available to registered users of IBM SkillsBuild.
 
 [Source](https://learn.microsoft.com/en-us/certifications/azure-data-scientist/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI4OTMzOTMwXX0=
+eyJoaXN0b3J5IjpbNTk4NTEyNTddfQ==
 -->
