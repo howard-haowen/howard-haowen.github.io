@@ -8,9 +8,9 @@ date: 2024-03-02
 collection: certifications
 ---
 
-![](/images/azure-dsa.png)
+![](/images/ibm-ai-fundamentals.png)
 
-[Certification URL](https://www.credly.com/badges/7c4f2a43-cf71-4604-b36d-d68544c96a2e/public_url)
+[Certification URL](https://www.credly.com/badges/a449699a-c550-4d16-b7a3-f921a84c3597/public_url)
 
 ## Certification details
 
@@ -22,5 +22,5 @@ A candidate for this certification should have knowledge and experience in data 
 
 [Source](https://learn.microsoft.com/en-us/certifications/azure-data-scientist/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMyNTQxNjcxXX0=
+eyJoaXN0b3J5IjpbODI4OTMzOTMwXX0=
 -->
