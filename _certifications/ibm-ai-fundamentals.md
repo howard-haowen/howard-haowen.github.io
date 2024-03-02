@@ -1,6 +1,3 @@
-
-
-
 ---
 title: "Artificial Intelligence Fundamentals"
 excerpt: "Earning this certification validates the knowledge of artificial intelligence (AI) concepts, such as natural language processing, computer vision, machine learning, deep learning, chatbots, and neural networks; AI ethics; and the applications of AI.<br/><img src='/images/ibm-ai-fundamentals.png'>"
