@@ -11,13 +11,9 @@ collection: certifications
 
 ## Certification details
 
-This credential earner demonstrates knowledge of artificial intelligence (AI) concepts, such as natural language processing, computer vision, machine learning, deep learning, chatbots, and neural networks; ethical AI; and the applications of AI. The individual has a conceptual understanding of how to run an AI model using IBM Watson Studio. The earner is aware of the job outlook in fields that use AI and is familiar with the skills required for success in various roles in the domain.
+How big is big and why does big matter and what does Apache Hadoop have to do with it? In this course you will see the Big Data big picture and you will learn the terminology used in Big Data discussions.
 
-- Earning criteria:
-	-   Complete Artificial Intelligence Fundamentals, a prescribed set of courses, designed by IBM.
-	-   Pass the graded quizzes and final assessments and complete the practice simulations.
-
-[Source](https://www.ibm.com/training/badge/artificial-intelligence-fundamentals)
+[Source](https://skills.yourlearning.ibm.com/activity/SN-COURSE-V1:COGNITIVECLASS+BD0101EN+V2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQwODU1Njk3XX0=
+eyJoaXN0b3J5IjpbLTE4NjIwNzg1OTBdfQ==
 -->
