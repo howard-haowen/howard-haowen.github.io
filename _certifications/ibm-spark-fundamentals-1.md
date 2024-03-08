@@ -1,6 +1,6 @@
 ---
 title: "IBM Spark Fundamentals I"
-excerpt: "Earning this certification validates basic Big Data concepts and common processing operations with Apache Hadoop.<br/><img src='/images/ibm-hadoop-101.png'>"
+excerpt: "Earning this certification validates basic Big Data concepts and common processing operations with Apache Spark.<br/><img src='/images/ibm-hadoop-101.png'>"
 date: 2024-03-03
 collection: certifications
 ---
@@ -15,5 +15,5 @@ This free Apache Hadoop course introduces you to Big Data concepts, and teaches 
 
 [Source](https://skills.yourlearning.ibm.com/activity/SN-COURSE-V1:BIGDATAUNIVERSITY+BD0111EN+V1)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcyMjkyNTU4XX0=
+eyJoaXN0b3J5IjpbLTIwNjAzMzgyMzZdfQ==
 -->
