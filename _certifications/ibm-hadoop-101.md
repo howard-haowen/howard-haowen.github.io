@@ -1,6 +1,6 @@
 ---
 title: "IBM Hadoop 101"
-excerpt: "Earning this certification validates basic .<br/><img src='/images/ibm-big-data-101.png'>"
+excerpt: "Earning this certification validates basic Big Data concepts and common Hadoop operations.<br/><img src='/images/ibm-big-data-101.png'>"
 date: 2024-03-02
 collection: certifications
 ---
@@ -15,5 +15,5 @@ How big is big and why does big matter and what does Apache Hadoop have to do wi
 
 [Source](https://skills.yourlearning.ibm.com/activity/SN-COURSE-V1:COGNITIVECLASS+BD0101EN+V2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTAzOTgzNjVdfQ==
+eyJoaXN0b3J5IjpbLTE0OTYzNDA1NzldfQ==
 -->
