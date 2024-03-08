@@ -1,19 +1,19 @@
 ---
 title: "IBM Hadoop 101"
-excerpt: "Earning this certification validates basic Big Data concepts and common Hadoop operations.<br/><img src='/images/ibm-big-data-101.png'>"
-date: 2024-03-02
+excerpt: "Earning this certification validates basic Big Data concepts and common operations with Apache Hadoop.<br/><img src='/images/ibm-hadoop-101.png'>"
+date: 2024-03-03
 collection: certifications
 ---
 
-![](/images/ibm-big-data-101.png)
+![](/images/ibm-hadoop-101.png)
 
-[Certification URL](https://courses.skillsbuild.skillsnetwork.site/certificates/8aeafe24baf143138ab95d1c908bbb02)
+[Certification URL](https://courses.skillsbuild.skillsnetwork.site/certificates/e0b38a505b8f4b4bab170d54c309334a)
 
 ## Certification details
 
-How big is big and why does big matter and what does Apache Hadoop have to do with it? In this course you will see the Big Data big picture and you will learn the terminology used in Big Data discussions.
+This free Apache Hadoop course introduces you to Big Data concepts, and teaches you how to perform distributed processing of large data sets with Hadoop.
 
-[Source](https://skills.yourlearning.ibm.com/activity/SN-COURSE-V1:COGNITIVECLASS+BD0101EN+V2)
+[Source](https://skills.yourlearning.ibm.com/activity/SN-COURSE-V1:BIGDATAUNIVERSITY+BD0111EN+V1)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTYzNDA1NzldfQ==
+eyJoaXN0b3J5IjpbLTM4NDA2MjA5Ml19
 -->
