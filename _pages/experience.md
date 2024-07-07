@@ -7,22 +7,24 @@ author_profile: true
 
 {% include base_path %}
 
-- Assistant Manager of Data Analysis, [Shin Kong Life Insurance](https://www.skl.com.tw/).
- 
-- Deputy Manager of Research & Development, [Ubestream Inc](https://ubestream.com/). 
+-   AI Engineer, Client Engineering, [IBM](https://www.ibm.com/us-en).
 
-- AI Engineer, [Wisers Information Limited](https://www.wisers.com/).
+-   Assistant Manager of Data Analysis, [Shin Kong Life Insurance](https://www.skl.com.tw/).
 
-- AI Engineer, [Hamastar Technology](https://www.hamastar.com.tw/).
+-   Deputy Manager of Research & Development, [Ubestream Inc](https://ubestream.com/).
 
-- Boya Postdoc Researcher (博雅博士后), [Peking University](https://english.pku.edu.cn/).
+-   AI Engineer, [Wisers Information Limited](https://www.wisers.com/).
 
-- English Lecturer, [National Taipei University of Technology](https://new.ntpu.edu.tw/).
+-   AI Engineer, [Hamastar Technology](https://www.hamastar.com.tw/).
 
-- English Lecturer, [Soochow University, Taiwan](https://www-en.scu.edu.tw/).
+-   Boya Postdoc Researcher (博雅博士后), [Peking University](https://english.pku.edu.cn/).
 
-- Research Assistant, [Linguistic Society of Taiwan](https://linguist.tw/en/).
+-   English Lecturer, [National Taipei University of Technology](https://new.ntpu.edu.tw/).
 
-<!-- Remove above link if you don't want to attibute 
+-   English Lecturer, [Soochow University, Taiwan](https://www-en.scu.edu.tw/).
+
+-   Research Assistant, [Linguistic Society of Taiwan](https://linguist.tw/en/).
+
+<!-- Remove above link if you don't want to attibute
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 -->
