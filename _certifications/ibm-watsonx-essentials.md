@@ -15,7 +15,3 @@ collection: certifications
 -   In addition, the earner understands the concepts and advantages of AI, along with IBM's AI strategy for addressing ethical and sustainable AI challenges.
 
 [Source](https://www.credly.com/badges/3ab6a975-13c4-4b12-ab66-3e93c7f8da54/public_url)
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MjYwMzIxOV19
--->

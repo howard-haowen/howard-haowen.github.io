@@ -13,7 +13,3 @@ collection: certifications
 -   Learn the basics, advanced strategies, and applications to shape the future of AI-driven communication.
 
 [Source](https://www.mygreatlearning.com/academy/learn-for-free/courses/prompt-engineering-for-chatgpt?utm_source=linkedin&utm_medium=linkedin&utm_campaign=linkedin_certificate_share&utm_source_page=public_certificate_view&referrer_code=GL5YYEWDHLDFI)
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MjYwMzIxOV19
--->
