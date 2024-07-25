@@ -16,7 +16,3 @@ collection: certifications
 -   Additionally, they can articulate how watsonx.ai meets enterprise needs related to model training, and building trust and efficiency in business applications.
 
 [Source](https://www.credly.com/badges/275d0bcc-bb2e-4323-b4a8-2235032adda6/public_url)
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MjYwMzIxOV19
--->
