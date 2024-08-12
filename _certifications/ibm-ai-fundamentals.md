@@ -13,11 +13,12 @@ collection: certifications
 
 This credential earner demonstrates knowledge of artificial intelligence (AI) concepts, such as natural language processing, computer vision, machine learning, deep learning, chatbots, and neural networks; ethical AI; and the applications of AI. The individual has a conceptual understanding of how to run an AI model using IBM Watson Studio. The earner is aware of the job outlook in fields that use AI and is familiar with the skills required for success in various roles in the domain.
 
-- Earning criteria:
-	-   Complete Artificial Intelligence Fundamentals, a prescribed set of courses, designed by IBM.
-	-   Pass the graded quizzes and final assessments and complete the practice simulations.
+-   Earning criteria:
+    -   Complete Artificial Intelligence Fundamentals, a prescribed set of courses, designed by IBM.
+    -   Pass the graded quizzes and final assessments and complete the practice simulations.
 
 [Source](https://www.ibm.com/training/badge/artificial-intelligence-fundamentals)
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTEyOTgwMjkyMzAsLTE3MjM2OTE4NDQsNT
 k4NTEyNTddfQ==
