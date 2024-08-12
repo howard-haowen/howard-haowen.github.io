@@ -6,6 +6,7 @@ collection: certifications
 ---
 
 ![](/images/gla-prompt-engineering-for-chatgpt.png)
+[Certification URL](https://www.mygreatlearning.com/certificate/SDOQYEVO)
 
 ## Certification details
 
