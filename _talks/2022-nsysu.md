@@ -9,6 +9,5 @@ date: 2022-04-15
 
 - Venue: {{ page.venue }}
 - Dates: 2022-04-15 ~ 2022-06-10
-- [Workshop Page](https://howard-haowen.rohan.tw/NLP-demos/nsysu_workshop)
+- [Workshop Page](https://howard-haowen.github.io/NLP-demos/nsysu_workshop)
 - [Workshop Slides](https://hackmd.io/@howard-haowen/nsysu-workshop)
-
