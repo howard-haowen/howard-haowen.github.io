@@ -1,5 +1,5 @@
 ---
-title: "IBM Global Sales Schoole - Sales Activation"
+title: "IBM Global Sales School - Sales Activation"
 excerpt: "Earning this certification validates the ability to effectively engage with clients, identify opportunities, and drive revenue growth through the development of key sales skills.<br/><img src='/images/ibm-global-sales-school-sales-activation.png'>"
 date: 2024-09-26
 collection: certifications
