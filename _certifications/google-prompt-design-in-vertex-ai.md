@@ -11,7 +11,16 @@ collection: certifications
 
 ## Certification details
 
--   Complete the introductory Prompt Design in Vertex AI skill badge to demonstrate skills in the following: prompt engineering, image analysis, and multimodal generative techniques, within Vertex AI.
--   Discover how to craft effective prompts, guide generative AI output, and apply Gemini models to real-world marketing scenarios.
+### What you will learn
+
+- **Effective Prompt Engineering**: Master the art of crafting effective prompts to guide generative AI models and achieve desired results within Vertex AI.
+- **Multimodal Generative Techniques**: Explore and apply multimodal techniques, combining text and image data within the generative AI workflow.
+- **Gemini Model Application**: Gain practical experience using Google's Gemini models for creative applications, focusing on real-world marketing scenarios.
+
+### Why earn this certification
+
+- **Boost Generative AI Proficiency**: Enhance your skills in leveraging generative AI models for practical applications, specifically within Vertex AI.
+- **Master Prompt Design**: Develop expert-level skills in prompt engineering, a critical skill for successful generative AI projects.
+- **Unlock Marketing Innovation**: Learn to apply generative AI to real-world marketing challenges, generating innovative solutions.
 
 [Source](https://www.credly.com/badges/fc9eed00-e2d9-438d-a96b-b8fcb67fa3d6/public_url)

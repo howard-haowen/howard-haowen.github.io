@@ -11,26 +11,16 @@ collection: certifications
 
 ## Certification details
 
-### What you will learn:
+### What you will learn
 
-* **LangChain Fundamentals:**  Gain a strong understanding of LangChain, a powerful framework for building and deploying Generative AI applications. This includes:
-    * Understanding the core concepts of LangChain, including chains, prompts, and agents.
-    * Learning how to integrate different AI models and data sources into LangChain applications.
-* **Retrieval Augmented Generation (RAG):**  Master the RAG technique for creating more accurate and context-aware Generative AI applications. This includes:
-    * Understanding how RAG works, combining retrieval systems with generative models.
-    * Implementing RAG in LangChain applications for enhanced knowledge retrieval and response generation.
-* **Vertex AI Integration:**  Learn how to leverage Google Cloud's Vertex AI platform to power your LangChain applications. This includes:
-    * Using Vertex AI's Generative AI capabilities, including PaLM 2 and other advanced models.
-    * Leveraging Vertex AI's features for building and deploying scalable LangChain applications.
-* **Building Text-Based Applications:**  Develop practical skills in creating text-based Generative AI applications using LangChain and RAG. This includes:
-    * Understanding how to effectively design prompts and optimize your applications for better results.
-    * Deploying your applications for real-world use cases.
+- **LangChain Application Development**: Gain practical skills in building Generative AI applications using the LangChain framework.
+- **Retrieval Augmented Generation (RAG)**: Master the RAG technique for creating more accurate and contextually relevant text-based content.
+- **Vertex AI Integration**: Learn to leverage Google Vertex AI's powerful Generative AI capabilities within your LangChain applications.
 
-### Why earn this certification:
+### Why earn this certification
 
-* **Become a LangChain Expert:** Gain proficiency in building Generative AI applications using the popular LangChain framework.
-* **Harness RAG for Enhanced Accuracy:** Master the Retrieval Augmented Generation (RAG) technique to improve the context and accuracy of your AI applications.
-* **Leverage Vertex AI Power:** Learn to utilize the advanced capabilities of Google Cloud's Vertex AI platform to enhance your Generative AI projects.
-* **Build Real-World Applications:** Develop practical skills in creating text-based applications that solve real-world problems.
+- **Demonstrate Generative AI Expertise**: Showcase your ability to build sophisticated Generative AI applications using industry-standard tools.
+- **Unlock Advanced AI Capabilities**: Learn to utilize the advanced features of Google Vertex AI for enhanced AI application development.
+- **Boost Your Career Prospects**: Gain a competitive advantage in the job market by showcasing your expertise in building cutting-edge Generative AI applications.
 
 [Source](https://www.credly.com/badges/a11937dc-e33b-4595-837e-2ae74f9c20a1/public_url)

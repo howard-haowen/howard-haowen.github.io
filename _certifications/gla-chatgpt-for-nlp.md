@@ -11,18 +11,16 @@ collection: certifications
 
 ## Certification details
 
-### What you will learn:
+### What you will learn
 
--   Introduction to text summarization and its real-world applications
--   Basic steps involved in text summarization (data preprocessing, feature extraction, model selection)
--   How to leverage ChatGPT for text summarization
--   Practical skills to implement text summarization using ChatGPT
+- **Text Summarization Fundamentals**: Gain a comprehensive understanding of text summarization techniques and their real-world applications.
+- **ChatGPT for Summarization**: Learn how to leverage the power of ChatGPT to generate accurate and coherent text summaries.
+- **Practical Implementation**: Master the steps involved in building a text summarization pipeline using ChatGPT, from data preprocessing to model application.
 
-### Why earn this certification:
+### Why earn this certification
 
--   Gain a comprehensive understanding of text summarization
--   Learn how to use ChatGPT to effectively summarize text
--   Develop practical skills applicable to various fields
--   Discover the power of AI in extracting key information from text
+- **Cutting-Edge NLP Skills**: Develop in-demand skills in Natural Language Processing (NLP) using the latest advancements in AI.
+- **Enhanced Data Processing**: Learn to efficiently process and summarize large volumes of text data, saving time and resources.
+- **Real-World Application**: Gain practical experience applying text summarization techniques using a powerful AI model like ChatGPT.
 
-[Source](https://www.mygreatlearning.com/academy/learn-for-free/courses/chatgpt-for-nlp?utm_source_page=public_certificate_view&utm_source_cta=enrol_for_free)
+[Source](https://www.mygreatlearning.com/academy/learn-for-free/courses/chatgpt-for-nlp)

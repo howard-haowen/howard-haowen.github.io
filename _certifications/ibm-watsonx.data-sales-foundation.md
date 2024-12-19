@@ -20,8 +20,16 @@ collection: certifications
 
 ### Why earn this certification
 
-- **AI Expertise Elevated**: Showcase your understanding of AI principles and IBM's leading AI strategy, setting you apart in the competitive job market.
-- **watsonx Proficiency**: Demonstrate practical knowledge of the watsonx platform and its crucial role in modern AI development, enhancing your value to employers.
-- **Data Management Acumen**: Highlight your expertise in leveraging watsonx.data for building robust and scalable data lakehouse solutions, crucial for data-driven organizations.
+### What you will learn
+
+- **AI Fundamentals and IBM's Ethical AI Strategy**: Understand core AI concepts and IBM's commitment to ethical and sustainable AI practices.
+- **watsonx.data Platform Capabilities**: Gain a strong understanding of the watsonx AI and data platform, specifically focusing on watsonx.data's role in the AI development lifecycle.
+- **Enterprise Data Lakehouse Solutions**: Learn how watsonx.data addresses enterprise data management needs through its versatile data lakehouse functionality.
+
+### Why earn this certification
+
+- **Become a watsonx.data Expert:**  Demonstrate your knowledge of IBM's data platform and its crucial role in building responsible AI solutions.
+- **Master Data Management for AI:** Develop skills in managing and processing data efficiently and effectively for AI development.
+- **Build Robust and Scalable AI Solutions:** Learn how to leverage watsonx.data to create reliable and scalable AI applications for enterprise use.
 
 [Source](https://www.credly.com/badges/8dc5bf09-0be2-468f-88dd-07bf3a5e2a93/public_url)

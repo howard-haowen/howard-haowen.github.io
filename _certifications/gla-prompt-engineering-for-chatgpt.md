@@ -11,20 +11,16 @@ collection: certifications
 
 ## Certification details
 
-### What you will learn:
+### What you will learn
 
--   Fundamentals of Generative AI and Large Language Models (LLMs)
--   Essential Prompt Engineering techniques
--   Advanced strategies for optimizing model outputs
--   Diverse applications of Prompt Engineering
--   Understanding and mitigating limitations of generative models
+- **Generative AI Fundamentals**: Grasp the core concepts of Generative AI and Large Language Models (LLMs).
+- **Prompt Engineering Mastery**: Master the art of crafting effective prompts, understanding their components, and enhancing model outputs.
+- **Navigating Model Limitations**: Learn to identify and mitigate the limitations of generative models and avoid common pitfalls.
 
-### Why earn this certification:
+### Why earn this certification
 
--   Gain a strong foundation in Generative AI and LLMs
--   Master the art of Prompt Engineering
--   Learn how to enhance model performance
--   Explore various real-world applications
--   Develop strategies to address model limitations
+- **Unlock Generative AI Potential**: Gain a deep understanding of how to effectively utilize and optimize Generative AI tools.
+- **Become a Prompt Engineering Expert**: Develop highly sought-after skills in prompt engineering, applicable across diverse domains.
+- **Enhanced AI Problem-Solving**: Learn strategies to overcome limitations and achieve optimal results when working with generative models.
 
-[Source](https://www.mygreatlearning.com/academy/learn-for-free/courses/prompt-engineering-for-chatgpt?utm_source=linkedin&utm_medium=linkedin&utm_campaign=linkedin_certificate_share&utm_source_page=public_certificate_view&referrer_code=GL5YYEWDHLDFI)
+[Source](https://www.mygreatlearning.com/academy/learn-for-free/courses/prompt-engineering-for-chatgpt)

@@ -11,20 +11,16 @@ collection: certifications
 
 ## Certification details
 
-### What you will learn:
+### What you will learn
 
--   **Prompt Engineering Fundamentals:** Understand the core concepts of prompt engineering and its significance in AI models like ChatGPT.
--   **Effective Prompt Crafting:** Learn strategies and techniques for creating prompts that yield accurate and desirable results from AI models.
--   **Practical Application:** Gain hands-on experience applying prompt engineering principles through a Python project on survival analysis.
--   **Langchain Integration:** Get acquainted with the Langchain library and its use in prompt engineering.
--   **Business Productivity Enhancement:** Discover how prompt engineering can empower businesses through optimized AI tools like chatbots and content generators.
+- **Mastering Prompt Engineering**:  Understand the core principles of prompt engineering and its crucial role in optimizing AI tools.
+- **Effective Prompt Crafting**: Develop skills to create high-performing prompts for enhanced AI model output.
+- **Langchain Proficiency**: Gain hands-on experience using the Langchain library for prompt engineering tasks.
 
-### Why earn this certification:
+### Why earn this certification
 
--   **Master AI Interaction:** Become proficient in leveraging the power of language models through effective prompt engineering.
--   **Boost AI Tool Performance:** Learn to craft prompts that significantly enhance the efficiency and accuracy of AI tools.
--   **Develop Practical Skills:** Gain valuable hands-on experience in applying prompt engineering principles within a real-world Python project.
--   **Stay Ahead of the AI Revolution:** Acquire a critical skill in high demand as AI continues to reshape various industries.
--   **Unlock New Opportunities:** Enhance your competitive edge in the field of AI by mastering the art of prompt engineering.
+- **Boost AI Tool Efficiency**: Learn to significantly improve the performance of AI tools like chatbots and content generators.
+- **Practical Application in Python**: Develop practical skills through a Python project applying prompt engineering principles to survival analysis.
+- **Enhance Data Analysis Capabilities**:  Improve your data analysis skills by leveraging the power of prompt engineering.
 
 [Source](https://cognitiveclass.ai/courses/the-art-of-prompt-engineering)

@@ -11,6 +11,16 @@ collection: certifications
 
 ## Certification details
 
-Complete the introductory Prepare Data for ML APIs on Google Cloud skill badge to demonstrate skills in the following: cleaning data with Dataprep by Trifacta, running data pipelines in Dataflow, creating clusters and running Apache Spark jobs in Dataproc, and calling ML APIs including the Cloud Natural Language API, Google Cloud Speech-to-Text API, and Video Intelligence API.
+### What you will learn
+
+- **Data Cleaning & Preparation**: Master data cleaning and preparation techniques using Dataprep by Trifacta, essential for high-quality machine learning.
+- **Data Pipeline Construction**: Build and manage efficient data pipelines using Google Cloud Dataflow for seamless data processing.
+- **Cloud-Based ML API Integration**: Gain hands-on experience calling and utilizing various Google Cloud ML APIs, including Natural Language, Speech-to-Text, and Video Intelligence.
+
+### Why earn this certification
+
+- **Real-World Data Wrangling Skills:** Develop practical skills in preparing diverse datasets for use with machine learning models on Google Cloud.
+- **Efficient Data Processing**: Learn to build scalable and robust data pipelines for handling large datasets efficiently.
+- **Unlock Cloud ML Capabilities**: Master the use of Google Cloud's powerful suite of ML APIs to extract insights from various data types.
 
 [Source](https://www.credly.com/badges/f5c3258b-9a74-42c1-a2a9-219009b1c60c/public_url)

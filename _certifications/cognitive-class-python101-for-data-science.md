@@ -11,20 +11,16 @@ collection: certifications
 
 ## Certification details
 
-### What you will learn:
+### What you will learn
 
--   **Python Fundamentals:** Gain a solid understanding of Python basics, including data types, variables, expressions, string operations, and more.
--   **Python Data Structures:** Learn to work with key data structures like lists, tuples, sets, and dictionaries.
--   **Python Programming Fundamentals:** Master essential programming concepts such as conditions, branching, loops, functions, objects, and classes.
--   **Data Handling in Python:** Develop proficiency in reading and writing files, loading and saving data using Pandas, and working with Pandas DataFrames.
--   **Numpy Arrays and Simple APIs:** Learn to work with Numpy arrays (1D and 2D) and make basic use of APIs.
+- **Python Programming Unlocked**: Learn the fundamentals of Python programming from scratch, even with no prior experience.
+- **Rapid Python Proficiency**:  Go from zero to writing your own Python scripts in a short amount of time.
+- **Data Analysis Introduction**: Get started with basic hands-on data analysis using a Jupyter-based lab environment.
 
-### Why earn this certification:
+### Why earn this certification
 
--   **Start Your Python Journey:** Begin your programming adventure with a beginner-friendly introduction to Python.
--   **Master Python for Data Science:** Build a strong foundation in Python, essential for pursuing a career in data science.
--   **Hands-on Learning:** Gain practical experience through Jupyter-based labs and learn to write your own Python scripts.
--   **Learn from Scratch:** This course is specifically designed for those with no prior Python experience.
--   **Unlock New Opportunities:** Equip yourself with the in-demand skill of Python programming, opening doors to various career paths.
+- **Launch Your Data Science Journey**: Build a strong foundation in Python, essential for a career in data science.
+- **Become a Python Programmer**:  Gain practical skills to write your own Python scripts and solve problems.
+- **Unlock Coding Potential**:  Develop valuable programming skills applicable across various domains.
 
 [Source](https://cognitiveclass.ai/courses/python-for-data-science)

@@ -11,10 +11,16 @@ collection: certifications
 
 ## Certification details
 
-Candidates for the Azure Data Scientist Associate certification should have subject matter expertise in applying data science and machine learning to implement and run machine learning workloads on Azure.
+### What you will learn
 
-Responsibilities for this role include designing and creating a suitable working environment for data science workloads; exploring data; training machine learning models; implementing pipelines; running jobs to prepare for production; and managing, deploying, and monitoring scalable machine learning solutions.
+- **Azure ML & MLflow Mastery**: Gain proficiency in using Azure Machine Learning and MLflow for the entire machine learning lifecycle.
+- **End-to-End ML Solution Development**: Learn to design, build, deploy, and monitor scalable machine learning solutions on Azure.
+- **Data Ingestion, Preparation, and Pipelines**: Master techniques for efficient data ingestion, preparation, and the creation of robust ML pipelines.
 
-A candidate for this certification should have knowledge and experience in data science by using Azure Machine Learning and MLflow.
+### Why earn this certification
+
+- **Become a Highly-Sought Azure ML Expert**: Showcase your expertise in building and deploying machine learning solutions on the Azure platform.
+- **Enhance your Data Science Career**: Acquire in-demand skills for managing and monitoring production-level machine learning workloads.
+- **Build Scalable and Reliable ML Solutions**: Develop the skills to create robust, high-performing machine learning solutions for real-world applications.
 
 [Source](https://learn.microsoft.com/en-us/certifications/azure-data-scientist/)

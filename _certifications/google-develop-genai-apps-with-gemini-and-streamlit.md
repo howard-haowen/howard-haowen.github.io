@@ -11,12 +11,16 @@ collection: certifications
 
 ## Certification details
 
--   Complete the intermediate Develop GenAI Apps with Gemini and Streamlit skill badge to demonstrate skills in the following:
+### What you will learn
 
-    -   text generation,
-    -   applying function calls with the Python SDK and the Gemini API, and
-    -   deploying a Streamlit application with Cloud Run.
+- **Gemini API Mastery**: Gain proficiency in using Google Gemini's API for text generation, including advanced techniques like function calls.
+- **Streamlit Application Development**: Develop and deploy interactive web applications using the Streamlit framework.
+- **Cloud Run Deployment**: Learn to package and deploy your Streamlit application as a Docker container on Google Cloud Run.
 
--   You will explore different ways to prompt Gemini for text generation, use Cloud Shell to test and iterate on a Streamlit application, and then package it as a Docker container deployed in Cloud Run.
+### Why earn this certification
+
+- **Advanced GenAI Development**: Develop advanced skills in building and deploying Generative AI applications using Google's Gemini API.
+- **Full-Stack GenAI Skills**:  Gain expertise spanning from model interaction to deployment on a cloud platform.
+- **Build Production-Ready Apps**: Learn to create and deploy robust, scalable Generative AI applications ready for real-world use.
 
 [Source](https://www.credly.com/badges/9d960378-917b-428c-a7c4-3f7d07b48509/public_url)

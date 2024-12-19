@@ -11,8 +11,16 @@ collection: certifications
 
 ## Certification details
 
--   The badge earner understands the concepts and advantages of watsonx.ai and its generative AI tools, along with IBM’s generative AI stack.
--   They grasp the significance of the watsonx platform and the many tools available in watsonx.ai to help explore and exploit the capabilities of foundation models to support different use cases.
--   Additionally, they can articulate how watsonx.ai meets enterprise needs related to model training, and building trust and efficiency in business applications.
+### What you will learn
+
+- **watsonx.ai Fundamentals**: Develop a strong understanding of the core concepts, advantages, and capabilities of the IBM watsonx.ai platform and its generative AI tools.
+- **Foundation Model Exploitation**: Learn how to leverage foundation models within watsonx.ai to address diverse business use cases effectively.
+- **Enterprise AI Deployment**: Understand how watsonx.ai addresses enterprise needs related to model training, trust, and efficiency in business applications.
+
+### Why earn this certification
+
+- **Become a watsonx.ai Proficient**: Demonstrate your expertise in utilizing IBM's watsonx.ai platform for generative AI solutions.
+- **Unlock Foundation Model Power**: Learn to harness the power of foundation models to drive innovation and efficiency within your organization.
+- **Build Trustworthy AI Solutions**: Develop the skills to build and deploy reliable and trustworthy AI applications that meet enterprise needs.
 
 [Source](https://www.credly.com/badges/275d0bcc-bb2e-4323-b4a8-2235032adda6/public_url)

@@ -11,8 +11,16 @@ collection: certifications
 
 ## Certification details
 
-Data Analysis has been around for a long time. But up until a few years ago, developers practiced it using expensive, closed-source tools like Tableau. But recently, Python, SQL, and other open libraries have changed Data Analysis forever.
+### What you will learn
 
-In the Data Analysis with Python Certification, you'll learn the fundamentals of data analysis with Python. By the end of this certification, you'll know how to read data from sources like CSVs and SQL, and how to use libraries like Numpy, Pandas, Matplotlib, and Seaborn to process and visualize data.
+- **Python for Data Analysis**: Master the fundamentals of data analysis using the powerful Python programming language.
+- **Data Wrangling Expertise**: Learn to efficiently read data from various sources (CSVs, SQL) and process it using libraries like NumPy and Pandas.
+- **Data Visualization Mastery**: Create compelling data visualizations using popular libraries such as Matplotlib and Seaborn.
+
+### Why earn this certification
+
+- **Affordable Data Analysis**: Learn to perform data analysis using free and open-source tools, eliminating the need for expensive software.
+- **In-Demand Skills**: Acquire highly sought-after skills in Python-based data analysis, boosting your career prospects.
+- **Unlock Data Insights**:  Develop the ability to extract meaningful insights from data to inform better decision-making.
 
 [Source](https://www.freecodecamp.org/learn/data-analysis-with-python)

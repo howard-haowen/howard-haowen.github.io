@@ -17,7 +17,6 @@ collection: certifications
 - **Mitigating Sales and Deployment Risks**: Learn methods to de-risk the sales process and deployment of IBM solutions, ensuring high quality and client satisfaction.
 - **Building Trusted Advisor Relationships**: Enhance your ability to build trust with clients and effectively engage post-sales, fostering long-term relationships.
 
-
 ### Why earn this certification
 
 - **Become a Highly Effective Solution Architect**:  Position yourself as a sought-after expert in designing and implementing robust IBM solutions.

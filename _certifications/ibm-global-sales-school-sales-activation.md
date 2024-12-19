@@ -27,6 +27,5 @@ collection: certifications
 * **Enhance your sales skills and knowledge:**  Acquire the core competencies necessary for success in the IBM sales environment.
 * **Differentiate yourself as a sales professional:**  Demonstrate your commitment to professional development and proficiency in best-practice sales methodologies.
 * **Grow revenue and achieve sales targets:**  Apply your newly acquired skills to drive client engagement, identify opportunities, and achieve sales goals. 
-* **Gain a competitive advantage:**  Showcase your expertise and enhance your credibility within IBM and the broader sales community. 
 
 [Source](https://www.credly.com/badges/0e04d6e3-c106-4fec-b794-60ba0bbfa56d/public_url)

@@ -11,8 +11,16 @@ collection: certifications
 
 ## Certification details
 
--   The badge earner understands the concepts and advantages of artificial intelligence (AI), along with IBM's AI strategy for addressing ethical and sustainable AI challenges.
--   They grasp the significance of the watsonx AI and data platform and how watsonx.ai builds AI applications quickly with generative AI and machine learning in one studio.
--   Additionally, they can articulate how watsonx.ai meets enterprise needs related to model training, and building trust and efficiency in business applications.
+### What you will learn
+
+- **AI Fundamentals & IBM's Strategy**: Understand core AI concepts and IBM's approach to ethical and sustainable AI development.
+- **watsonx AI Platform Proficiency**:  Gain knowledge of the watsonx AI and data platform, focusing on its capabilities for rapid AI application development.
+- **Enterprise AI Deployment**: Learn how watsonx.ai addresses enterprise needs for efficient model training and trustworthy, efficient business applications.
+
+### Why earn this certification
+
+- **Become an IBM watsonx AI Expert:** Demonstrate proficiency in using IBM's leading AI platform for building and deploying AI solutions.
+- **Accelerate AI Development:** Learn to rapidly build and deploy AI applications using the integrated capabilities of watsonx.ai.
+- **Build Trustworthy Enterprise AI:**  Understand how to address ethical considerations and build reliable AI solutions that meet enterprise needs.
 
 [Source](https://www.credly.com/badges/9cd23844-f6e4-4bb0-946d-37a4bb1b8c77/public_url)

@@ -15,14 +15,11 @@ collection: certifications
 
 -   **Docker Mastery:** Gain expertise in building and configuring Docker container images.
 -   **GKE Cluster Management:** Learn the ins and outs of creating, managing, and configuring Google Kubernetes Engine (GKE) clusters.
--   **kubectl Power User:** Become proficient in using `kubectl` for efficient cluster management and interaction.
 -   **Robust CD Practices:** Master the art of deploying Kubernetes applications with continuous delivery (CD) best practices.
 
 ### Why earn this certification:
 
--   **Become a Kubernetes Expert:** Develop a deep understanding of Kubernetes principles and best practices.
 -   **Master Google Cloud Tools:** Gain expertise in leveraging Google Cloud's Kubernetes offerings, specifically GKE.
--   **Deploy Applications with Confidence:** Learn to deploy applications to Kubernetes with efficiency and confidence.
 -   **Increase Career Opportunities:** Acquire a highly sought-after skill in the cloud-native development space.
 -   **Boost Productivity:** Leverage Kubernetes and its tools to automate and optimize your application deployment processes.
 
