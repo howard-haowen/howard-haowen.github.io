@@ -70,7 +70,7 @@ params:
     title: "Dr. Haowen Jiang" # optional default will be site title
     subtitle: "AI engineer & linguist"
     imageUrl: "profile.jpeg" # optional
-    #imageTitle: "<title of image as alt>" # optional
+    imageTitle: "Me at the Uji Bridge" # optional
     #imageWidth: 120 # custom size
     #imageHeight: 120 # custom size
     buttons:
