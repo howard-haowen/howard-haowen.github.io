@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Google on How &amp; When</title>
+    <link>https://howard-haowen.github.io/tags/google/</link>
+    <description>Recent content in Google on How &amp; When</description>
+    <image>
+      <title>How &amp; When</title>
+      <url>https://howard-haowen.github.io/profile.jpeg</url>
+      <link>https://howard-haowen.github.io/profile.jpeg</link>
+    </image>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://howard-haowen.github.io/tags/google/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google Build Real World Applications with Gemini and Imagen</title>
+      <link>https://howard-haowen.github.io/certifications/google-build-real-world-ai-applications-with-gemini-and-imagen/</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://howard-haowen.github.io/certifications/google-build-real-world-ai-applications-with-gemini-and-imagen/</guid>
+      <description>Earning this certification validates skills in image recognition, natural language processing, image generation using Google&amp;#39;s Gemini and Imagen, and deploying applications on Vertex AI.</description>
+      <content:encoded><![CDATA[<p><a href="https://www.credly.com/badges/c94a6e41-4cb1-4080-a6a9-54e3104bc872/public_url">Certification URL</a></p>
+<h2 id="certification-details">Certification details</h2>
+<h3 id="what-you-will-learn">What you will learn</h3>
+<ul>
+<li><strong>Master Gemini &amp; Imagen</strong>:  Gain practical experience using Google&rsquo;s cutting-edge Gemini and Imagen AI models for image recognition, natural language processing, and image generation.</li>
+<li><strong>Build Real-World AI Apps</strong>: Develop functional applications leveraging Gemini and Imagen capabilities, transforming theoretical knowledge into tangible projects.</li>
+<li><strong>Deploy on Vertex AI</strong>: Learn to deploy and manage your AI applications efficiently on Google&rsquo;s robust Vertex AI platform, ensuring scalability and accessibility.</li>
+</ul>
+<h3 id="why-earn-this-certification">Why earn this certification</h3>
+<ul>
+<li><strong>Boost your AI Expertise</strong>:  Demonstrate your proficiency in building AI applications with industry-leading models and platforms, enhancing your resume and marketability.</li>
+<li><strong>Unlock Career Opportunities</strong>:  Gain a competitive edge in the rapidly growing AI job market, opening doors to exciting roles in various sectors.</li>
+<li><strong>Future-Proof Your Skills</strong>:  Acquire in-demand skills aligned with the latest advancements in AI, ensuring your knowledge remains relevant and valuable.</li>
+</ul>
+<p><a href="https://www.credly.com/badges/c94a6e41-4cb1-4080-a6a9-54e3104bc872/public_url">Source</a></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Google Implement Load Balancing on Compute Engine</title>
+      <link>https://howard-haowen.github.io/certifications/google-implement-load-balancing-on-compute-engine/</link>
+      <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://howard-haowen.github.io/certifications/google-implement-load-balancing-on-compute-engine/</guid>
+      <description>Earning this certification validates the ability to implement load balancing solutions on Google Cloud Platform, including configuring network and HTTP load balancers, deploying virtual machines in Compute Engine, and running containerized applications on Kubernetes Engine.</description>
+      <content:encoded><![CDATA[<p><a href="https://www.credly.com/badges/f8009816-65f2-4e7c-b524-d7c2cc70c19c/public_url">Certification URL</a></p>
+<h2 id="certification-details">Certification details</h2>
+<h3 id="what-you-will-learn">What you will learn:</h3>
+<ul>
+<li><strong>Compute Engine mastery:</strong> Create and deploy virtual machines, understanding their configurations.</li>
+<li><strong>Containerization expertise:</strong> Run containerized applications using Google Kubernetes Engine.</li>
+<li><strong>Load balancing configuration:</strong>  Learn to configure both network and HTTP load balancers.</li>
+</ul>
+<h3 id="why-earn-this-certification">Why earn this certification:</h3>
+<ul>
+<li><strong>Demonstrate your knowledge:</strong>  Prove your ability to implement load balancing on Compute Engine.</li>
+<li><strong>Improve your efficiency:</strong>  Master the use of load balancing techniques for optimal application performance and scalability.</li>
+<li><strong>Increase your project success:</strong>  Apply your knowledge to build robust and reliable cloud-based applications.</li>
+</ul>
+<p><a href="https://www.credly.com/badges/f8009816-65f2-4e7c-b524-d7c2cc70c19c/public_url">Source</a></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Google Build LangChain Applications using Vertex AI</title>
+      <link>https://howard-haowen.github.io/certifications/google-build-langchain-applications-using-vertex-ai/</link>
+      <pubDate>Sun, 22 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://howard-haowen.github.io/certifications/google-build-langchain-applications-using-vertex-ai/</guid>
+      <description>Earning this certification validates the ability to construct Generative AI applications using LangChain and the Retrieval Augmented Generation (RAG) technique for text-based content, leveraging the powerful Generative AI capabilities offered by Google Cloud&amp;#39;s Vertex AI platform.</description>
+      <content:encoded><![CDATA[<p><a href="https://www.credly.com/badges/a11937dc-e33b-4595-837e-2ae74f9c20a1/public_url">Certification URL</a></p>
+<h2 id="certification-details">Certification details</h2>
+<h3 id="what-you-will-learn">What you will learn</h3>
+<ul>
+<li><strong>LangChain Application Development</strong>: Gain practical skills in building Generative AI applications using the LangChain framework.</li>
+<li><strong>Retrieval Augmented Generation (RAG)</strong>: Master the RAG technique for creating more accurate and contextually relevant text-based content.</li>
+<li><strong>Vertex AI Integration</strong>: Learn to leverage Google Vertex AI&rsquo;s powerful Generative AI capabilities within your LangChain applications.</li>
+</ul>
+<h3 id="why-earn-this-certification">Why earn this certification</h3>
+<ul>
+<li><strong>Demonstrate Generative AI Expertise</strong>: Showcase your ability to build sophisticated Generative AI applications using industry-standard tools.</li>
+<li><strong>Unlock Advanced AI Capabilities</strong>: Learn to utilize the advanced features of Google Vertex AI for enhanced AI application development.</li>
+<li><strong>Boost Your Career Prospects</strong>: Gain a competitive advantage in the job market by showcasing your expertise in building cutting-edge Generative AI applications.</li>
+</ul>
+<p><a href="https://www.credly.com/badges/a11937dc-e33b-4595-837e-2ae74f9c20a1/public_url">Source</a></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Google Develop GenAI APPs with Gemini and Streamlit</title>
+      <link>https://howard-haowen.github.io/certifications/google-develop-genai-apps-with-gemini-and-streamlit/</link>
+      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://howard-haowen.github.io/certifications/google-develop-genai-apps-with-gemini-and-streamlit/</guid>
+      <description>Earning this certification validates the ability to build generative AI applications using Gemini and Streamlit, demonstrating expertise in text generation, leveraging function calls via the Python SDK and Gemini API, and deploying Streamlit applications to Cloud Run using Docker containers.</description>
+      <content:encoded><![CDATA[<p><a href="https://www.credly.com/badges/9d960378-917b-428c-a7c4-3f7d07b48509/public_url">Certification URL</a></p>
+<h2 id="certification-details">Certification details</h2>
+<h3 id="what-you-will-learn">What you will learn</h3>
+<ul>
+<li><strong>Gemini API Mastery</strong>: Gain proficiency in using Google Gemini&rsquo;s API for text generation, including advanced techniques like function calls.</li>
+<li><strong>Streamlit Application Development</strong>: Develop and deploy interactive web applications using the Streamlit framework.</li>
+<li><strong>Cloud Run Deployment</strong>: Learn to package and deploy your Streamlit application as a Docker container on Google Cloud Run.</li>
+</ul>
+<h3 id="why-earn-this-certification">Why earn this certification</h3>
+<ul>
+<li><strong>Advanced GenAI Development</strong>: Develop advanced skills in building and deploying Generative AI applications using Google&rsquo;s Gemini API.</li>
+<li><strong>Full-Stack GenAI Skills</strong>:  Gain expertise spanning from model interaction to deployment on a cloud platform.</li>
+<li><strong>Build Production-Ready Apps</strong>: Learn to create and deploy robust, scalable Generative AI applications ready for real-world use.</li>
+</ul>
+<p><a href="https://www.credly.com/badges/9d960378-917b-428c-a7c4-3f7d07b48509/public_url">Source</a></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Google Deploy Kubernetes Applications on GCP</title>
+      <link>https://howard-haowen.github.io/certifications/google-deploy-kubernetes-applications-on-gcp/</link>
+      <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://howard-haowen.github.io/certifications/google-deploy-kubernetes-applications-on-gcp/</guid>
+      <description>Earning this certification validates the expertise in deploying applications on GKE, showcasing mastery of Docker, GKE cluster management, kubectl, and continuous delivery practices for Kubernetes.</description>
+      <content:encoded><![CDATA[<p><a href="https://www.credly.com/badges/ff3c6ca2-fd9d-4ad1-9767-63a5726f98df/public_url">Certification URL</a></p>
+<h2 id="certification-details">Certification details</h2>
+<h3 id="what-you-will-learn">What you will learn:</h3>
+<ul>
+<li><strong>Docker Mastery:</strong> Gain expertise in building and configuring Docker container images.</li>
+<li><strong>GKE Cluster Management:</strong> Learn the ins and outs of creating, managing, and configuring Google Kubernetes Engine (GKE) clusters.</li>
+<li><strong>Robust CD Practices:</strong> Master the art of deploying Kubernetes applications with continuous delivery (CD) best practices.</li>
+</ul>
+<h3 id="why-earn-this-certification">Why earn this certification:</h3>
+<ul>
+<li><strong>Master Google Cloud Tools:</strong> Gain expertise in leveraging Google Cloud&rsquo;s Kubernetes offerings, specifically GKE.</li>
+<li><strong>Increase Career Opportunities:</strong> Acquire a highly sought-after skill in the cloud-native development space.</li>
+<li><strong>Boost Productivity:</strong> Leverage Kubernetes and its tools to automate and optimize your application deployment processes.</li>
+</ul>
+<p><a href="https://www.cloudskillsboost.google/course_templates/663">Source</a></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Google Prepare Data for ML APIs on GCP</title>
+      <link>https://howard-haowen.github.io/certifications/google-prepare-data-for-ml-apis-on-gcp/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://howard-haowen.github.io/certifications/google-prepare-data-for-ml-apis-on-gcp/</guid>
+      <description>Earning this certification validates foundational knowledge of preparing and processing data for Google Cloud&amp;#39;s ML APIs, showcasing skills in data cleaning with Dataprep by Trifacta, creating and running data pipelines in Dataflow, managing clusters and executing Apache Spark jobs in Dataproc, and effectively calling upon ML APIs such as Cloud Natural Language, Cloud Speech-to-Text, and Video Intelligence.</description>
+      <content:encoded><![CDATA[<p><a href="https://www.credly.com/badges/f5c3258b-9a74-42c1-a2a9-219009b1c60c/public_url">Certification URL</a></p>
+<h2 id="certification-details">Certification details</h2>
+<h3 id="what-you-will-learn">What you will learn</h3>
+<ul>
+<li><strong>Data Cleaning &amp; Preparation</strong>: Master data cleaning and preparation techniques using Dataprep by Trifacta, essential for high-quality machine learning.</li>
+<li><strong>Data Pipeline Construction</strong>: Build and manage efficient data pipelines using Google Cloud Dataflow for seamless data processing.</li>
+<li><strong>Cloud-Based ML API Integration</strong>: Gain hands-on experience calling and utilizing various Google Cloud ML APIs, including Natural Language, Speech-to-Text, and Video Intelligence.</li>
+</ul>
+<h3 id="why-earn-this-certification">Why earn this certification</h3>
+<ul>
+<li><strong>Real-World Data Wrangling Skills:</strong> Develop practical skills in preparing diverse datasets for use with machine learning models on Google Cloud.</li>
+<li><strong>Efficient Data Processing</strong>: Learn to build scalable and robust data pipelines for handling large datasets efficiently.</li>
+<li><strong>Unlock Cloud ML Capabilities</strong>: Master the use of Google Cloud&rsquo;s powerful suite of ML APIs to extract insights from various data types.</li>
+</ul>
+<p><a href="https://www.credly.com/badges/f5c3258b-9a74-42c1-a2a9-219009b1c60c/public_url">Source</a></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Google Prompt Design in Vertex AI</title>
+      <link>https://howard-haowen.github.io/certifications/google-prompt-design-in-vertex-ai/</link>
+      <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://howard-haowen.github.io/certifications/google-prompt-design-in-vertex-ai/</guid>
+      <description>Earning this certification validates skills in prompt engineering, image analysis, and multimodal generation using Vertex AI and Gemini models for real-world applications.</description>
+      <content:encoded><![CDATA[<p><a href="https://www.credly.com/badges/fc9eed00-e2d9-438d-a96b-b8fcb67fa3d6/public_url">Certification URL</a></p>
+<h2 id="certification-details">Certification details</h2>
+<h3 id="what-you-will-learn">What you will learn</h3>
+<ul>
+<li><strong>Effective Prompt Engineering</strong>: Master the art of crafting effective prompts to guide generative AI models and achieve desired results within Vertex AI.</li>
+<li><strong>Multimodal Generative Techniques</strong>: Explore and apply multimodal techniques, combining text and image data within the generative AI workflow.</li>
+<li><strong>Gemini Model Application</strong>: Gain practical experience using Google&rsquo;s Gemini models for creative applications, focusing on real-world marketing scenarios.</li>
+</ul>
+<h3 id="why-earn-this-certification">Why earn this certification</h3>
+<ul>
+<li><strong>Boost Generative AI Proficiency</strong>: Enhance your skills in leveraging generative AI models for practical applications, specifically within Vertex AI.</li>
+<li><strong>Master Prompt Design</strong>: Develop expert-level skills in prompt engineering, a critical skill for successful generative AI projects.</li>
+<li><strong>Unlock Marketing Innovation</strong>: Learn to apply generative AI to real-world marketing challenges, generating innovative solutions.</li>
+</ul>
+<p><a href="https://www.credly.com/badges/fc9eed00-e2d9-438d-a96b-b8fcb67fa3d6/public_url">Source</a></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Google Ads Search</title>
+      <link>https://howard-haowen.github.io/certifications/google-ads-search/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://howard-haowen.github.io/certifications/google-ads-search/</guid>
+      <description>Earning this certification validates the skills and knowledge to leverage automated solutions like Smart Bidding and Audience Solutions to boost campaign performance for specific marketing objectives.</description>
+      <content:encoded><![CDATA[<h2 id="certification-details">Certification details</h2>
+<p>By earning the Google Ads Search Certification, Google recognizes your ability to:</p>
+<ul>
+<li>Translate a vision for online marketing into a coherent digital marketing strategy</li>
+<li>Develop a Google Search strategy with wider company marketing plans</li>
+<li>Generate a plan to increase leads, sales or web traffic using google search</li>
+<li>Develop a plan to reach new and existing customers with google search audiences</li>
+<li>Ensure your search marketing plan is aligned with your digital marketing budget</li>
+</ul>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

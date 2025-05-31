@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Watsonx on How &amp; When</title>
+    <link>https://howard-haowen.github.io/tags/watsonx/</link>
+    <description>Recent content in Watsonx on How &amp; When</description>
+    <image>
+      <title>How &amp; When</title>
+      <url>https://howard-haowen.github.io/profile.jpeg</url>
+      <link>https://howard-haowen.github.io/profile.jpeg</link>
+    </image>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://howard-haowen.github.io/tags/watsonx/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IBM watsonx Essentials</title>
+      <link>https://howard-haowen.github.io/certifications/ibm-watsonx-essentials/</link>
+      <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://howard-haowen.github.io/certifications/ibm-watsonx-essentials/</guid>
+      <description>Earning this certification validates expertise in deploying AI with IBM watsonx, emphasizing responsible workflows and ethical considerations.</description>
+      <content:encoded><![CDATA[<p><a href="https://www.credly.com/badges/3ab6a975-13c4-4b12-ab66-3e93c7f8da54/public_url">Certification URL</a></p>
+<h2 id="certification-details">Certification details</h2>
+<h3 id="what-you-will-learn">What you will learn</h3>
+<ul>
+<li><strong>IBM watsonx Generative AI Deployment</strong>: Understand how to deploy and embed generative AI solutions across various business functions using the IBM watsonx platform.</li>
+<li><strong>Data Management &amp; Responsible AI</strong>: Learn how to manage diverse data sources and accelerate responsible AI workflows within the IBM watsonx ecosystem.</li>
+<li><strong>IBM&rsquo;s AI Strategy</strong>: Gain insight into IBM&rsquo;s approach to addressing ethical and sustainable challenges in the development and deployment of AI.</li>
+</ul>
+<h3 id="why-earn-this-certification">Why earn this certification</h3>
+<ul>
+<li><strong>Become an IBM watsonx Expert</strong>: Showcase your understanding of IBM&rsquo;s leading AI platform and its capabilities in generative AI.</li>
+<li><strong>Drive Business Value with AI</strong>: Learn how to leverage generative AI to solve real-world business problems and create competitive advantage.</li>
+<li><strong>Champion Responsible AI</strong>: Demonstrate your commitment to ethical and sustainable AI practices, a key differentiator in today&rsquo;s market.</li>
+</ul>
+<p><a href="https://www.credly.com/badges/3ab6a975-13c4-4b12-ab66-3e93c7f8da54/public_url">Source</a></p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

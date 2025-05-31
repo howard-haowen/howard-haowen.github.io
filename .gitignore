@@ -1,5 +1,4 @@
 # Hugo build output - generated files (not needed in version control)
-public/
 resources/_gen/
 
 # Hugo cache directory (stores temporary files)

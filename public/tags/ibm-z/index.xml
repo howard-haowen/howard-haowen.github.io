@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>IBM Z on How &amp; When</title>
+    <link>https://howard-haowen.github.io/tags/ibm-z/</link>
+    <description>Recent content in IBM Z on How &amp; When</description>
+    <image>
+      <title>How &amp; When</title>
+      <url>https://howard-haowen.github.io/profile.jpeg</url>
+      <link>https://howard-haowen.github.io/profile.jpeg</link>
+    </image>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://howard-haowen.github.io/tags/ibm-z/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IBM Z Xplore Concepts</title>
+      <link>https://howard-haowen.github.io/certifications/ibm-z-xplore-concepts/</link>
+      <pubDate>Tue, 30 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://howard-haowen.github.io/certifications/ibm-z-xplore-concepts/</guid>
+      <description>Earning this certification validates the ability to perform essential mainframe tasks, including data set management, command execution, JCL management, scripting, Python development, and automation through IBM Z Open Automation Utilities.</description>
+      <content:encoded><![CDATA[<p><a href="https://www.credly.com/badges/a96bc303-5646-44f3-93fb-8f5831b17d62">Certification URL</a></p>
+<h2 id="certification-details">Certification details</h2>
+<h3 id="what-you-will-learn">What you will learn</h3>
+<ul>
+<li><strong>IBM Z Core Skills Mastery</strong>: Develop proficiency in fundamental IBM Z concepts and everyday tasks, including dataset administration and command formulation.</li>
+<li><strong>Automation &amp; Scripting Expertise</strong>: Gain hands-on experience in automating tasks using JCL, USS scripting, and Python programming within the IBM Z environment.</li>
+<li><strong>IBM Z Open Automation Utilities Proficiency</strong>: Learn to orchestrate actions and automate workflows effectively using IBM Z Open Automation Utilities.</li>
+</ul>
+<h3 id="why-earn-this-certification">Why earn this certification</h3>
+<ul>
+<li><strong>Become a Highly-Sought IBM Z Professional</strong>: Demonstrate your expertise in essential IBM Z skills, increasing your value in the job market.</li>
+<li><strong>Boost Efficiency and Productivity</strong>: Learn to automate tasks, reducing manual effort and improving efficiency in an IBM Z environment.</li>
+<li><strong>Master Modern IBM Z Administration</strong>: Acquire modern scripting and automation skills essential for managing today&rsquo;s IBM Z systems.</li>
+</ul>
+<p><a href="https://www.credly.com/badges/a96bc303-5646-44f3-93fb-8f5831b17d62">Source</a></p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

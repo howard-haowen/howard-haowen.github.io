@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>TAPI on How &amp; When</title>
+    <link>https://howard-haowen.github.io/tags/tapi/</link>
+    <description>Recent content in TAPI on How &amp; When</description>
+    <image>
+      <title>How &amp; When</title>
+      <url>https://howard-haowen.github.io/profile.jpeg</url>
+      <link>https://howard-haowen.github.io/profile.jpeg</link>
+    </image>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://howard-haowen.github.io/tags/tapi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TAPI Large Language Models and Embeddings for Retrieval Augmented Generation</title>
+      <link>https://howard-haowen.github.io/certifications/tapi-large-language-models-and-embeddings-for-retrieval-augmented-generation/</link>
+      <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://howard-haowen.github.io/certifications/tapi-large-language-models-and-embeddings-for-retrieval-augmented-generation/</guid>
+      <description>Earning this badge validates the practical experience with Retrieval Augmented Generation (RAG) solutions, showcasing understanding of this innovative approach that combines pre-trained language models with external knowledge retrieval to generate highly informative and contextually relevant text.</description>
+      <content:encoded><![CDATA[<p><a href="https://www.credly.com/badges/348847ac-111a-4679-88b6-86d447b4c784/public_url">Certification URL</a></p>
+<h2 id="certification-details">Certification details</h2>
+<h3 id="what-you-will-learn">What you will learn</h3>
+<ul>
+<li><strong>Retrieval Augmented Generation (RAG) Expertise</strong>: Gain hands-on experience with RAG techniques, a cutting-edge approach to enhancing language model performance.</li>
+<li><strong>Innovative Model Application</strong>: Develop practical skills in applying innovative models and techniques for improved text generation.</li>
+<li><strong>Research-Focused Application</strong>: Learn how to leverage RAG solutions for research purposes, generating highly informative and contextually relevant outputs.</li>
+</ul>
+<h3 id="why-earn-this-certification">Why earn this certification</h3>
+<ul>
+<li><strong>Become a RAG Proficient</strong>: Demonstrate expertise in a leading-edge technique for improving language model capabilities.</li>
+<li><strong>Enhance Research Capabilities</strong>: Develop skills to significantly improve the quality and relevance of research outputs.</li>
+<li><strong>Gain a Competitive Edge</strong>: Acquire in-demand skills in a rapidly evolving field of natural language processing.</li>
+</ul>
+<h3 id="earning-criteria">Earning Criteria</h3>
+<p>Complete 1-week, 3-day course in Large Language Models and Embeddings for Retrieval Augmented Generation, consisting of 4.5 hours of e-learning.</p>
+<p><a href="https://www.credly.com/badges/348847ac-111a-4679-88b6-86d447b4c784/public_url">Source</a></p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

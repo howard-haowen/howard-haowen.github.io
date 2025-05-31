@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>LangChain on How &amp; When</title>
+    <link>https://howard-haowen.github.io/tags/langchain/</link>
+    <description>Recent content in LangChain on How &amp; When</description>
+    <image>
+      <title>How &amp; When</title>
+      <url>https://howard-haowen.github.io/profile.jpeg</url>
+      <link>https://howard-haowen.github.io/profile.jpeg</link>
+    </image>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://howard-haowen.github.io/tags/langchain/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google Build LangChain Applications using Vertex AI</title>
+      <link>https://howard-haowen.github.io/certifications/google-build-langchain-applications-using-vertex-ai/</link>
+      <pubDate>Sun, 22 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://howard-haowen.github.io/certifications/google-build-langchain-applications-using-vertex-ai/</guid>
+      <description>Earning this certification validates the ability to construct Generative AI applications using LangChain and the Retrieval Augmented Generation (RAG) technique for text-based content, leveraging the powerful Generative AI capabilities offered by Google Cloud&amp;#39;s Vertex AI platform.</description>
+      <content:encoded><![CDATA[<p><a href="https://www.credly.com/badges/a11937dc-e33b-4595-837e-2ae74f9c20a1/public_url">Certification URL</a></p>
+<h2 id="certification-details">Certification details</h2>
+<h3 id="what-you-will-learn">What you will learn</h3>
+<ul>
+<li><strong>LangChain Application Development</strong>: Gain practical skills in building Generative AI applications using the LangChain framework.</li>
+<li><strong>Retrieval Augmented Generation (RAG)</strong>: Master the RAG technique for creating more accurate and contextually relevant text-based content.</li>
+<li><strong>Vertex AI Integration</strong>: Learn to leverage Google Vertex AI&rsquo;s powerful Generative AI capabilities within your LangChain applications.</li>
+</ul>
+<h3 id="why-earn-this-certification">Why earn this certification</h3>
+<ul>
+<li><strong>Demonstrate Generative AI Expertise</strong>: Showcase your ability to build sophisticated Generative AI applications using industry-standard tools.</li>
+<li><strong>Unlock Advanced AI Capabilities</strong>: Learn to utilize the advanced features of Google Vertex AI for enhanced AI application development.</li>
+<li><strong>Boost Your Career Prospects</strong>: Gain a competitive advantage in the job market by showcasing your expertise in building cutting-edge Generative AI applications.</li>
+</ul>
+<p><a href="https://www.credly.com/badges/a11937dc-e33b-4595-837e-2ae74f9c20a1/public_url">Source</a></p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

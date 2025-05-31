@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Big Data on How &amp; When</title>
+    <link>https://howard-haowen.github.io/tags/big-data/</link>
+    <description>Recent content in Big Data on How &amp; When</description>
+    <image>
+      <title>How &amp; When</title>
+      <url>https://howard-haowen.github.io/profile.jpeg</url>
+      <link>https://howard-haowen.github.io/profile.jpeg</link>
+    </image>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://howard-haowen.github.io/tags/big-data/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CognitiveClass Big Data Foundations</title>
+      <link>https://howard-haowen.github.io/certifications/cognitive-class-big-data-foundations/</link>
+      <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://howard-haowen.github.io/certifications/cognitive-class-big-data-foundations/</guid>
+      <description>Earning this certification validates the expertise in big data technologies, demonstrating the ability to harness the power of Hadoop and Spark for efficient data processing and analysis.</description>
+      <content:encoded><![CDATA[<p><a href="https://www.credly.com/badges/8e195098-81f2-4cb2-8dcb-50883a78cdc8/public_url">Certification URL</a></p>
+<h2 id="certification-details">Certification details</h2>
+<p>To earn this certification, you need to complete a learning path that covers the following three courses:</p>
+<ul>
+<li><strong>Hadoop 101</strong>: This beginner Apache Hadoop course introduces you to Big Data concepts, and teaches you how to perform distributed processing of large data sets with Hadoop.</li>
+</ul>
+<p><img loading="lazy" src="/certifications/cognitive-class-big-data-foundations/ibm-hadoop-101.png"></p>
+<ul>
+<li><strong>Spark Fundamentals I</strong>: Ignite your interest in Spark with an introduction to the core concepts that make this general processor an essential tool set for working with Big Data.</li>
+</ul>
+<p><img loading="lazy" src="/certifications/cognitive-class-big-data-foundations/ibm-spark-fundamentals-1.png"></p>
+<ul>
+<li><strong>Big Data 101</strong>: How big is big and why does big matter and what does Apache Hadoop have to do with it? In this course you will see the Big Data big picture and you will learn the terminology used in Big Data discussions.</li>
+</ul>
+<p><img loading="lazy" src="/certifications/cognitive-class-big-data-foundations/ibm-big-data-101.png"></p>
+<h3 id="what-you-will-learn">What you will learn:</h3>
+<ul>
+<li><strong>Big Data Ecosystem:</strong> Gain a comprehensive understanding of the big data ecosystem, its components, and key concepts.</li>
+<li><strong>Hadoop Fundamentals:</strong> Learn how to use Hadoop commands and operations for processing large datasets in a distributed environment.</li>
+<li><strong>Spark Core Concepts:</strong> Master the core concepts of Apache Spark, including RDDs, DataFrames, and its various libraries.</li>
+<li><strong>Spark Libraries:</strong> Develop proficiency in working with Spark libraries like MLlib (machine learning), Spark SQL (data querying), Spark Streaming (real-time data processing), and GraphX (graph processing).</li>
+<li><strong>Practical Application:</strong> Apply your knowledge through hands-on exercises and projects using Hadoop and Spark.</li>
+</ul>
+<h3 id="why-earn-this-certification">Why earn this certification:</h3>
+<ul>
+<li><strong>Become a Big Data Expert:</strong> Develop a solid foundation in the big data landscape, equipping you to handle massive datasets.</li>
+<li><strong>Master Hadoop and Spark:</strong> Gain in-depth knowledge of Hadoop and Spark, two essential tools for big data processing.</li>
+<li><strong>Unlock Career Opportunities:</strong> Prepare for high-demand roles in big data analysis, data engineering, and related fields.</li>
+<li><strong>Stay Ahead of the Data Revolution:</strong> Equip yourself with the skills necessary to navigate the rapidly growing field of big data.</li>
+<li><strong>Solve Real-World Problems:</strong> Learn how to leverage big data technologies to address complex challenges and extract valuable insights.</li>
+</ul>
+<p><a href="https://cognitiveclass.ai/learn/big-data">Source</a></p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Data Science on How &amp; When</title>
+    <link>https://howard-haowen.github.io/tags/data-science/</link>
+    <description>Recent content in Data Science on How &amp; When</description>
+    <image>
+      <title>How &amp; When</title>
+      <url>https://howard-haowen.github.io/profile.jpeg</url>
+      <link>https://howard-haowen.github.io/profile.jpeg</link>
+    </image>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://howard-haowen.github.io/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CognitiveClass Python 101 for Data Science</title>
+      <link>https://howard-haowen.github.io/certifications/cognitive-class-python101-for-data-science/</link>
+      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://howard-haowen.github.io/certifications/cognitive-class-python101-for-data-science/</guid>
+      <description>Earning this certification validates foundational Python programming skills, preparing earners for data science and various programming roles.</description>
+      <content:encoded><![CDATA[<p><a href="https://courses.cognitiveclass.ai/certificates/9e992d6605644ef78e617e18fd293b0c">Certification URL</a></p>
+<h2 id="certification-details">Certification details</h2>
+<h3 id="what-you-will-learn">What you will learn</h3>
+<ul>
+<li><strong>Python Programming Unlocked</strong>: Learn the fundamentals of Python programming from scratch, even with no prior experience.</li>
+<li><strong>Rapid Python Proficiency</strong>:  Go from zero to writing your own Python scripts in a short amount of time.</li>
+<li><strong>Data Analysis Introduction</strong>: Get started with basic hands-on data analysis using a Jupyter-based lab environment.</li>
+</ul>
+<h3 id="why-earn-this-certification">Why earn this certification</h3>
+<ul>
+<li><strong>Launch Your Data Science Journey</strong>: Build a strong foundation in Python, essential for a career in data science.</li>
+<li><strong>Become a Python Programmer</strong>:  Gain practical skills to write your own Python scripts and solve problems.</li>
+<li><strong>Unlock Coding Potential</strong>:  Develop valuable programming skills applicable across various domains.</li>
+</ul>
+<p><a href="https://cognitiveclass.ai/courses/python-for-data-science">Source</a></p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

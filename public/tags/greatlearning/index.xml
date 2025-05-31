@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GreatLearning on How &amp; When</title>
+    <link>https://howard-haowen.github.io/tags/greatlearning/</link>
+    <description>Recent content in GreatLearning on How &amp; When</description>
+    <image>
+      <title>How &amp; When</title>
+      <url>https://howard-haowen.github.io/profile.jpeg</url>
+      <link>https://howard-haowen.github.io/profile.jpeg</link>
+    </image>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://howard-haowen.github.io/tags/greatlearning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GLA ChatGPT for NLP</title>
+      <link>https://howard-haowen.github.io/certifications/gla-chatgpt-for-nlp/</link>
+      <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://howard-haowen.github.io/certifications/gla-chatgpt-for-nlp/</guid>
+      <description>Earning this certification validates the proficiency in utilizing ChatGPT for text summarization, showcasing understanding of NLP fundamentals and capacity to develop practical solutions for various industries.</description>
+      <content:encoded><![CDATA[<p><a href="https://www.mygreatlearning.com/certificate/FUJMXITJ">Certification URL</a></p>
+<h2 id="certification-details">Certification details</h2>
+<h3 id="what-you-will-learn">What you will learn</h3>
+<ul>
+<li><strong>Text Summarization Fundamentals</strong>: Gain a comprehensive understanding of text summarization techniques and their real-world applications.</li>
+<li><strong>ChatGPT for Summarization</strong>: Learn how to leverage the power of ChatGPT to generate accurate and coherent text summaries.</li>
+<li><strong>Practical Implementation</strong>: Master the steps involved in building a text summarization pipeline using ChatGPT, from data preprocessing to model application.</li>
+</ul>
+<h3 id="why-earn-this-certification">Why earn this certification</h3>
+<ul>
+<li><strong>Cutting-Edge NLP Skills</strong>: Develop in-demand skills in Natural Language Processing (NLP) using the latest advancements in AI.</li>
+<li><strong>Enhanced Data Processing</strong>: Learn to efficiently process and summarize large volumes of text data, saving time and resources.</li>
+<li><strong>Real-World Application</strong>: Gain practical experience applying text summarization techniques using a powerful AI model like ChatGPT.</li>
+</ul>
+<p><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/chatgpt-for-nlp">Source</a></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>GLA Prompt Engineering for ChatGPT</title>
+      <link>https://howard-haowen.github.io/certifications/gla-prompt-engineering-for-chatgpt/</link>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://howard-haowen.github.io/certifications/gla-prompt-engineering-for-chatgpt/</guid>
+      <description>Earning this certification validates foundational expertise in skillfully directing large language models (LLMs) to achieve desired outcomes.</description>
+      <content:encoded><![CDATA[<p><a href="https://www.mygreatlearning.com/certificate/SDOQYEVO">Certification URL</a></p>
+<h2 id="certification-details">Certification details</h2>
+<h3 id="what-you-will-learn">What you will learn</h3>
+<ul>
+<li><strong>Generative AI Fundamentals</strong>: Grasp the core concepts of Generative AI and Large Language Models (LLMs).</li>
+<li><strong>Prompt Engineering Mastery</strong>: Master the art of crafting effective prompts, understanding their components, and enhancing model outputs.</li>
+<li><strong>Navigating Model Limitations</strong>: Learn to identify and mitigate the limitations of generative models and avoid common pitfalls.</li>
+</ul>
+<h3 id="why-earn-this-certification">Why earn this certification</h3>
+<ul>
+<li><strong>Unlock Generative AI Potential</strong>: Gain a deep understanding of how to effectively utilize and optimize Generative AI tools.</li>
+<li><strong>Become a Prompt Engineering Expert</strong>: Develop highly sought-after skills in prompt engineering, applicable across diverse domains.</li>
+<li><strong>Enhanced AI Problem-Solving</strong>: Learn strategies to overcome limitations and achieve optimal results when working with generative models.</li>
+</ul>
+<p><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/prompt-engineering-for-chatgpt">Source</a></p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
