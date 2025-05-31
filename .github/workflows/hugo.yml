@@ -3,7 +3,7 @@ name: Deploy Hugo Site to GitHub Pages
 on:
   push:
     branches:
-      - main  # Change this if deploying from another branch
+      - main
 
 permissions:
   contents: read
@@ -17,28 +17,28 @@ jobs:
       - name: Checkout Repository (with submodules)
         uses: actions/checkout@v4
         with:
-          submodules: true  # Ensures PaperMod submodule is cloned
+          submodules: true
 
-      - name: Update Submodules
-        run: git submodule update --init --recursive
-
-      - name: Setup Hugo (v0.146.0 or greater)
+      - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.146.0'  # Ensure compatibility with PaperMod
-          extended: true  # Required for SCSS processing (PaperMod uses this)
+          hugo-version: '0.146.0'
+          extended: true
 
       - name: Build Hugo Site
         run: hugo --minify
 
-      - name: Upload Artifact
-        uses: actions/upload-artifact@v4
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
 
   deploy:
     runs-on: ubuntu-latest
     needs: build
+    environment:
+      name: github-pages
     steps:
       - name: Deploy to GitHub Pages
+        id: deployment
         uses: actions/deploy-pages@v2
