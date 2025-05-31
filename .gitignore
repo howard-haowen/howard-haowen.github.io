@@ -21,8 +21,6 @@ resources/_gen/
 *.sublime-project
 *.sublime-workspace
 
-# Hugo themes (PaperMod stored as a submodule, better managed separately)
-themes/PaperMod/
 
 # Optional: ignore the Hugo binary if stored in the repo
 hugo
