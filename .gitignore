@@ -1,8 +1,20 @@
+# Ignore Hugo themes (managed as submodules)
+themes/
+
+# Ignore Hugo generated public directory (only needed for deployment)
+public/
+
 # Hugo build output - generated files (not needed in version control)
 resources/_gen/
 
 # Hugo cache directory (stores temporary files)
 .hugo_cache/
+
+# Optional: ignore the Hugo binary if stored in the repo
+hugo
+
+# Ignore node_modules if using JS dependencies for Hugo
+node_modules/
 
 # macOS system files (generated automatically, should be ignored)
 .DS_Store
@@ -19,13 +31,6 @@ resources/_gen/
 .idea/
 *.sublime-project
 *.sublime-workspace
-
-
-# Optional: ignore the Hugo binary if stored in the repo
-hugo
-
-# Ignore node_modules if using JS dependencies for Hugo
-node_modules/
 
 # Ignore temporary files created during development
 thumbs.db
