@@ -1,0 +1,105 @@
+baseURL: https://howard-haowen.github.io/
+languageCode: en-us
+title: How & When
+theme: ["PaperMod"]
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+
+pagination:
+  pagerSize: 10
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+menu:
+  main:
+    - identifier: education
+      name: 🎓Education
+      url: /education/
+      weight: 10
+    - identifier: experience
+      name: 💼Experience
+      url: /experience/
+      weight: 20
+    - identifier: certifications
+      name: 📜Certifications
+      url: /certifications/
+      weight: 30
+    - identifier: talks
+      name: 📣Talks
+      url: /talks/
+      weight: 40
+    - identifier: projects
+      name: 🧰Projects
+      url: /projects/
+      weight: 50
+    - identifier: publications
+      name: 📚Publications
+      url: /publications/
+      weight: 60
+    - identifier: presentations
+      name: 💡Presentations
+      url: /presentations/
+      weight: 70
+
+params:
+  #env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  #description: "My portfolio website"
+  author: "Haowen Jiang"
+  images: ["profile.jpeg"]
+  languageAltTitle: "English"
+  tocopen: true
+  ShowToc: true
+  ShowReadingTime: false
+  ShowBreadCrumbs: true
+  ShowPageNums: true
+  ShowPostNavLinks: true
+  ShowFullTextinRSS: true
+  ShowCodeCopyButtons: true
+  # Share buttons for social media
+  ShowShareButtons: true
+  ShareButtons: ["linkedin", "facebook"]
+  # Page Mode
+  profileMode:
+    enabled: true
+    title: "Dr. Haowen Jiang" # optional default will be site title
+    subtitle: "AI engineer & linguist"
+    imageUrl: "profile.jpeg" # optional
+    #imageTitle: "<title of image as alt>" # optional
+    #imageWidth: 120 # custom size
+    #imageHeight: 120 # custom size
+    buttons:
+    - name: 🏷Tags
+      url: "/tags"    
+    - name: 🗂Archive
+      url: "/archives"
+  # Optional social icons
+  socialIcons:
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/haowen-jiang-16242074/"
+    - name: "github"
+      url: "https://github.com/howard-haowen"
+  # Optional assets
+  assets: # relative to the /static directory
+  # favicon generated from https://favicon.io/favicon-generator/
+  # font family: IBM Plex Mono
+  # font variant: Regular 400 Italic
+  # font size: 110
+  # font color: #006699
+    favicon: "/favicon.ico"
+    favicon16x16: "/favicon-16x16.png"
+    favicon32x32: "/favicon-32x32.png"
+    apple_touch_icon: "/apple-touch-icon.png"
+    safari_pinned_tab: "/favicon.ico"
+    theme_color: "#006699" # hex color for theme color
+# Search Page
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
