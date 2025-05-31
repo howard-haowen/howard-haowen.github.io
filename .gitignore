@@ -1,6 +1,3 @@
-# Ignore Hugo themes (managed as submodules)
-themes/
-
 # Ignore Hugo generated public directory (only needed for deployment)
 public/
 
