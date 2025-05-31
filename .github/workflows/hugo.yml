@@ -3,7 +3,7 @@ name: Deploy Hugo Site to GitHub Pages
 on:
   push:
     branches:
-      - hugo  # Change this if deploying from another branch
+      - main  # Change this if deploying from another branch
 
 permissions:
   contents: read
@@ -14,8 +14,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
+      - name: Checkout Repository (with submodules)
         uses: actions/checkout@v4
+        with:
+          submodules: true  # Ensures PaperMod submodule is cloned
+
+      - name: Update Submodules
+        run: git submodule update --init --recursive
 
       - name: Setup Hugo (v0.146.0 or greater)
         uses: peaceiris/actions-hugo@v2
