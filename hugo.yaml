@@ -75,7 +75,9 @@ params:
     #imageHeight: 120 # custom size
     buttons:
     - name: 🏷Tags
-      url: "/tags"    
+      url: "/tags"
+    - name: 🔍Search
+      url: "/search"    
     - name: 🗂Archive
       url: "/archives"
   # Optional social icons
