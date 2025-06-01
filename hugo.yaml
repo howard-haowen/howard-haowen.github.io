@@ -60,6 +60,7 @@ params:
   ShowPageNums: true
   ShowPostNavLinks: true
   ShowFullTextinRSS: true
+  ShowRssButtonInSectionTermList: true
   ShowCodeCopyButtons: true
   # Share buttons for social media
   ShowShareButtons: true
