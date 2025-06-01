@@ -1,12 +1,13 @@
 ---
 title: "Microprograms: From Python Programming to Text Analysis"
+description: "Venue: NLP Colearning, National Sun Yat-sen University"
 date: 2024-10-19
+tags: ["NSYSU"]
 cover:
   image: poster-2024-nsysu-microprogram.png
   responsiveImages: true
 ---
 
--   Venue: NLP Colearning, National Sun Yat-sen University
 -   [Webpage of the microprograms](https://sites.google.com/view/nlpcolearningnsysu/events/2024-fall-%E5%BE%AE%E5%AD%B8%E5%88%86-%E5%BE%9E%E7%A8%8B%E5%BC%8F%E7%A2%BC%E5%88%B0%E6%96%87%E6%9C%AC%E5%88%86%E6%9E%90-%E6%87%89%E7%94%A8ai%E6%96%BC%E8%87%AA%E7%84%B6%E8%AA%9E%E8%A8%80%E8%99%95%E7%90%86)
 -   Topics: 
     - Basic Python programming (2024-10-19)

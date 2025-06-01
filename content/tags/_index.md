@@ -1,4 +1,4 @@
 ---
 title: "🏷Tags"
-description: "Browse posts by tags"
+description: "Browse by tags"
 ---
