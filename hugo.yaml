@@ -50,6 +50,7 @@ menu:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   description: "Haowen Jiang's portfolio website"
+  keywords: [Portfolio, Hugo, AI, Linguistics]
   author: "Haowen Jiang"
   images: ["profile.jpeg"]
   languageAltTitle: "English"
@@ -69,7 +70,8 @@ params:
   profileMode:
     enabled: true
     title: "Dr. Haowen Jiang" # optional default will be site title
-    subtitle: "AI engineer & linguist"
+    subtitle: |
+      AI Engineer & Linguist 
     imageUrl: "profile.jpeg" # optional
     imageTitle: "Me at the Uji Bridge" # optional
     #imageWidth: 120 # custom size
@@ -87,6 +89,8 @@ params:
       url: "https://www.linkedin.com/in/haowen-jiang-16242074/"
     - name: "github"
       url: "https://github.com/howard-haowen"
+    - name: email
+      url: "mailto:howard.haowen@gmail.com"
   # Optional assets
   assets: # relative to the /static directory
   # favicon generated from https://favicon.io/favicon-generator/
