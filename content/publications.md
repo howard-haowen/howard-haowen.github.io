@@ -6,13 +6,13 @@ draft: false
 ### Postdoc Report
 Jiang, Haowen. 2019. *A typological study of plural expressions: Associative plurals and inclusory constructions in Austronesian languages of Taiwan* (in Chinese). Beijing: Peking University. 🔻[pdf](/pdf/Jiang2019_Associative-plurals-and-inclusory-constructions-in-Formosan.pdf) 
 
-- Funded by [Chinese Postdoctoral Science Foundation](http://english.chinapostdoctor.org.cn) ([Batch No. 64, Grant No. 2018M641047](http://bsh.sxu.edu.cn/docs//2018-12/beb8c3196f9f4352af0cd57a9336f9f0.pdf))
+- Funded by [Chinese Postdoctoral Science Foundation](http://english.chinapostdoctor.org.cn) (Batch No. 64, Grant No. 2018M641047)
 
 ### PhD Dissertation
 Jiang, Haowen. 2016. *Nominalization and possession in Formosan languages*. Houston, TX: Rice University. 🔻[pdf](/pdf/Jiang2016_Nominalization-and-possession-in-Formosan-languages.pdf) 
 
-- Funded by [Chiang Ching-kuo Foundation for International Scholarly Exchange](http://www.cckf.org/en?set_language=en) ([Year 2012](http://www.cckf.org/zh/about/publication/newsletter/201308))
-- Archived at [Rice Digital Scholarship Archive](https://scholarship.rice.edu/handle/1911/95553)
+- Funded by [Chiang Ching-kuo Foundation for International Scholarly Exchange](http://www.cckf.org/en?set_language=en) (In 2012)
+- Archived at [Rice Digital Scholarship Archive](https://repository.rice.edu/items/954266f5-f096-4de5-a00e-44a6b0dfa81a)
 
 ### MA Thesis
 Jiang, Haowen. 2006. *Spatial conceptualizations in Kavalan*. Taipei: National Taiwan University. 🔻[pdf](/pdf/Jiang2006_Spatial-conceptualizations-in-Kavalan.pdf)
