@@ -104,6 +104,13 @@ params:
     apple_touch_icon: "/apple-touch-icon.png"
     safari_pinned_tab: "/favicon.ico"
     theme_color: "#006699" # hex color for theme color
+  urls:
+    shibatani: "https://profiles.rice.edu/faculty/masayoshi-matt-shibatani"
+    pardeshi: "https://researchmap.jp/Prashant_Pardeshi"
+    billings: "https://www.lunduniversity.lu.se/lucat/user/75c8dde3f51fc3d0fbfe2c59df33bf73"
+    hengsyung: "https://www.forex.ntu.edu.tw/%E9%84%AD%E6%81%86%E9%9B%84/"
+    sihwei: "https://sihweichen.wordpress.com/"
+    ruiling: "http://www.lit.snnu.edu.cn/info/1026/5379.htm"
 # Search Page
 outputs:
   home:
