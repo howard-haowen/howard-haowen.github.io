@@ -4,7 +4,7 @@ description: "Earning this certification validates advanced knowledge and skills
 date: 2025-06-16
 tags: ["sales skills", "IBM", "AI agent", "watsonx Orchestrate"]
 cover:
-  image: ibm-orchestrate-practitioner-advanced.png
+  image: ibm-watsonx-orchestrate-practitioner-advanced.png
   responsiveImages: true
 ---
 
