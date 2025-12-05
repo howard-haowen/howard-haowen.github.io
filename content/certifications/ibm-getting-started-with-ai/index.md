@@ -25,4 +25,6 @@ cover:
 - **Unlock New Opportunities**: Gain a competitive edge in the rapidly growing field of Artificial Intelligence.
 - **Become a Generative AI Power User**: Demonstrate your hands-on experience with leading generative AI tools.
 
+![](https://images.credly.com/size/680x680/images/73c08e76-eb9c-4c03-92da-3dad49e99e5a/Getting_Started_With_Artificial_Intelligence_Badge.png)
+
 [Source](https://www.credly.com/badges/c843dd48-d766-4de0-b1b3-7170418aead5/public_url)

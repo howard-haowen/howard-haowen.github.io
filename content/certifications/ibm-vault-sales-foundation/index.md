@@ -24,4 +24,6 @@ cover:
 - **Client Impact Focus**: Equip yourself to demonstrate Vault’s role in solving real-world client problems.
 - **Sales Differentiation**: Stand out by confidently positioning IBM Vault as a vital solution in competitive sales scenarios.
 
+![](https://images.credly.com/size/340x340/images/97fbd9b6-3f4a-4299-acc0-dd0fd1d07c2f/blob)
+
 [Source](https://www.credly.com/badges/a01207b5-7347-4e77-a0e7-4d40cbf96a4e/public_url)

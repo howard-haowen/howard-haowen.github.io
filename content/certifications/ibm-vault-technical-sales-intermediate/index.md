@@ -24,4 +24,6 @@ cover:
 - **Sales Impact Boost**: Enhance your ability to drive sales through persuasive solution positioning and demonstrations.
 - **Career Differentiation**: Validate your technical sales skills and set yourself apart in the competitive IT security and automation market.
 
+![](https://images.credly.com/size/340x340/images/49292429-4a1c-4b8e-bec1-31938002522f/Vault_20Technical_20Sales_20Intermediate.png)
+
 [Source](https://www.credly.com/badges/21a6229d-832f-41e1-b47b-f480042cc2b5/public_url)

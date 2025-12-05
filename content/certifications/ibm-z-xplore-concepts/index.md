@@ -24,4 +24,6 @@ cover:
 - **Boost Efficiency and Productivity**: Learn to automate tasks, reducing manual effort and improving efficiency in an IBM Z environment.
 - **Master Modern IBM Z Administration**: Acquire modern scripting and automation skills essential for managing today's IBM Z systems.
 
+![](https://images.credly.com/size/340x340/images/0f3e4162-ab6b-457c-8c0d-835a14680666/image.png)
+
 [Source](https://www.credly.com/badges/a96bc303-5646-44f3-93fb-8f5831b17d62)

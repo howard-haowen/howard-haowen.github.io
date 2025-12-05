@@ -22,4 +22,6 @@ cover:
 - **Effective Teams**: Streamline client efforts, making teams more effective.
 - **Customer Success**: Help customers leverage Watson's skills and integrations.
 
+![](https://images.credly.com/size/680x680/images/4e41089e-6e5d-4700-b084-4e018a423d4c/image.png)
+
 [Source](https://www.credly.com/badges/88be50b7-f15a-4aeb-9d5f-a0d13759011e/public_url)

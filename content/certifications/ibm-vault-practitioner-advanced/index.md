@@ -24,4 +24,6 @@ cover:
 - **Enhance Career Opportunities**: Stand out as a certified professional with expertise in Vault and pre-sales client engagement.  
 - **Build Client Trust**: Showcase your ability to deliver successful client engagements, from planning to execution.  
 
+![](https://images.credly.com/size/340x340/images/2c42a526-294b-4edc-9fca-e66ca217703b/Vault_20Practitioner_20Advanced.png)
+
 [Source](https://www.credly.com/badges/a732e3fd-e50e-4adf-a80d-6e8fcd83658a/public_url)

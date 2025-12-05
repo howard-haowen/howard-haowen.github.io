@@ -24,4 +24,6 @@ cover:
 - **Accelerate AI Development:** Learn to rapidly build and deploy AI applications using the integrated capabilities of watsonx.ai.
 - **Build Trustworthy Enterprise AI:**  Understand how to address ethical considerations and build reliable AI solutions that meet enterprise needs.
 
+![](https://images.credly.com/size/680x680/images/8079b4fc-9494-45d5-8621-78815d88fa3a/image.png)
+
 [Source](https://www.credly.com/badges/9cd23844-f6e4-4bb0-946d-37a4bb1b8c77/public_url)

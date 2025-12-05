@@ -24,4 +24,6 @@ cover:
 - **Gain a Competitive Edge:**  Showcase your hands-on experience with a leading AI platform, enhancing your marketability.
 - **Drive Client Engagement**: Develop the communication skills needed to effectively present and sell the value of watsonx.ai.
 
+![](https://images.credly.com/size/680x680/images/e776e507-65f6-473c-b025-83211d94dd25/image.png)
+
 [Source](https://www.credly.com/badges/7e249201-e500-49e2-b883-b8b3daa0d6a8/public_url)

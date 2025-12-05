@@ -24,4 +24,6 @@ cover:
 - **Expand Your Professional Network**:  Strengthen your collaboration skills and build relationships across the IBM ecosystem and with key clients.
 - **Increase Your Market Value**: Differentiate yourself in the competitive sales landscape with specialized APAC sales expertise.
 
+![](https://images.credly.com/size/340x340/images/1d06f9ab-ac85-4bdb-91b8-95be7e4582ed/Sales-Excellence-Academy-APAC.png)
+
 [Source](https://www.credly.com/badges/1e38ff69-ffa0-48b6-a50e-d72a54bfff4e/public_url)

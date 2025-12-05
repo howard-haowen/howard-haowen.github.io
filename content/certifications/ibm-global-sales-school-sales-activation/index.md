@@ -1,5 +1,5 @@
 ---
-title: "IBM Global Sales School - Sales Activation"
+title: "IBM Global Sales School - Sales & Industry Learning Intermediate"
 description: "Earning this certification validates the ability to effectively engage with clients, identify opportunities, and drive revenue growth through the development of key sales skills."
 date: 2024-09-26
 tags: ["sales skills", "IBM"]
@@ -28,5 +28,7 @@ cover:
 * **Enhance your sales skills and knowledge:**  Acquire the core competencies necessary for success in the IBM sales environment.
 * **Differentiate yourself as a sales professional:**  Demonstrate your commitment to professional development and proficiency in best-practice sales methodologies.
 * **Grow revenue and achieve sales targets:**  Apply your newly acquired skills to drive client engagement, identify opportunities, and achieve sales goals. 
+
+![](https://images.credly.com/size/680x680/images/14350ff9-b249-4473-9287-14c055ec0cd1/Global-Sales-School.png)
 
 [Source](https://www.credly.com/badges/0e04d6e3-c106-4fec-b794-60ba0bbfa56d/public_url)

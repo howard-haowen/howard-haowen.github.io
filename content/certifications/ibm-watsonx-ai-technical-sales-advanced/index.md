@@ -22,4 +22,6 @@ cover:
 - **Proof of Value**: Successfully deliver client-facing Proof of Value projects.
 - **Exceed Client Expectations**: Demonstrate that IBM technology meets or exceeds client requirements.
 
+![](https://images.credly.com/size/680x680/images/f744e8bd-5112-468d-ad59-da4cabc71f8c/watsonx_20ai_20Practitioner_20Advanced.png)
+
 [Source](https://www.credly.com/badges/03c399fa-cde2-4426-aae6-2cb032cf5e2a/public_url)

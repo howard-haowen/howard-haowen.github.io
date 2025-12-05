@@ -22,4 +22,6 @@ cover:
 - **Career Advancement**: Enhance your credentials with a certification recognized by industry leaders.
 - **OpenShift Expertise**: Demonstrate proficiency in leveraging OpenShift for AI/ML solutions.
 
+![](https://images.credly.com/size/680x680/images/bc64b5dc-323e-4e23-a3df-1408c248642a/image.png)
+
 [Source](https://www.credly.com/badges/ffcb4d0d-f721-4baf-92f8-4de4af01da73/public_url)

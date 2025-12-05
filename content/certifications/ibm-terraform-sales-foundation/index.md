@@ -22,4 +22,6 @@ cover:
 - **Problem Solving**: Demonstrate your expertise in using Terraform to solve client's infrastructure challenges.
 - **Differentiation**: Highlight your understanding of Terraform's unique role in boosting developer productivity.
 
+![](https://images.credly.com/size/340x340/images/b6314df6-3f8c-4304-a62c-93d34a1668a5/Terraform_20Sales_20Foundation.png)
+
 [Source](https://www.credly.com/badges/686e5d75-fca3-403e-9052-e321aa11007b/public_url)

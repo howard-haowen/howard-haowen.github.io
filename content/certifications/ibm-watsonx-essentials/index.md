@@ -24,4 +24,6 @@ cover:
 - **Drive Business Value with AI**: Learn how to leverage generative AI to solve real-world business problems and create competitive advantage.
 - **Champion Responsible AI**: Demonstrate your commitment to ethical and sustainable AI practices, a key differentiator in today's market.
 
+![](https://images.credly.com/size/340x340/images/47a15e48-3fd7-4c36-8f7e-639a65945ad8/image.png)
+
 [Source](https://www.credly.com/badges/3ab6a975-13c4-4b12-ab66-3e93c7f8da54/public_url)

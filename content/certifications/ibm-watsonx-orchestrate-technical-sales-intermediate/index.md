@@ -24,4 +24,6 @@ cover:
 - **Sales Differentiation**: Gain a competitive edge by combining technical knowledge with persuasive sales techniques.
 - **Practical Application**: Prove your ability to apply watsonx Orchestrate in real-world business
 
+![](https://images.credly.com/size/680x680/images/94c4be15-befd-41ef-a955-c6fe458d0ed1/watsonx_20Orchestrate_20Technical_20Sales_20Intermediate.png)
+
 [Source](https://www.credly.com/badges/59ecc1ec-182d-4ae6-b832-7393c1f336bc/public_url)

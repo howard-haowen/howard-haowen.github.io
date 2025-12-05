@@ -24,4 +24,6 @@ cover:
 - **Generative AI Expertise**: Demonstrate proficiency in the principles and applications of Generative AI, making you a valuable asset to AI-driven teams.
 - **InstructLab Contribution**: Highlight your hands-on experience with InstructLab, including installation and contributions, showcasing your practical skills and commitment to community development.
 
+![](https://images.credly.com/size/340x340/images/d739a868-f29a-4754-a49c-cde9ac936ef7/InstructLab_20Democratizing_20AI_20Models_20at_20Scale_20Foundational.png)
+
 [Source](https://www.credly.com/badges/0587c676-6e58-4d99-b5c8-868d9a7c891f/public_url)

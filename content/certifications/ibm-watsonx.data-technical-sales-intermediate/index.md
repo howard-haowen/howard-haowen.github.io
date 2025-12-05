@@ -22,4 +22,6 @@ cover:
 - **Enterprise Versatility**: Learn to position watsonx.data as a flexible solution for diverse business challenges.
 - **Data Lakehouse Proficiency**: Master the data lakehouse capabilities of watsonx.data to support enterprise AI strategies.
 
+![](https://images.credly.com/size/340x340/images/0364e2ad-6a3d-47fd-80d4-e067bcbca9c2/image.png)
+
 [Source](https://www.credly.com/badges/16063a21-d72b-4e65-89ad-dddac7c5b4a4/public_url)

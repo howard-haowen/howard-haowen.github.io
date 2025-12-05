@@ -24,4 +24,6 @@ cover:
 - **Advanced Skill Validation**: Validate your advanced knowledge and skills in using watsonx Orchestrate for complex projects.
 - **Industry Deployment Expertise**: Demonstrate expertise in the end-to-end deployment of watsonx Orchestrate solutions, setting you apart in the industry.
 
+![](https://images.credly.com/size/680x680/images/7423cbd4-3f1a-4147-b793-91e4ed04d28e/blob)
+
 [Source](https://www.credly.com/badges/80c1dadb-70dd-469c-9708-7de635c6f629/public_url)

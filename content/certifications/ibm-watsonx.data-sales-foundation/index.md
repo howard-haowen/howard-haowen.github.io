@@ -22,4 +22,6 @@ cover:
 - **Versatile Solution**: Articulate how watsonx.data is a versatile solution for enterprise needs.
 - **Data Lakehouse**: Master the data lakehouse functionality with watsonx.data.
 
+![](https://images.credly.com/size/340x340/images/7feff349-701c-4240-8da0-5f3877ba9d82/image.png)
+
 [Source](https://www.credly.com/badges/8dc5bf09-0be2-468f-88dd-07bf3a5e2a93/public_url)

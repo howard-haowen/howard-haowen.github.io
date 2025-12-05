@@ -24,4 +24,6 @@ cover:
 - **Unlock Foundation Model Power**: Learn to harness the power of foundation models to drive innovation and efficiency within your organization.
 - **Build Trustworthy AI Solutions**: Develop the skills to build and deploy reliable and trustworthy AI applications that meet enterprise needs.
 
+![](https://images.credly.com/size/680x680/images/51507f50-7116-4522-8aae-7d2e307ed37a/watson_20ai_20Generative_20AI_20Tools_20Sales_20Foundation.png)
+
 [Source](https://www.credly.com/badges/275d0bcc-bb2e-4323-b4a8-2235032adda6/public_url)

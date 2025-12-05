@@ -24,4 +24,6 @@ cover:
 - **Access a Powerful Network of Experts**: Leverage a network of peers and senior technical experts for support, collaboration, and knowledge sharing.
 - **Increase Efficiency and Success Rates**:  Utilize proven materials and best practices to streamline your workflow and improve the success of your projects.
 
+![](https://images.credly.com/size/340x340/images/feec670b-f8aa-464f-917c-b0eb3c0ce278/agile-team-solution-design.png)
+
 [Source](https://www.credly.com/badges/7960b708-5356-4ce7-9af7-da4f78630662/public_url)

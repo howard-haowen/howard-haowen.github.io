@@ -24,4 +24,6 @@ cover:
 - **Future-Proof Your Skills**:  Develop in-demand skills applicable to a variety of AI-related roles and industries.
 - **AI Landscape Understanding**: Gain valuable insights into the current job market outlook and required skills for success in the AI domain.
 
+![](https://images.credly.com/size/680x680/images/82b908e1-fdcd-4785-9d32-97f11ccbcf08/image.png)
+
 [Source](https://www.credly.com/badges/a449699a-c550-4d16-b7a3-f921a84c3597/public_url)

@@ -24,4 +24,6 @@ cover:
 * **Gain a competitive edge**: Showcase expertise in a leading AI governance platform.
 * **Future-proof your career**: Prepare for the increasing demand for AI professionals with ethical considerations.
 
+![](https://images.credly.com/size/340x340/images/d41c463b-ef21-4bbc-8933-d7c5321c52b7/image.png)
+
 [Source](https://www.credly.com/badges/61fe131e-70db-4574-8c35-8b534d626090/public_url)
