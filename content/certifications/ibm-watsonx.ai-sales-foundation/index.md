@@ -2,7 +2,7 @@
 title: "IBM watsonx.ai Sales Foundation"
 description: "Earning this certification validates a comprehensive grasp of IBM's ethical AI approach and the capabilities of WatsonX.ai for rapid and trustworthy AI application development."
 date: 2024-07-22
-tags: ["sales skills", "watsonx.ai", "IBM"]
+tags: ["sales skills", "watsonx.data", "IBM", "data lakehouse"]
 cover:
   image: ibm-watsonx-ai-sales-foundation.png
   responsiveImages: true

@@ -2,7 +2,7 @@
 title: "IBM watsonx.ai Technical Sales Intermediate"
 description: "Earning this certification validates the ability to discuss the value proposition of IBM watsonx.ai with clients, demonstrating an understanding of its generative AI and foundation model capabilities as well as its key features through hands-on experience."
 date: 2024-09-18
-tags: ["sales skills", "watsonx.ai", "IBM"]
+tags: ["sales skills", "watsonx.data", "IBM", "data lakehouse"]
 cover:
   image: ibm-watsonx.ai-technical-sales-intermediate.png
   responsiveImages: true
