@@ -1,5 +1,6 @@
 # Ignore Hugo generated public directory (only needed for deployment)
 public/
+.worktrees/
 
 # Hugo build output - generated files (not needed in version control)
 resources/_gen/
