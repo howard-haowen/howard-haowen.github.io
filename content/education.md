@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "🎓Education"
+title: "Education"
 ---
 
 ## Rice University

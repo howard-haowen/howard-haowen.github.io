@@ -1,5 +1,5 @@
 ---
-title: "💡Presentations"
+title: "Presentations"
 draft: false
 ---
 

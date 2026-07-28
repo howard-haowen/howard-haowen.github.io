@@ -1,5 +1,5 @@
 ---
-title: "📣Talks"
+title: "Talks"
 type: "talks"
 cascade:
   showToc: false

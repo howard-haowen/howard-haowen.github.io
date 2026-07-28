@@ -1,6 +1,6 @@
 ---
 draft: false
-title: '💼Experience'
+title: "Experience"
 ---
 
 -   AI Engineer, Client Engineering, [IBM](https://www.ibm.com/us-en).
