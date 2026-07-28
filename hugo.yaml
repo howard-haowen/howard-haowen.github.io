@@ -1,6 +1,6 @@
 baseURL: https://hw.is-a.dev/
 languageCode: en-us
-title: How & When
+title: Haowen Jiang
 theme: ["PaperMod"]
 
 enableRobotsTXT: true
@@ -18,39 +18,31 @@ minify:
 
 menu:
   main:
-    - identifier: education
-      name: 🎓Education
-      url: /education/
+    - identifier: profile
+      name: Profile
+      url: /
       weight: 10
-    - identifier: experience
-      name: 💼Experience
-      url: /experience/
-      weight: 20
-    - identifier: certifications
-      name: 📜Certifications
-      url: /certifications/
-      weight: 30
-    - identifier: talks
-      name: 📣Talks
-      url: /talks/
-      weight: 40
-    - identifier: projects
-      name: 🧰Projects
+    - identifier: work
+      name: Work
       url: /projects/
-      weight: 50
+      weight: 20
+    - identifier: speaking
+      name: Speaking
+      url: /talks/
+      weight: 30
     - identifier: publications
-      name: 📚Publications
+      name: Publications
       url: /publications/
-      weight: 60
-    - identifier: presentations
-      name: 💡Presentations
-      url: /presentations/
-      weight: 70
+      weight: 40
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 50
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   description: "Haowen Jiang's portfolio website"
-  keywords: [Portfolio, Hugo, AI, Linguistics]
+  keywords: [Portfolio, AI Engineering, Linguistics, Formosan Languages, Applied AI]
   author: "Haowen Jiang"
   images: ["profile.jpeg"]
   languageAltTitle: "English"
@@ -71,18 +63,18 @@ params:
     enabled: true
     title: "Dr. Haowen Jiang" # optional default will be site title
     subtitle: |
-      AI Engineer & Linguist 
+      AI engineer translating between language systems, data products, and human judgment.
     imageUrl: "profile.jpeg" # optional
-    imageTitle: "Me at the Uji Bridge" # optional
+    imageTitle: "Haowen Jiang at the Uji Bridge" # optional
     #imageWidth: 120 # custom size
     #imageHeight: 120 # custom size
     buttons:
-    - name: 🏷Tags
-      url: "/tags"
-    - name: 🔍Search
-      url: "/search"    
-    - name: 🗂Archive
-      url: "/archives"
+    - name: Talks
+      url: "/talks"
+    - name: Projects
+      url: "/projects"
+    - name: Publications
+      url: "/publications"
   # Optional social icons
   socialIcons:
     - name: "linkedin"
@@ -103,7 +95,7 @@ params:
     favicon32x32: "/favicon-32x32.png"
     apple_touch_icon: "/apple-touch-icon.png"
     safari_pinned_tab: "/favicon.ico"
-    theme_color: "#006699" # hex color for theme color
+    theme_color: "#0b3b4a" # hex color for theme color
   urls:
     shibatani: "https://profiles.rice.edu/faculty/masayoshi-matt-shibatani"
     pardeshi: "https://researchmap.jp/Prashant_Pardeshi"

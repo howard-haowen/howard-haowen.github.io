@@ -1,0 +1,94 @@
+<div class="profile portfolio-profile">
+    {{- with site.Params.profileMode }}
+    <div class="profile_inner portfolio-hero">
+        <div class="hero-copy">
+            <p class="hero-kicker">Applied AI · Linguistics</p>
+            <h1 id="portfolio-title">{{ .title | default site.Title | markdownify }}</h1>
+            <div class="gloss-strip" role="group" aria-label="Portfolio focus">
+                <span class="gloss-unit"><b>language</b><small>meaning</small></span>
+                <span class="gloss-arrow" aria-hidden="true">→</span>
+                <span class="gloss-unit"><b>model</b><small>behavior</small></span>
+                <span class="gloss-arrow" aria-hidden="true">→</span>
+                <span class="gloss-unit"><b>product</b><small>usable systems</small></span>
+            </div>
+            <p class="hero-thesis">{{ .subtitle | markdownify }}</p>
+
+
+            {{- partial "social_icons.html" -}}
+        </div>
+
+        {{- if .imageUrl -}}
+        <aside class="hero-field-card" aria-label="Annotated profile card">
+            <div class="field-card-label">field card</div>
+            <div class="hero-portrait">
+                {{- $img := "" }}
+                {{- if not (urls.Parse .imageUrl).IsAbs }}
+                    {{- $img = resources.Get .imageUrl }}
+                {{- end }}
+                {{- if $img }}
+                    {{- $processableFormats := (slice "jpg" "jpeg" "png" "tif" "bmp" "gif") -}}
+                    {{- if hugo.IsExtended -}}
+                        {{- $processableFormats = $processableFormats | append "webp" -}}
+                    {{- end -}}
+                    {{- $prod := (hugo.IsProduction | or (eq site.Params.env "production")) }}
+                    {{- if and (in $processableFormats $img.MediaType.SubType) (eq $prod true)}}
+                        {{- if (not (and (not .imageHeight) (not .imageWidth))) }}
+                            {{- $img = $img.Resize (printf "%dx%d" .imageWidth .imageHeight) }}
+                        {{- else if .imageHeight }}
+                            {{- $img = $img.Resize (printf "x%d" .imageHeight) }}
+                        {{ else if .imageWidth }}
+                            {{- $img = $img.Resize (printf "%dx" .imageWidth) }}
+                        {{ else }}
+                            {{- $img = $img.Resize "420x420" }}
+                        {{- end }}
+                    {{- end }}
+                    <img draggable="false" src="{{ $img.Permalink }}" alt="{{ .imageTitle | default "profile image" }}" title="{{ .imageTitle }}" height="420" width="420" />
+                {{- else }}
+                    <img draggable="false" src="{{ .imageUrl | absURL }}" alt="{{ .imageTitle | default "profile image" }}" title="{{ .imageTitle }}" height="420" width="420" />
+                {{- end }}
+            </div>
+            <dl class="field-card-meta">
+                <div>
+                    <dt>discipline</dt>
+                    <dd>AI engineering</dd>
+                </div>
+                <div>
+                    <dt>lens</dt>
+                    <dd>linguistics</dd>
+                </div>
+                <div>
+                    <dt>output</dt>
+                    <dd>tools · talks · research</dd>
+                </div>
+            </dl>
+        </aside>
+        {{- end }}
+    </div>
+
+    <nav class="portfolio-routes" aria-label="Choose a portfolio route">
+        <p class="routes-kicker">If you are here to</p>
+        <div class="route-grid">
+            <a class="route-card" href="/talks/">
+                <span class="route-intent">Invite me</span>
+                <strong>Talks</strong>
+                <span>Public speaking across AI, linguistics, and data practice.</span>
+            </a>
+            <a class="route-card" href="/certifications/">
+                <span class="route-intent">Verify credentials</span>
+                <strong>Certifications</strong>
+                <span>Documented training and professional qualifications.</span>
+            </a>
+            <a class="route-card" href="/projects/">
+                <span class="route-intent">Build with me</span>
+                <strong>Projects</strong>
+                <span>Applied AI systems, tools, and research prototypes.</span>
+            </a>
+            <a class="route-card" href="/publications/">
+                <span class="route-intent">Check the research</span>
+                <strong>Publications</strong>
+                <span>Academic work grounding the language side of the portfolio.</span>
+            </a>
+        </div>
+    </nav>
+    {{- end}}
+</div>
