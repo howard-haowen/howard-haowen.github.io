@@ -1,0 +1,58 @@
+{{- $current := . }}
+{{- $currentURL := $current.Permalink }}
+{{- $menuEntries := site.Menus.main.ByWeight }}
+{{- $scratch := newScratch }}
+{{- $scratch.Set "matchedMenu" false }}
+
+{{- range $index, $entry := $menuEntries }}
+{{- if eq ($entry.URL | absLangURL) $currentURL }}
+{{- $scratch.Set "matchedMenu" true }}
+{{- if gt $index 0 }}
+{{- $scratch.Set "prevMenu" (index $menuEntries (sub $index 1)) }}
+{{- end }}
+{{- if lt (add $index 1) (len $menuEntries) }}
+{{- $scratch.Set "nextMenu" (index $menuEntries (add $index 1)) }}
+{{- end }}
+{{- end }}
+{{- end }}
+
+{{- if $scratch.Get "matchedMenu" }}
+<nav class="paginav">
+  {{- with $scratch.Get "prevMenu" }}
+  <a class="prev" href="{{ .URL | absLangURL }}">
+    <span class="title">« {{ i18n "prev_page" }}</span>
+    <br>
+    <span>{{- .Name -}}</span>
+  </a>
+  {{- end }}
+  {{- with $scratch.Get "nextMenu" }}
+  <a class="next" href="{{ .URL | absLangURL }}">
+    <span class="title">{{ i18n "next_page" }} »</span>
+    <br>
+    <span>{{- .Name -}}</span>
+  </a>
+  {{- end }}
+</nav>
+{{- else }}
+{{- with .CurrentSection }}
+{{- $pages := .RegularPages.ByDate.Reverse }}
+{{- if and (gt (len $pages) 1) (in $pages $current) }}
+<nav class="paginav">
+  {{- with $pages.Next $current }}
+  <a class="prev" href="{{ .Permalink }}">
+    <span class="title">« {{ i18n "prev_page" }}</span>
+    <br>
+    <span>{{- .Name -}}</span>
+  </a>
+  {{- end }}
+  {{- with $pages.Prev $current }}
+  <a class="next" href="{{ .Permalink }}">
+    <span class="title">{{ i18n "next_page" }} »</span>
+    <br>
+    <span>{{- .Name -}}</span>
+  </a>
+  {{- end }}
+</nav>
+{{- end }}
+{{- end }}
+{{- end }}

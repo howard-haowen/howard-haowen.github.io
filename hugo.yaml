@@ -20,15 +20,15 @@ menu:
   main:
     - identifier: profile
       name: Profile
-      url: /
+      url: /profile/
       weight: 10
     - identifier: work
       name: Work
-      url: /projects/
+      url: /work/
       weight: 20
     - identifier: speaking
       name: Speaking
-      url: /talks/
+      url: /speaking/
       weight: 30
     - identifier: publications
       name: Publications
@@ -58,23 +58,25 @@ params:
   # Share buttons for social media
   ShowShareButtons: true
   ShareButtons: ["linkedin", "facebook"]
+  footer:
+    text: "[Archive](/archives/) · [Tags](/tags/) · [RSS](/index.xml)"
   # Page Mode
   profileMode:
     enabled: true
     title: "Dr. Haowen Jiang" # optional default will be site title
     subtitle: |
-      AI engineer translating between language systems, data products, and human judgment.
+      AI engineer and linguist translating research judgment into practical data and AI systems.
     imageUrl: "profile.jpeg" # optional
     imageTitle: "Haowen Jiang at the Uji Bridge" # optional
     #imageWidth: 120 # custom size
     #imageHeight: 120 # custom size
     buttons:
+    - name: Profile
+      url: "/profile"
     - name: Talks
       url: "/talks"
-    - name: Projects
-      url: "/projects"
-    - name: Publications
-      url: "/publications"
+    - name: Certifications
+      url: "/certifications"
   # Optional social icons
   socialIcons:
     - name: "linkedin"

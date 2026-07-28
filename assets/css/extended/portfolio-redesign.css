@@ -148,7 +148,6 @@ body {
 .dark .menu-toggle {
   color: var(--primary);
 }
-
 .main {
   padding-top: 34px;
 }
@@ -216,6 +215,7 @@ body {
   margin: 1.15rem 0 1.2rem;
   max-width: 38rem;
 }
+
 
 .gloss-strip {
   background: linear-gradient(90deg, color-mix(in srgb, var(--entry) 90%, transparent), color-mix(in srgb, var(--portfolio-jade) 10%, transparent));
@@ -417,6 +417,37 @@ body {
   border-color: color-mix(in srgb, var(--portfolio-jade) 52%, var(--border));
 }
 
+.thumbnail-entry {
+  align-items: center;
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: minmax(86px, 148px) minmax(0, 1fr);
+}
+
+.thumbnail-entry .entry-cover {
+  align-self: start;
+  margin: 0;
+  height: 112px;
+}
+
+.thumbnail-entry .entry-cover img {
+  aspect-ratio: 4 / 3;
+  background: color-mix(in srgb, var(--entry) 82%, var(--theme));
+  border: 1px solid var(--border);
+  height: 100%;
+  object-fit: contain;
+  padding: 0.28rem;
+}
+
+.thumbnail-entry .entry-header,
+.thumbnail-entry .entry-content,
+.thumbnail-entry .entry-footer {
+  grid-column: 2;
+}
+
+.thumbnail-entry .entry-footer {
+  align-self: end;
+}
 .post-content {
   font-size: 1.02rem;
   line-height: 1.72;
@@ -482,10 +513,15 @@ body {
   border-radius: var(--radius);
   color: var(--content);
   display: grid;
-  gap: 0.45rem;
-  min-height: 12rem;
+  gap: 0;
+  grid-template-rows: 1.35rem 3.15rem auto;
+  min-height: 11rem;
   padding: 1rem;
   text-decoration: none;
+}
+.route-card .route-intent {
+  align-self: start;
+  white-space: nowrap;
 }
 
 .route-card strong {
@@ -495,13 +531,16 @@ body {
   font-variation-settings: "SOFT" 70, "opsz" 48;
   font-weight: 760;
   letter-spacing: -0.05em;
-  line-height: 0.95;
+  line-height: 1;
 }
 
 .route-card span:last-child {
+  align-self: start;
   color: var(--secondary);
-  font-size: 0.94rem;
-  line-height: 1.45;
+  font-size: 0.92rem;
+  line-height: 1.38;
+  max-width: 24ch;
+  text-wrap: pretty;
 }
 
 .route-card:hover {
@@ -644,5 +683,18 @@ body {
   .nav.is-menu-enhanced #menu .active {
     background: rgba(42, 157, 143, 0.14);
     border-color: rgba(42, 157, 143, 0.32);
+  }
+
+  .thumbnail-entry {
+    grid-template-columns: minmax(72px, 104px) minmax(0, 1fr);
+  }
+
+  .thumbnail-entry .entry-cover {
+    height: 96px;
+  }
+
+
+  #menu a {
+    font-size: 0.68rem;
   }
 }

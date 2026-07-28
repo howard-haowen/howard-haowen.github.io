@@ -1,7 +1,10 @@
 ---
+title: "Profile"
 draft: false
-title: "Experience"
+
 ---
+
+## Experience
 
 -   AI Engineer, Client Engineering, [IBM](https://www.ibm.com/us-en).
 
@@ -21,3 +24,20 @@ title: "Experience"
 
 -   Research Assistant, [Linguistic Society of Taiwan](https://linguist.tw/en/).
 
+## Education
+
+### Rice University
+
+![](/rice-logo.png)
+
+- Ph.D., [Department of Linguistics](https://linguistics.rice.edu/), Rice University, Houston, Texas, USA
+
+- M.A., [Department of Linguistics](https://linguistics.rice.edu/), Rice University, Houston, Texas, USA
+
+### National Taiwan University
+
+![](/ntu-logo.png)
+
+- M.A., [Graduate Institute of Linguistics](https://linguistics.ntu.edu.tw/), National Taiwan University, Taipei, Taiwan
+
+- B.A., [Department of Foreign Languages & Literatures](https://www.forex.ntu.edu.tw/?lang=en), National Taiwan University, Taipei, Taiwan

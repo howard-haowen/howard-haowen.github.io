@@ -1,7 +1,17 @@
 ---
-title: "Presentations"
+title: "Speaking"
 draft: false
 ---
+
+Public talks, workshops, and academic presentations across AI, linguistics, language documentation, and applied data work.
+
+## Talks
+
+Invited and public-facing talks are collected as individual event pages.
+
+[Browse talks](/talks/)
+
+## Academic presentations
 
 ### Contributed Talks
 - [Huang, Ruiling]({{< param "urls.ruiling" >}}) & **Haowen Jiang**. 2022. A corpus-based study of minimizers in Taiwanese Southern Min: the case of `sió-khuá` and `tām-po̍h`, presented at [the 16th International Conference on Min Dialects (ICMD-16)](https://fah.um.edu.mo/16-min-dialects-eng/), University of Macau, Macau, Nov 18-21.

@@ -1,7 +1,11 @@
 ---
-title: "Projects"
+title: "Work"
 draft: false
 ---
+
+Applied AI work across language tools, data products, and professional credentials.
+
+## Projects
 
 ### My AI blog     
 
@@ -20,3 +24,9 @@ draft: false
 - In [Taiwanese Southern Min](https://en.wikipedia.org/wiki/Taiwanese_Hokkien): Play the game [here](https://howard-haowen.github.io/tsm-wordle/)! 
 - In [Paiwan](https://en.wikipedia.org/wiki/Paiwan_language): play the game [here](https://howard-haowen.github.io/paiwan-wordle/)!
 - In [Amis](https://en.wikipedia.org/wiki/Amis_language): play the game [here](https://howard-haowen.github.io/amis-wordle/)!
+
+## Certifications
+
+Professional certifications document current practice across IBM watsonx, AI engineering, data platforms, cloud infrastructure, and applied prompt engineering.
+
+[Browse certifications](/certifications/)
