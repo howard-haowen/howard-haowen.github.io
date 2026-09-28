@@ -502,6 +502,7 @@ body {
 }
 
 .route-grid {
+  container-type: inline-size;
   display: grid;
   gap: 0.85rem;
   grid-template-columns: repeat(4, minmax(0, 1fr));
@@ -514,7 +515,7 @@ body {
   color: var(--content);
   display: grid;
   gap: 0;
-  grid-template-rows: 1.35rem 3.15rem auto;
+  grid-template-rows: 1.35rem auto auto;
   min-height: 11rem;
   padding: 1rem;
   text-decoration: none;
@@ -527,11 +528,12 @@ body {
 .route-card strong {
   color: var(--portfolio-estuary);
   font-family: "Fraunces", Georgia, serif;
-  font-size: clamp(1.35rem, 2vw, 1.85rem);
+  font-size: clamp(1.1rem, 2.2cqw, 1.45rem);
   font-variation-settings: "SOFT" 70, "opsz" 48;
   font-weight: 760;
   letter-spacing: -0.05em;
-  line-height: 1;
+  line-height: 1.1;
+  white-space: nowrap;
 }
 
 .route-card span:last-child {
