@@ -1,0 +1,31 @@
+# Haowen Jiang
+
+> AI engineer and linguist at IBM, translating research judgment into practical data and AI systems. Ph.D. in Linguistics (Rice University). Specialist in Formosan languages, NLP, and applied AI.
+
+## Profile
+
+- [Profile](/profile/) — work experience and educational background
+
+## Work
+
+- [Work](/work/) — AI projects, tools, and applied work
+
+## Publications
+
+- [Publications](/publications/) — academic articles, book chapters, dissertations, and manuscripts on Formosan languages, Austronesian linguistics, and Mandarin discourse
+
+## Speaking
+
+- [Speaking](/speaking/) — public talks, workshops, and academic conference presentations
+
+## Talks
+
+- [Talks](/talks/) — invited and public-facing talk event pages with slides and posters
+
+## Certifications
+
+- [Certifications](/certifications/) — professional credentials in IBM watsonx, AI engineering, data platforms, cloud infrastructure, and applied prompt engineering
+
+## Full content
+
+- [llms-full.txt](/llms-full.txt) — complete plain-text dump of all site content for LLM ingestion
