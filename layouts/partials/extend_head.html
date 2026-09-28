@@ -1,3 +1,11 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght,SOFT@9..144,500..800,35..100&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap">
+
+{{/* AI-agent discovery links */}}
+<link rel="llms-txt" href="{{ .Site.BaseURL }}llms.txt">
+<link rel="alternate" type="text/plain" title="LLM full content" href="{{ .Site.BaseURL }}llms-full.txt">
+<link rel="alternate" type="application/json" title="Search index" href="{{ .Site.BaseURL }}index.json">
+
+{{/* JSON-LD Person structured data */}}
+{{ partial "jsonld_person.html" . }}
