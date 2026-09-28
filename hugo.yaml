@@ -105,9 +105,18 @@ params:
     hengsyung: "https://www.forex.ntu.edu.tw/%E9%84%AD%E6%81%86%E9%9B%84/"
     sihwei: "https://sihweichen.wordpress.com/"
     ruiling: "http://www.lit.snnu.edu.cn/info/1026/5379.htm"
+# Custom output formats
+outputFormats:
+  llmsfull:
+    mediaType: text/plain
+    baseName: llms-full
+    isPlainText: true
+    notAlternative: false
+
 # Search Page
 outputs:
   home:
     - HTML
     - RSS
     - JSON # necessary for search
+    - llmsfull

@@ -1,0 +1,50 @@
+{{- $site := .Site -}}
+# {{ $site.Title }} — Full Site Content for LLM Ingestion
+# Generated: {{ now.Format "2006-01-02" }}
+# Source: {{ $site.BaseURL }}
+# Entry point: {{ $site.BaseURL }}llms.txt
+# ============================================================
+
+## About
+
+{{ $site.Params.description }}
+
+{{ with $site.GetPage "/profile" }}
+## Profile
+{{ .RawContent | plainify }}
+{{ end }}
+
+{{ with $site.GetPage "/work" }}
+## Work
+{{ .RawContent | plainify }}
+{{ end }}
+
+{{ with $site.GetPage "/publications" }}
+## Publications
+{{ .RawContent | plainify }}
+{{ end }}
+
+{{ with $site.GetPage "/speaking" }}
+## Speaking
+{{ .RawContent | plainify }}
+{{ end }}
+
+## Talks
+{{ range sort (where $site.RegularPages "Section" "talks") "Date" "desc" }}
+### {{ .Title }}
+Date: {{ .Date.Format "2006-01-02" }}
+{{ with .Params.description }}Venue: {{ . }}{{ end }}
+{{ with .Params.tags }}Tags: {{ delimit . ", " }}{{ end }}
+URL: {{ $site.BaseURL }}{{ .RelPermalink | strings.TrimLeft "/" }}
+{{ with .RawContent }}{{ . | plainify }}{{ end }}
+{{ end }}
+
+## Certifications
+{{ range sort (where $site.RegularPages "Section" "certifications") "Date" "desc" }}
+### {{ .Title }}
+Date: {{ .Date.Format "2006-01-02" }}
+{{ with .Params.description }}{{ . }}{{ end }}
+{{ with .Params.tags }}Tags: {{ delimit . ", " }}{{ end }}
+URL: {{ $site.BaseURL }}{{ .RelPermalink | strings.TrimLeft "/" }}
+{{ with .RawContent }}{{ . | plainify }}{{ end }}
+{{ end }}
