@@ -17,7 +17,7 @@ Personal portfolio site (https://hw.is-a.dev/) built with Hugo. The PaperMod the
 
 ## Gotchas
 - `--minify` strips HTML attribute quotes. Grep built HTML without quotes: `grep -c 'class=paginav'`. The quoted form returns 0 even when the element exists.
-- A project file at a theme path replaces the theme file whole. These nine do: `layouts/_default/list.html`, `layouts/_default/single.html`, `layouts/robots.txt`, `layouts/partials/header.html`, `layouts/partials/index_profile.html`, `layouts/partials/share_icons.html`, `layouts/partials/post_nav_links.html`, `layouts/partials/extend_head.html`, and `assets/css/common/post-single.css`. Theme updates don't reach them, so diff each against `themes/PaperMod/` after any submodule bump.
+- A project file at a theme path replaces the theme file whole. These eight do: `layouts/_default/list.html`, `layouts/_default/single.html`, `layouts/robots.txt`, `layouts/partials/header.html`, `layouts/partials/index_profile.html`, `layouts/partials/post_nav_links.html`, `layouts/partials/extend_head.html`, and `assets/css/common/post-single.css`. Theme updates don't reach them, so diff each against `themes/PaperMod/` after any submodule bump.
 - `extend_head.html` is the theme's head hook. Keep its font links, llms/JSON discovery links, and `jsonld_person.html` include.
 - Search needs JSON in `outputs.home`, because `themes/PaperMod/assets/js/fastsearch.js` fetches `../index.json`.
 - `params.env: production` in `hugo.yaml` turns on production-only theme output (OG, Twitter, schema, robots index) in every environment, including `hugo server`.
