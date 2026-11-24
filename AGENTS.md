@@ -39,3 +39,16 @@ Personal portfolio site (https://hw.is-a.dev/) built with Hugo. The PaperMod the
 - Dark mode is the `body.dark` class, so color rules need a `.dark ...` variant. New custom properties use the `--portfolio-*` prefix.
 - Missing params render nothing silently. Guard optional values with `with`, `if`, or `| default`. Check `resources.Get` results for nil, as `layouts/partials/header.html` does.
 - Commits: Conventional Commits with optional scope (`feat(seo): ...`, `fix(ui): ...`, `chore: ...`).
+
+<!-- BEGIN brain.md -->
+## Project Brain
+
+This project keeps a **Project Brain**: a persistent memory layer of its durable decisions, requirements, and constraints. Read `./BRAIN.md` for the full read/write contract.
+
+Use it actively:
+- Before any task or discussion, load the relevant brain context with the `brain` CLI's read commands.
+- Whenever a decision, requirement, constraint, or durable insight surfaces — in discussion or in code — record it with the `brain` CLI before moving on; don't wait to be asked.
+- All reads and writes go through the `brain` CLI — never hand-edit brain files.
+
+The brain skills (`brain-setup`, `brain-page`, `brain-ingest`, `brain-bootstrap`) are installed in your global skills directory.
+<!-- END brain.md -->
