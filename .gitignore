@@ -40,3 +40,6 @@ content/education.md
 # Plan files
 plans/
 .github/prompts/
+
+# Local scratch directory
+tmp/
