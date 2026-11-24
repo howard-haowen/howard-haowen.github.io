@@ -5,7 +5,7 @@ category: project
 status: active
 tags: [optimization, papermod, ci, hugo]
 created: "2026-11-25T07:26:34"
-updated: "2026-11-25T07:26:34"
+updated: "2026-11-25T07:32:37"
 ---
 
 ## compiled_truth
@@ -48,3 +48,9 @@ Not started. Already done: Hugo bump to 0.166.0 (ff45a81), `locale` key (b1a960c
   summary: Record recommended optimizations from the project review
   source: Project review on 2026-11-24
   affects: [optimization-backlog]
+
+- time: 2026-11-25T07:32:37
+  kind: note
+  summary: "Full review text recorded in papermod-dependency-review; item 9 first bullet is done (AGENTS.md committed, .bob/ ignored)"
+  source: Project review on 2026-11-24
+  affects: [papermod-dependency-review]
