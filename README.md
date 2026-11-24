@@ -66,7 +66,7 @@ flowchart TD
   subgraph "Build Job"
     direction TB
     B0["Job: build<br>runs-on: ubuntu-latest"]:::job
-    Benv["Env:<br>HUGO_VERSION=0.146.0"]:::env
+    Benv["Env:<br>HUGO_VERSION=0.166.0"]:::env
     B1["Install Hugo CLI"]:::step
     B2["Install Dart Sass"]:::step
     B3["Checkout Repo<br>submodules: recursive"]:::step
