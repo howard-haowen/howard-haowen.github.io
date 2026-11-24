@@ -43,3 +43,6 @@ plans/
 
 # Local scratch directory
 tmp/
+
+# Local Bob agent configuration
+.bob/
