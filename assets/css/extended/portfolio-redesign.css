@@ -21,7 +21,7 @@
   --portfolio-rice: #0a6c8f;
 }
 
-.dark {
+:root[data-theme="dark"] {
   --theme: #0d171b;
   --entry: #122329;
   --primary: #f5f1e6;
@@ -57,7 +57,7 @@ body {
   letter-spacing: -0.04em;
 }
 
-.dark .logo a {
+[data-theme="dark"] .logo a {
   color: var(--primary);
 }
 
@@ -80,8 +80,8 @@ body {
   color: var(--portfolio-estuary);
 }
 
-.dark #menu a:hover,
-.dark #menu .active {
+[data-theme="dark"] #menu a:hover,
+[data-theme="dark"] #menu .active {
   color: var(--primary);
 }
 
@@ -133,19 +133,19 @@ body {
   top: 5px;
 }
 
-.nav.is-menu-open .menu-toggle-icon {
+.header-nav.is-menu-open .menu-toggle-icon {
   transform: rotate(45deg);
 }
 
-.nav.is-menu-open .menu-toggle-icon::before {
+.header-nav.is-menu-open .menu-toggle-icon::before {
   opacity: 0;
 }
 
-.nav.is-menu-open .menu-toggle-icon::after {
+.header-nav.is-menu-open .menu-toggle-icon::after {
   transform: translateY(-5px) rotate(-90deg);
 }
 
-.dark .menu-toggle {
+[data-theme="dark"] .menu-toggle {
   color: var(--primary);
 }
 .main {
@@ -204,7 +204,7 @@ body {
   max-width: 8ch;
 }
 
-.dark .portfolio-hero h1 {
+[data-theme="dark"] .portfolio-hero h1 {
   color: var(--primary);
 }
 
@@ -244,7 +244,7 @@ body {
   letter-spacing: -0.035em;
 }
 
-.dark .gloss-unit b {
+[data-theme="dark"] .gloss-unit b {
   color: var(--primary);
 }
 
@@ -344,7 +344,7 @@ body {
   font-weight: 600;
 }
 
-.dark .field-card-meta dd {
+[data-theme="dark"] .field-card-meta dd {
   color: var(--primary);
 }
 
@@ -362,7 +362,7 @@ body {
   width: 42px;
 }
 
-.dark .social-icons a {
+[data-theme="dark"] .social-icons a {
   color: var(--primary);
 }
 
@@ -395,12 +395,12 @@ body {
   transform: translateY(-1px);
 }
 
-.dark .button {
+[data-theme="dark"] .button {
   border-color: var(--primary);
   color: var(--primary);
 }
 
-.dark .button:hover {
+[data-theme="dark"] .button:hover {
   background: var(--primary);
   color: var(--portfolio-estuary);
 }
@@ -462,9 +462,9 @@ body {
   letter-spacing: -0.04em;
 }
 
-.dark .post-content h2,
-.dark .post-content h3,
-.dark .post-content h4 {
+[data-theme="dark"] .post-content h2,
+[data-theme="dark"] .post-content h3,
+[data-theme="dark"] .post-content h4 {
   color: var(--primary);
 }
 
@@ -550,7 +550,7 @@ body {
   transform: translateY(-2px);
 }
 
-.dark .route-card strong {
+[data-theme="dark"] .route-card strong {
   color: var(--primary);
 }
 
@@ -619,7 +619,7 @@ body {
     min-height: auto;
   }
 
-  .nav {
+  .header-nav {
     align-items: center;
     gap: 0.75rem;
     line-height: 1.4;
@@ -633,7 +633,7 @@ body {
 
   .menu-toggle {
     display: inline-flex;
-    margin: auto var(--gap) auto 0;
+    margin: auto 0;
   }
 
   #menu a {
@@ -641,7 +641,7 @@ body {
     min-height: 44px;
   }
 
-  .nav.is-menu-enhanced #menu {
+  .header-nav.is-menu-enhanced #menu {
     background: color-mix(in srgb, var(--theme) 94%, var(--portfolio-estuary));
     border: 1px solid rgba(42, 157, 143, 0.28);
     border-radius: 24px;
@@ -661,19 +661,19 @@ body {
     z-index: 20;
   }
 
-  .nav.is-menu-open #menu {
+  .header-nav.is-menu-open #menu {
     display: grid;
   }
 
-  .nav.is-menu-enhanced #menu li + li {
+  .header-nav.is-menu-enhanced #menu li + li {
     margin-inline-start: 0;
   }
 
-  .nav.is-menu-enhanced #menu a {
+  .header-nav.is-menu-enhanced #menu a {
     padding: 0;
   }
 
-  .nav.is-menu-enhanced #menu a span {
+  .header-nav.is-menu-enhanced #menu a span {
     align-items: center;
     border: 1px solid transparent;
     border-radius: 16px;
@@ -682,7 +682,7 @@ body {
     padding: 0.72rem 0.8rem;
   }
 
-  .nav.is-menu-enhanced #menu .active {
+  .header-nav.is-menu-enhanced #menu .active {
     background: rgba(42, 157, 143, 0.14);
     border-color: rgba(42, 157, 143, 0.32);
   }
@@ -699,4 +699,24 @@ body {
   #menu a {
     font-size: 0.68rem;
   }
+}
+
+/* Share buttons: inline row inside .post-header (see layouts/single.html) */
+.share-buttons {
+  align-items: center;
+  background: none;
+  border: 0;
+  border-radius: 0;
+  color: var(--secondary);
+  display: inline-flex;
+  gap: 12px;
+  justify-content: flex-start;
+  margin-top: 10px;
+  overflow-x: visible;
+  padding: 0;
+}
+
+.post-header .share-buttons::before {
+  content: "Share:";
+  font-size: 14px;
 }

@@ -21,14 +21,12 @@
   {{- with $scratch.Get "prevMenu" }}
   <a class="prev" href="{{ .URL | absLangURL }}">
     <span class="title">« {{ i18n "prev_page" }}</span>
-    <br>
     <span>{{- .Name -}}</span>
   </a>
   {{- end }}
   {{- with $scratch.Get "nextMenu" }}
   <a class="next" href="{{ .URL | absLangURL }}">
     <span class="title">{{ i18n "next_page" }} »</span>
-    <br>
     <span>{{- .Name -}}</span>
   </a>
   {{- end }}
@@ -41,14 +39,12 @@
   {{- with $pages.Next $current }}
   <a class="prev" href="{{ .Permalink }}">
     <span class="title">« {{ i18n "prev_page" }}</span>
-    <br>
     <span>{{- .Name -}}</span>
   </a>
   {{- end }}
   {{- with $pages.Prev $current }}
   <a class="next" href="{{ .Permalink }}">
     <span class="title">{{ i18n "next_page" }} »</span>
-    <br>
     <span>{{- .Name -}}</span>
   </a>
   {{- end }}

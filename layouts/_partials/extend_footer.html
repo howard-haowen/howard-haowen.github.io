@@ -1,0 +1,33 @@
+{{- /* Mobile menu toggle: built in JS so the theme's header.html needs no override. Styles: assets/css/extended/portfolio-redesign.css */ -}}
+<script>
+    (function () {
+        var nav = document.querySelector('.header-nav');
+        var menu = document.getElementById('menu');
+        if (!nav || !menu) return;
+
+        var button = document.createElement('button');
+        button.className = 'menu-toggle';
+        button.type = 'button';
+        button.setAttribute('aria-controls', 'menu');
+        button.setAttribute('aria-expanded', 'false');
+        button.innerHTML = '<span class="menu-toggle-label">Menu</span><span class="menu-toggle-icon" aria-hidden="true"></span>';
+        nav.insertBefore(button, menu);
+
+        function close() {
+            nav.classList.remove('is-menu-open');
+            button.setAttribute('aria-expanded', 'false');
+        }
+
+        nav.classList.add('is-menu-enhanced');
+        button.addEventListener('click', function () {
+            var isOpen = nav.classList.toggle('is-menu-open');
+            button.setAttribute('aria-expanded', String(isOpen));
+        });
+        menu.addEventListener('click', function (event) {
+            if (event.target.closest('a')) close();
+        });
+        document.addEventListener('keydown', function (event) {
+            if (event.key === 'Escape') close();
+        });
+    }());
+</script>
