@@ -33,7 +33,7 @@
 {{ range sort (where $site.RegularPages "Section" "talks") "Date" "desc" }}
 ### {{ .Title }}
 Date: {{ .Date.Format "2006-01-02" }}
-{{ with .Params.description }}Venue: {{ . }}{{ end }}
+{{ with .Params.description }}{{ . }}{{ end }}
 {{ with .Params.tags }}Tags: {{ delimit . ", " }}{{ end }}
 URL: {{ $site.BaseURL }}{{ .RelPermalink | strings.TrimLeft "/" }}
 {{ with .RawContent }}{{ . | plainify }}{{ end }}

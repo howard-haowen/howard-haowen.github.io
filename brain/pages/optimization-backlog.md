@@ -5,7 +5,7 @@ category: project
 status: active
 tags: [optimization, papermod, ci, hugo]
 created: "2026-11-25T07:26:34"
-updated: "2026-11-25T18:27:10"
+updated: "2026-11-25T19:06:36"
 ---
 
 ## compiled_truth
@@ -26,12 +26,12 @@ Reduce maintenance cost of the Hugo + PaperMod site and keep CI and docs consist
 4. Done: removed Dart Sass and Node.js steps from CI (not yet exercised in a real CI run).
 5. Done: Hugo `.deb` sha256 verified against the release checksums file.
 6. Done: README no longer hard-codes the Hugo version.
-7. Open: `static/pdf` (11 files, 21M); all 11 are referenced by `content/publications.md`; compression not yet evaluated.
-8. Open: `llms-full.txt` shows `Venue: Venue: ...` (fix in `layouts/index.llmsfull.txt`).
+7. Closed: `static/pdf` (11 files, 21M) is all referenced by `content/publications.md`; owner decided not to compress the PDFs.
+8. Done: `llms-full.txt` no longer repeats `Venue:` (talk descriptions already start with it; template now prints them as-is).
 9. Open: work is on branch `papermod`; only `main` deploys, so merge to `main` after a CI run.
 
 ## Status
-In progress. Items 1-6 done; 7 and 8 open.
+Items 1-8 done. Remaining: item 9 (merge `papermod` to `main`, which deploys).
 
 
 ## timeline
@@ -64,4 +64,10 @@ In progress. Items 1-6 done; 7 and 8 open.
   kind: evidence
   summary: "CI run 45594103701 on throwaway branch ci-verify (build-only): Hugo .deb sha256 OK, no Sass/Node steps, build exit 0 with no WARN, 197 pages, deploy skipped. Branch deleted."
   source: CI run 2026-11-25
+  affects: [optimization-backlog]
+
+- time: 2026-11-25T19:06:36
+  kind: decision
+  summary: "Fix llms-full Venue duplication; PDF compression declined"
+  source: Work session 2026-11-25
   affects: [optimization-backlog]

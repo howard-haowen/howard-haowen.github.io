@@ -25,7 +25,6 @@ Personal portfolio site (https://hw.is-a.dev/) built with Hugo. The PaperMod the
 - `params.env: production` in `hugo.yaml` turns on production-only theme output (OG, Twitter, schema, robots index) in every environment, including `hugo server`.
 - Pushes to `main` deploy to production. Manual dispatch of `.github/workflows/deploy2pages.yml` also deploys, from whichever ref it runs on. Git-ignored paths (`public/`, `resources/_gen/`, `plans/`, `.github/prompts/`) never reach CI.
 - Hero title, subtitle, and image come from `hugo.yaml` `params.profileMode`. The kicker, gloss strip, field card, and route cards are hard-coded in `layouts/_partials/index_profile.html`. `profileMode.buttons` is unused.
-- Known defect, not yet fixed: talk descriptions start with `Venue: `, and `layouts/index.llmsfull.txt` adds another prefix, so `llms-full.txt` shows `Venue: Venue: ...`.
 
 ## Layout
 - `content/talks/<YYYY>-<venue>[-n]/` and `content/certifications/<slug>/` are page bundles: `index.md` plus its cover image beside it. Talk and certification `_index.md` files set `type` and `cascade`.
