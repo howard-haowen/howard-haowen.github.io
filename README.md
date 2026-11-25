@@ -66,12 +66,10 @@ flowchart TD
   subgraph "Build Job"
     direction TB
     B0["Job: build<br>runs-on: ubuntu-latest"]:::job
-    Benv["Env:<br>HUGO_VERSION=0.166.0"]:::env
-    B1["Install Hugo CLI"]:::step
-    B2["Install Dart Sass"]:::step
+    Benv["Env:<br>HUGO_VERSION (pinned in workflow)"]:::env
+    B1["Install Hugo CLI<br>sha256 checksum verified"]:::step
     B3["Checkout Repo<br>submodules: recursive"]:::step
     B4["Setup Pages<br>id: pages"]:::step
-    B5["Install Node.js dependencies<br>npm ci if lockfile exists"]:::step
     B6["Build with Hugo<br>env:<br>HUGO_CACHEDIR, HUGO_ENVIRONMENT=production<br>args: --minify --baseURL"]:::step
     B7["Upload artifact<br>path: ./public"]:::step
   end
@@ -110,11 +108,9 @@ flowchart TD
 
   %% Build Steps
   B0 --> B1
-  B1 --> B2
-  B2 --> B3
+  B1 --> B3
   B3 --> B4
-  B4 --> B5
-  B5 --> B6
+  B4 --> B6
   B6 --> B7
 
   %% Deploy Steps
@@ -139,7 +135,6 @@ flowchart TD
   click C1 "https://docs.github.com/en/actions/using-jobs/using-concurrency" "Concurrency Control"
   click D1 "https://docs.github.com/en/actions/using-jobs/workflow-syntax-for-github-actions#defaultsrun" "Default Shell"
   click B1 "https://github.com/gohugoio/hugo/releases" "Hugo Releases"
-  click B2 "https://snapcraft.io/dart-sass" "Dart Sass Snap"
   click B3 "https://github.com/actions/checkout" "actions/checkout"
   click B4 "https://github.com/actions/configure-pages" "actions/configure-pages"
   click B7 "https://github.com/actions/upload-pages-artifact" "upload-pages-artifact"
