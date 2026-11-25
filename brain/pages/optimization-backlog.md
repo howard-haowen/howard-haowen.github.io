@@ -5,7 +5,7 @@ category: project
 status: active
 tags: [optimization, papermod, ci, hugo]
 created: "2026-11-25T07:26:34"
-updated: "2026-11-25T18:06:08"
+updated: "2026-11-25T18:27:10"
 ---
 
 ## compiled_truth
@@ -58,4 +58,10 @@ In progress. Items 1-6 done; 7 and 8 open.
   kind: decision
   summary: "Theme upgraded to v8.0-152, overrides cut to 6 files, CI cleaned; items 7-8 still open"
   source: Work session 2026-11-25
+  affects: [optimization-backlog]
+
+- time: 2026-11-25T18:27:10
+  kind: evidence
+  summary: "CI run 45594103701 on throwaway branch ci-verify (build-only): Hugo .deb sha256 OK, no Sass/Node steps, build exit 0 with no WARN, 197 pages, deploy skipped. Branch deleted."
+  source: CI run 2026-11-25
   affects: [optimization-backlog]
