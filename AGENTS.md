@@ -31,7 +31,7 @@ Personal portfolio site (https://hw.is-a.dev/) built with Hugo. The PaperMod the
 - `layouts/index.llmsfull.txt` generates `llms-full.txt` from hard-coded pages and section names. `static/llms.txt` is hand-written.
 - `assets/css/extended/*.css` is concatenated after theme CSS. Put new CSS there.
 - Keep `static/CNAME` (custom domain).
-- Don't edit generated output (`public/`, `resources/_gen/`) or `themes/PaperMod/`. `.worktrees/papermod-revisions/` is a separate git worktree.
+- Don't edit generated output (`public/`, `resources/_gen/`) or `themes/PaperMod/`.
 
 ## Code style
 - Partials are called by name: `partial "x.html" .`. No imports.
