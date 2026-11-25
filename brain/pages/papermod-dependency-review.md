@@ -5,7 +5,7 @@ category: reference
 status: active
 tags: [papermod, hugo, theme, optimization, review]
 created: "2026-11-25T07:32:37"
-updated: "2026-11-25T07:32:37"
+updated: "2026-11-25T18:06:18"
 ---
 
 ## compiled_truth
@@ -67,4 +67,10 @@ updated: "2026-11-25T07:32:37"
   kind: decision
   summary: "Record the full 2026-11-24 review text: PaperMod dependency analysis and recommended optimizations"
   source: Project review on 2026-11-24
+  affects: [papermod-dependency-review]
+
+- time: 2026-11-25T18:06:18
+  kind: note
+  summary: "Upgrade done 2026-11-25: theme at 1181196 (v8.0-152), overrides reduced to 6, no WARN; see optimization-backlog"
+  source: Work session 2026-11-25
   affects: [papermod-dependency-review]

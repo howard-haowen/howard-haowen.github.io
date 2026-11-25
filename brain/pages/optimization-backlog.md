@@ -5,7 +5,7 @@ category: project
 status: active
 tags: [optimization, papermod, ci, hugo]
 created: "2026-11-25T07:26:34"
-updated: "2026-11-25T07:32:37"
+updated: "2026-11-25T18:06:08"
 ---
 
 ## compiled_truth
@@ -14,25 +14,24 @@ updated: "2026-11-25T07:32:37"
 Reduce maintenance cost of the Hugo + PaperMod site and keep CI and docs consistent. Baseline tag: `pre-optimization-baseline` (e9bb69f).
 
 ## Dependency: themes/PaperMod
-- Submodule pinned at `5a46517` (v8.0-32); upstream `origin/master` is v8.0-152, 120 commits behind.
-- Upstream moved `layouts/_default/*` to `layouts/`, `layouts/partials/*` to `layouts/_partials/*`, `shortcodes/` to `_shortcodes/`; upstream `min_version` is 0.158.0 (local and CI Hugo is 0.166.0, so OK).
-- Upstream `a5d59c7` fixes the Hugo 0.158 deprecations, which should clear the two expected WARN lines (`.Language.LanguageDirection`, `.Language.LanguageCode`). Not yet verified.
-- 9 project files replace theme files whole. `layouts/partials/share_icons.html` is byte-identical to the pinned theme file. The other 8 differ. `assets/css/common/post-single.css` diverges most from upstream (+68/-263).
-- Project overrides still sit at the old paths; assumed (not verified) that Hugo's compatibility keeps project files taking precedence after an upgrade.
+- Upgraded 2026-11-25 to `1181196` (v8.0-152) on branch `papermod`, via `.worktrees/papermod-revisions` (branch `papermod-upgrade`). Build: exit 0, no WARN.
+- Upstream moved dark mode from `body.dark` to `html[data-theme]`. Project CSS now uses `[data-theme="dark"]`, and dark custom properties go in `:root[data-theme="dark"]` (specificity must beat the theme's `:root[data-theme="dark"]`).
+- 6 files still replace theme files: `layouts/list.html`, `layouts/single.html`, `layouts/robots.txt`, `layouts/_partials/{index_profile,post_nav_links,extend_head}.html`. Removed: `share_icons.html` (identical), `header.html` (mobile menu toggle now built in JS from `extend_footer.html`), `post-single.css` (share-button rules moved to extended CSS).
+- Verified with before/after screenshots (home, talk, certifications; light/dark; desktop and mobile menu). Known cosmetic differences: breadcrumb separators are now chevrons; `.header-nav` replaces `.nav`.
 
-## Recommended items
-1. Delete `layouts/partials/share_icons.html` (identical to theme, blocks future updates) and drop it from the AGENTS.md override list.
-2. Upgrade PaperMod in `.worktrees/papermod-revisions` first; diff each override against upstream, run `hugo --minify`, confirm the WARN lines disappear.
-3. Shrink override scope: keep `extend_head.html` (theme hook); evaluate whether `header.html`, `post_nav_links.html`, `single.html`, `list.html`, and `post-single.css` can move to `assets/css/extended/` or other hooks.
-4. CI: the `Install Dart Sass` step looks unused (no .scss/.sass files); `Install Node.js dependencies` is a no-op without `package-lock.json`. Verify with a CI run before removing.
-5. CI: Hugo `.deb` is downloaded with `wget` and installed without checksum verification; use an action or verify a checksum.
-6. Hugo version is written in three places (`deploy2pages.yml`, README mermaid diagram, AGENTS.md); consider not hard-coding it in README.
-7. `static/` is 22M, of which `static/pdf` (11 files) is 21M; check for unreferenced or compressible PDFs.
-8. Fix the known defect: `llms-full.txt` shows `Venue: Venue: ...` (fix in `layouts/index.llmsfull.txt`).
-9. Housekeeping: work is on branch `papermod`; only `main` deploys, so confirm the branch strategy before the theme upgrade.
+## Items
+1. Done: delete `share_icons.html`, update AGENTS.md.
+2. Done: theme upgrade (see above).
+3. Done: override scope shrunk from 9 to 6 files.
+4. Done: removed Dart Sass and Node.js steps from CI (not yet exercised in a real CI run).
+5. Done: Hugo `.deb` sha256 verified against the release checksums file.
+6. Done: README no longer hard-codes the Hugo version.
+7. Open: `static/pdf` (11 files, 21M); all 11 are referenced by `content/publications.md`; compression not yet evaluated.
+8. Open: `llms-full.txt` shows `Venue: Venue: ...` (fix in `layouts/index.llmsfull.txt`).
+9. Open: work is on branch `papermod`; only `main` deploys, so merge to `main` after a CI run.
 
 ## Status
-Not started. Already done: Hugo bump to 0.166.0 (ff45a81), `locale` key (b1a960c), ignore `tmp/` and `.bob/`, add AGENTS.md.
+In progress. Items 1-6 done; 7 and 8 open.
 
 
 ## timeline
@@ -54,3 +53,9 @@ Not started. Already done: Hugo bump to 0.166.0 (ff45a81), `locale` key (b1a960c
   summary: "Full review text recorded in papermod-dependency-review; item 9 first bullet is done (AGENTS.md committed, .bob/ ignored)"
   source: Project review on 2026-11-24
   affects: [papermod-dependency-review]
+
+- time: 2026-11-25T18:06:08
+  kind: decision
+  summary: "Theme upgraded to v8.0-152, overrides cut to 6 files, CI cleaned; items 7-8 still open"
+  source: Work session 2026-11-25
+  affects: [optimization-backlog]
