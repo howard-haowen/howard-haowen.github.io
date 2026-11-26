@@ -90,7 +90,7 @@ button {
 .post-title,
 .page-header h1,
 .portfolio-hero h1,
-.route-card strong {
+.route-card .route-title {
   text-wrap: balance;
 }
 
@@ -569,7 +569,7 @@ button {
   overflow-wrap: anywhere;
 }
 
-.route-card strong {
+.route-card .route-title {
   color: var(--portfolio-estuary);
   font-family: "Fraunces", Georgia, serif;
   font-size: clamp(1.1rem, 2.2cqw, 1.45rem);
@@ -577,6 +577,7 @@ button {
   font-weight: 760;
   letter-spacing: -0.05em;
   line-height: 1.1;
+  margin: 0;
   overflow-wrap: anywhere;
 }
 
@@ -593,7 +594,7 @@ button {
   border-color: color-mix(in srgb, var(--portfolio-jade) 52%, var(--border));
 }
 
-[data-theme="dark"] .route-card strong {
+[data-theme="dark"] .route-card .route-title {
   color: var(--primary);
 }
 

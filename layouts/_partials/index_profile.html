@@ -3,7 +3,7 @@
     <div class="profile_inner portfolio-hero">
         <div class="hero-copy">
             <p class="hero-kicker">Applied AI · Linguistics</p>
-            <h1 id="portfolio-title">{{ .title | default site.Title | markdownify }}</h1>
+            <h1 id="portfolio-title" translate="no">{{ .title | default site.Title | markdownify }}</h1>
             <div class="gloss-strip" role="group" aria-label="Portfolio focus">
                 <span class="gloss-unit"><b>language</b><small>meaning</small></span>
                 <span class="gloss-arrow" aria-hidden="true">→</span>
@@ -19,7 +19,7 @@
 
         {{- if .imageUrl -}}
         <aside class="hero-field-card" aria-label="Annotated profile card">
-            <div class="field-card-label">field card</div>
+            <div class="field-card-label">Field Card</div>
             <div class="hero-portrait">
                 {{- $img := "" }}
                 {{- if not (urls.Parse .imageUrl).IsAbs }}
@@ -39,22 +39,22 @@
                             {{- $img = $img.Resize "420x420" }}
                         {{- end }}
                     {{- end }}
-                    <img draggable="false" src="{{ $img.Permalink }}" alt="{{ .imageTitle | default "profile image" }}" title="{{ .imageTitle }}" height="420" width="420" />
+                    <img draggable="false" src="{{ $img.Permalink }}" alt="{{ .imageTitle | default "profile image" }}" title="{{ .imageTitle }}" height="420" width="420" fetchpriority="high" decoding="async" />
                 {{- else }}
-                    <img draggable="false" src="{{ .imageUrl | absURL }}" alt="{{ .imageTitle | default "profile image" }}" title="{{ .imageTitle }}" height="420" width="420" />
+                    <img draggable="false" src="{{ .imageUrl | absURL }}" alt="{{ .imageTitle | default "profile image" }}" title="{{ .imageTitle }}" height="420" width="420" fetchpriority="high" decoding="async" />
                 {{- end }}
             </div>
             <dl class="field-card-meta">
                 <div>
-                    <dt>discipline</dt>
+                    <dt>Discipline</dt>
                     <dd>AI engineering</dd>
                 </div>
                 <div>
-                    <dt>lens</dt>
+                    <dt>Lens</dt>
                     <dd>linguistics</dd>
                 </div>
                 <div>
-                    <dt>output</dt>
+                    <dt>Output</dt>
                     <dd>tools · talks · research</dd>
                 </div>
             </dl>
@@ -65,24 +65,24 @@
     <nav class="portfolio-routes" aria-label="Choose a portfolio route">
         <p class="routes-kicker">If you are here to</p>
         <div class="route-grid">
-            <a class="route-card" href="/talks/">
+            <a class="route-card" href="{{ "talks/" | relURL }}">
                 <span class="route-intent">Invite me</span>
-                <strong>Talks</strong>
+                <h2 class="route-title">Talks</h2>
                 <span>Public talks on AI, linguistics, and data practice.</span>
             </a>
-            <a class="route-card" href="/certifications/">
+            <a class="route-card" href="{{ "certifications/" | relURL }}">
                 <span class="route-intent">Verify credentials</span>
-                <strong>Certifications</strong>
+                <h2 class="route-title">Certifications</h2>
                 <span>Verified training across AI, data, cloud, and platforms.</span>
             </a>
-            <a class="route-card" href="/work/">
+            <a class="route-card" href="{{ "work/" | relURL }}">
                 <span class="route-intent">Build with me</span>
-                <strong>Work</strong>
+                <h2 class="route-title">Work</h2>
                 <span>Applied AI systems, tools, and research prototypes.</span>
             </a>
-            <a class="route-card" href="/publications/">
+            <a class="route-card" href="{{ "publications/" | relURL }}">
                 <span class="route-intent">Check the research</span>
-                <strong>Publications</strong>
+                <h2 class="route-title">Publications</h2>
                 <span>Academic research grounding the language portfolio.</span>
             </a>
         </div>
