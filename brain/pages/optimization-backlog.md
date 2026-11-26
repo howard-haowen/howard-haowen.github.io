@@ -5,7 +5,7 @@ category: project
 status: active
 tags: [optimization, papermod, ci, hugo]
 created: "2026-11-25T07:26:34"
-updated: "2026-11-26T11:16:44"
+updated: "2026-11-26T15:53:20"
 ---
 
 ## compiled_truth
@@ -28,10 +28,10 @@ Reduce maintenance cost of the Hugo + PaperMod site and keep CI and docs consist
 6. Done: README no longer hard-codes the Hugo version.
 7. Closed: `static/pdf` (11 files, 21M) is all referenced by `content/publications.md`; owner decided not to compress the PDFs.
 8. Done: `llms-full.txt` no longer repeats `Venue:` (talk descriptions already start with it; template now prints them as-is).
-9. Open: work is on branch `papermod`; only `main` deploys, so merge to `main` after a CI run.
+9. Done: `papermod` merged to `main` (fast-forward) and deployed 2026-11-26; CI run 45777793173 succeeded. Follow-up UI work: [[web-design-guidelines-audit]].
 
 ## Status
-Items 1-8 done. Remaining: item 9 (merge `papermod` to `main`, which deploys).
+All items done or closed.
 
 
 ## timeline
@@ -77,3 +77,9 @@ Items 1-8 done. Remaining: item 9 (merge `papermod` to `main`, which deploys).
   summary: "Follow-up work tracked in web-design-guidelines-audit (UI audit against Web Interface Guidelines)"
   source: Work session 2026-11-26
   affects: [optimization-backlog, web-design-guidelines-audit]
+
+- time: 2026-11-26T15:53:20
+  kind: decision
+  summary: "Item 9 done: merged to main and deployed"
+  source: Work session 2026-11-26
+  affects: [optimization-backlog]
