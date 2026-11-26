@@ -5,7 +5,7 @@ category: project
 status: active
 tags: [a11y, css, hugo, optimization]
 created: "2026-11-26T11:16:43"
-updated: "2026-11-26T11:16:44"
+updated: "2026-11-26T15:33:59"
 ---
 
 ## compiled_truth
@@ -28,7 +28,7 @@ Bring the portfolio site (https://hw.is-a.dev/) in line with the Vercel Web Inte
 6. Final verification: production build, curl status checks, unquoted-attribute greps on minified output, viewport (375/820/1280), dark mode, reduced-motion, keyboard.
 
 ## Status
-Audit and plan written 2026-11-26. No implementation yet. Plan file lives in `plans/`, which is git-ignored, so it exists only locally.
+Implemented 2026-11-26 on branch `papermod` (tag `pre-web-design-guidelines` marks the state before). Subtasks 1-4 and 6 as planned. Subtask 5 deviation: Google Fonts left unchanged, because narrowing axis ranges did not reduce the number of `@font-face` blocks (45) and every weight 400-800 is used; only `theme-color` was changed (`hugo.yaml` now `#f5f1e6`, `extend_footer.html` syncs it from `--theme` on theme toggle). The image hook (`layouts/_markup/render-image.html`) reads Credly sizes from the URL, static sizes via `images.Config`, and falls back to "<page title> badge" alt only in `certifications`; the two logos in `content/profile.md` got explicit alt text. Verified: production build exit 0 with no WARN/ERROR, no horizontal overflow at 375/820/1280 px, skip link is the first Tab stop, Escape returns focus to the menu toggle. Not yet merged to `main` (only `main` deploys).
 
 
 ## timeline
@@ -43,4 +43,10 @@ Audit and plan written 2026-11-26. No implementation yet. Plan file lives in `pl
   kind: decision
   summary: "Record the audit findings and 6-subtask plan; implementation not started"
   source: plans/web-design-guidelines-plan.md
+  affects: [web-design-guidelines-audit]
+
+- time: 2026-11-26T15:33:59
+  kind: decision
+  summary: "Implementation complete; font change dropped as ineffective"
+  source: Work session 2026-11-26
   affects: [web-design-guidelines-audit]
