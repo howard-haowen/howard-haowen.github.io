@@ -5,7 +5,7 @@ category: project
 status: active
 tags: [optimization, papermod, ci, hugo]
 created: "2026-11-25T07:26:34"
-updated: "2026-11-25T19:06:36"
+updated: "2026-11-26T11:16:44"
 ---
 
 ## compiled_truth
@@ -71,3 +71,9 @@ Items 1-8 done. Remaining: item 9 (merge `papermod` to `main`, which deploys).
   summary: "Fix llms-full Venue duplication; PDF compression declined"
   source: Work session 2026-11-25
   affects: [optimization-backlog]
+
+- time: 2026-11-26T11:16:44
+  kind: note
+  summary: "Follow-up work tracked in web-design-guidelines-audit (UI audit against Web Interface Guidelines)"
+  source: Work session 2026-11-26
+  affects: [optimization-backlog, web-design-guidelines-audit]
