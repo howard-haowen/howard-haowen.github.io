@@ -11,6 +11,14 @@
             document.body.insertBefore(skip, document.body.firstChild);
         }
 
+        var themeColor = document.querySelector('meta[name="theme-color"]');
+        function syncThemeColor() {
+            var color = getComputedStyle(document.documentElement).getPropertyValue('--theme').trim();
+            if (themeColor && color) themeColor.setAttribute('content', color);
+        }
+        syncThemeColor();
+        new MutationObserver(syncThemeColor).observe(document.documentElement, { attributes: true, attributeFilter: ['data-theme'] });
+
         var nav = document.querySelector('.header-nav');
         var menu = document.getElementById('menu');
         if (!nav || !menu) return;

@@ -97,7 +97,7 @@ params:
     favicon32x32: "/favicon-32x32.png"
     apple_touch_icon: "/apple-touch-icon.png"
     safari_pinned_tab: "/favicon.ico"
-    theme_color: "#0b3b4a" # hex color for theme color
+    theme_color: "#f5f1e6" # light page background; extend_footer.html syncs it with the active theme
   urls:
     shibatani: "https://profiles.rice.edu/faculty/masayoshi-matt-shibatani"
     pardeshi: "https://researchmap.jp/Prashant_Pardeshi"
