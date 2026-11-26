@@ -41,6 +41,43 @@ body {
   background: var(--theme);
 }
 
+a,
+button {
+  -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
+}
+
+.skip-link {
+  background: var(--portfolio-estuary);
+  border-radius: 999px;
+  color: var(--portfolio-paper);
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.8rem;
+  font-weight: 600;
+  left: 1rem;
+  padding: 0.6rem 1rem;
+  position: fixed;
+  text-decoration: none;
+  top: 0.75rem;
+  transform: translateY(-200%);
+  z-index: 100;
+}
+
+.skip-link:focus-visible {
+  transform: translateY(0);
+}
+
+[data-theme="dark"] .skip-link {
+  background: var(--primary);
+  color: var(--portfolio-estuary);
+}
+
+.post-content h2,
+.post-content h3,
+.post-content h4 {
+  scroll-margin-top: calc(var(--header-height) + 1rem);
+}
+
 
 .logo a,
 .post-title,
@@ -48,6 +85,13 @@ body {
 .portfolio-hero h1 {
   font-family: "Fraunces", Georgia, serif;
   font-variation-settings: "SOFT" 70, "opsz" 72;
+}
+
+.post-title,
+.page-header h1,
+.portfolio-hero h1,
+.route-card strong {
+  text-wrap: balance;
 }
 
 .logo a {
@@ -66,7 +110,7 @@ body {
   border-radius: 999px;
   color: var(--secondary);
   font-family: "IBM Plex Mono", monospace;
-  font-size: 0.74rem;
+  font-size: 0.75rem;
   font-weight: 500;
   letter-spacing: 0.02em;
   padding: 0.46rem 0.68rem;
@@ -94,7 +138,7 @@ body {
   cursor: pointer;
   display: none;
   font-family: "IBM Plex Mono", monospace;
-  font-size: 0.72rem;
+  font-size: 0.75rem;
   font-weight: 600;
   gap: 0.5rem;
   letter-spacing: 0.04em;
@@ -110,7 +154,6 @@ body {
   border-radius: 999px;
   display: block;
   height: 2px;
-  transition: transform 160ms ease, opacity 160ms ease;
   width: 16px;
 }
 
@@ -155,6 +198,7 @@ body {
 .main .profile.portfolio-profile {
   display: block;
   min-height: calc(100vh - var(--header-height) - var(--footer-height));
+  min-height: calc(100svh - var(--header-height) - var(--footer-height));
   padding-bottom: clamp(2rem, 6vw, 5rem);
   text-align: left;
   width: 100%;
@@ -168,6 +212,7 @@ body {
   margin-inline: auto;
   max-width: 1100px;
   min-height: 62vh;
+  min-height: 62svh;
   text-align: left;
 }
 
@@ -252,7 +297,7 @@ body {
 .gloss-arrow {
   color: var(--secondary);
   font-family: "IBM Plex Mono", monospace;
-  font-size: 0.68rem;
+  font-size: 0.75rem;
   text-transform: uppercase;
 }
 
@@ -279,7 +324,7 @@ body {
 .field-card-label {
   color: var(--portfolio-signal);
   font-family: "IBM Plex Mono", monospace;
-  font-size: 0.68rem;
+  font-size: 0.75rem;
   font-weight: 600;
   letter-spacing: 0.12em;
   text-transform: uppercase;
@@ -333,7 +378,7 @@ body {
 .field-card-meta dt {
   color: var(--secondary);
   font-family: "IBM Plex Mono", monospace;
-  font-size: 0.66rem;
+  font-size: 0.75rem;
   letter-spacing: 0.09em;
   text-transform: uppercase;
 }
@@ -392,7 +437,6 @@ body {
 .button:hover {
   background: var(--portfolio-estuary);
   color: var(--portfolio-paper);
-  transform: translateY(-1px);
 }
 
 [data-theme="dark"] .button {
@@ -491,7 +535,7 @@ body {
 .route-intent {
   color: var(--portfolio-signal);
   font-family: "IBM Plex Mono", monospace;
-  font-size: 0.72rem;
+  font-size: 0.75rem;
   font-weight: 600;
   letter-spacing: 0.09em;
   text-transform: uppercase;
@@ -515,14 +559,14 @@ body {
   color: var(--content);
   display: grid;
   gap: 0;
-  grid-template-rows: 1.35rem auto auto;
+  grid-template-rows: minmax(1.35rem, auto) auto auto;
   min-height: 11rem;
   padding: 1rem;
   text-decoration: none;
 }
 .route-card .route-intent {
   align-self: start;
-  white-space: nowrap;
+  overflow-wrap: anywhere;
 }
 
 .route-card strong {
@@ -533,7 +577,7 @@ body {
   font-weight: 760;
   letter-spacing: -0.05em;
   line-height: 1.1;
-  white-space: nowrap;
+  overflow-wrap: anywhere;
 }
 
 .route-card span:last-child {
@@ -547,7 +591,6 @@ body {
 
 .route-card:hover {
   border-color: color-mix(in srgb, var(--portfolio-jade) 52%, var(--border));
-  transform: translateY(-2px);
 }
 
 [data-theme="dark"] .route-card strong {
@@ -557,7 +600,7 @@ body {
 .footer {
   color: var(--secondary);
   font-family: "IBM Plex Mono", monospace;
-  font-size: 0.72rem;
+  font-size: 0.75rem;
   text-transform: uppercase;
 }
 
@@ -570,12 +613,27 @@ body {
   .hero-field-card,
   .gloss-strip,
   .hero-actions .button,
+  .button,
   .route-card {
     transition: border-color 160ms ease, box-shadow 160ms ease, color 160ms ease, background-color 160ms ease, transform 160ms ease;
   }
 
+  .menu-toggle-icon,
+  .menu-toggle-icon::before,
+  .menu-toggle-icon::after {
+    transition: transform 160ms ease, opacity 160ms ease;
+  }
+
   .hero-field-card:hover {
     transform: rotate(-0.7deg) translateY(-2px);
+  }
+
+  .button:hover {
+    transform: translateY(-1px);
+  }
+
+  .route-card:hover {
+    transform: translateY(-2px);
   }
 }
 
@@ -637,7 +695,7 @@ body {
   }
 
   #menu a {
-    font-size: 0.72rem;
+    font-size: 0.75rem;
     min-height: 44px;
   }
 
@@ -653,6 +711,7 @@ body {
     margin: 0;
     max-height: min(70vh, 520px);
     overflow-y: auto;
+    overscroll-behavior: contain;
     padding: 0.55rem;
     position: absolute;
     right: var(--gap);
@@ -695,10 +754,6 @@ body {
     height: 96px;
   }
 
-
-  #menu a {
-    font-size: 0.68rem;
-  }
 }
 
 /* Share buttons: inline row inside .post-header (see layouts/single.html) */

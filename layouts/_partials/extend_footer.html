@@ -1,6 +1,16 @@
 {{- /* Mobile menu toggle: built in JS so the theme's header.html needs no override. Styles: assets/css/extended/portfolio-redesign.css */ -}}
 <script>
     (function () {
+        var main = document.querySelector('main.main');
+        if (main) {
+            main.id = main.id || 'main-content';
+            var skip = document.createElement('a');
+            skip.className = 'skip-link';
+            skip.href = '#' + main.id;
+            skip.textContent = 'Skip to Main Content';
+            document.body.insertBefore(skip, document.body.firstChild);
+        }
+
         var nav = document.querySelector('.header-nav');
         var menu = document.getElementById('menu');
         if (!nav || !menu) return;
@@ -27,7 +37,10 @@
             if (event.target.closest('a')) close();
         });
         document.addEventListener('keydown', function (event) {
-            if (event.key === 'Escape') close();
+            if (event.key === 'Escape' && nav.classList.contains('is-menu-open')) {
+                close();
+                button.focus();
+            }
         });
     }());
 </script>
