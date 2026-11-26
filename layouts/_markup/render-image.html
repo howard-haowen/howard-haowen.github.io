@@ -1,0 +1,33 @@
+{{- /* Image render hook: lazy loading, intrinsic size (avoids layout shift), and an alt fallback for certification badges. */ -}}
+{{- $dest := .Destination -}}
+{{- $alt := .PlainText -}}
+{{- if and (not $alt) (eq .Page.Section "certifications") -}}
+  {{- $alt = printf "%s badge" .Page.Title -}}
+{{- end -}}
+{{- $src := $dest -}}
+{{- $w := 0 -}}
+{{- $h := 0 -}}
+{{- if (urls.Parse $dest).IsAbs -}}
+  {{- /* Remote badge URLs (Credly) carry their size, e.g. .../size/340x340/... */ -}}
+  {{- with findRESubmatch `/size/(\d+)x(\d+)/` $dest 1 -}}
+    {{- $w = int (index (index . 0) 1) -}}
+    {{- $h = int (index (index . 0) 2) -}}
+  {{- end -}}
+{{- else if hasPrefix $dest "/" -}}
+  {{- $path := printf "static%s" $dest -}}
+  {{- if fileExists $path -}}
+    {{- $cfg := images.Config $path -}}
+    {{- $w = $cfg.Width -}}
+    {{- $h = $cfg.Height -}}
+  {{- end -}}
+{{- else -}}
+  {{- with .Page.Resources.Get $dest -}}
+    {{- $src = .RelPermalink -}}
+    {{- $w = .Width -}}
+    {{- $h = .Height -}}
+  {{- end -}}
+{{- end -}}
+<img src="{{ $src }}" alt="{{ $alt }}"
+  {{- with .Title }} title="{{ . }}"{{ end -}}
+  {{- if and $w $h }} width="{{ $w }}" height="{{ $h }}"{{ end }} loading="lazy" decoding="async">
+{{- /* chomp */ -}}

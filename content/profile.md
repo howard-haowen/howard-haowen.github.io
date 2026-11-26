@@ -28,7 +28,7 @@ draft: false
 
 ### Rice University
 
-![](/rice-logo.png)
+![Rice University logo](/rice-logo.png)
 
 - Ph.D., [Department of Linguistics](https://linguistics.rice.edu/), Rice University, Houston, Texas, USA
 
@@ -36,7 +36,7 @@ draft: false
 
 ### National Taiwan University
 
-![](/ntu-logo.png)
+![National Taiwan University logo](/ntu-logo.png)
 
 - M.A., [Graduate Institute of Linguistics](https://linguistics.ntu.edu.tw/), National Taiwan University, Taipei, Taiwan
 

@@ -513,6 +513,7 @@ button {
 }
 
 .post-content img {
+  height: auto;
   border: 1px solid var(--border);
   border-radius: 16px;
   box-shadow: 0 16px 44px rgba(16, 24, 32, 0.10);
